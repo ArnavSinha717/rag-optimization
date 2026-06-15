@@ -1,0 +1,36 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+# Local data
+data/
+*.csv
+credentials*.csv
+rootkey.csv
+
+# Notebooks — scratch/exploration only; rag.ipynb has credentials in cell outputs. Never commit.
+# The clean, runnable evaluation code lives in eval/*.py instead.
+*.ipynb
+
+# Logs
+*.log
+
+# Results live in results/ (separate from the eval/ test code).
+# Regenerable caches are prefixed cache_ (embeddings, hypotheses, rephrasings) or suffixed
+# _contexts/_answers (RAGAS intermediates). The descriptive-named evidence files are committed.
+results/cache_*
+results/*_contexts.json
+results/*_answers.json
+results/query_embed_cache*.json
+# Part-1 per-question RAGAS judgments — bulky (~2MB) and redundant with the aggregate ledger.json.
+# (The Part-2 scaled-study per-question file, ragas_champion_perq.json, IS kept.)
+results/ragas59_*_perq.json
+results/*_FULL_perq.json

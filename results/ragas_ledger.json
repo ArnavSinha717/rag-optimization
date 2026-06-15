@@ -1,0 +1,82 @@
+{
+  "v01_pdfplumber_fixed2000": {
+    "variant_id": "v01_pdfplumber_fixed2000",
+    "judge": "qwen2.5:3b",
+    "context_recall": 0.7761904761904762,
+    "context_precision": 0.39999999996138885
+  },
+  "v05_v01_rerank": {
+    "variant_id": "v05_v01_rerank",
+    "judge": "qwen2.5:3b",
+    "context_recall": 0.8571428571428571,
+    "context_precision": 0.2725925925679506
+  },
+  "v04_recursive_rerank_FULL": {
+    "variant_id": "v04_recursive_rerank_FULL",
+    "judge": "qwen2.5:7b-instruct",
+    "generator": "qwen2.5:3b",
+    "n_questions": 32,
+    "context_recall": 0.95625,
+    "faithfulness": 0.7057291666666667,
+    "answer_relevancy": 0.7244141170687509,
+    "context_precision": 0.7937499999375999
+  },
+  "v04_rerank_strict7b_FULL": {
+    "variant_id": "v04_rerank_strict7b_FULL",
+    "judge": "qwen2.5:7b-instruct",
+    "generator": "qwen2.5:7b-instruct",
+    "prompt": "strict",
+    "n_questions": 32,
+    "context_recall": 0.925,
+    "faithfulness": 0.6953125,
+    "answer_relevancy": 0.7283812807547225,
+    "context_precision": 0.7937499999375999
+  },
+  "champion_hyde_rerank_FULL": {
+    "variant_id": "champion_hyde_rerank_FULL",
+    "retrieval": "v04 recursive + HyDE + rerank",
+    "generator": "qwen2.5:7b-instruct",
+    "judge": "qwen2.5:7b-instruct",
+    "n_questions": 32,
+    "context_recall": 0.925,
+    "faithfulness": 0.7956989247311828,
+    "answer_relevancy": 0.6820894928734316,
+    "context_precision": 0.8532552082676226
+  },
+  "ragas59_baseline": {
+    "variant_id": "ragas59_baseline",
+    "retrieval": "baseline",
+    "n_questions": 59,
+    "generator": "qwen2.5:7b-instruct (concise)",
+    "judge": "qwen2.5:7b-instruct",
+    "context_recall": 0.9084745762711864,
+    "faithfulness": 0.7994350282485875,
+    "answer_relevancy": 0.7423923091980289,
+    "context_precision": 0.8274011298754919
+  },
+  "ragas59_hyde": {
+    "variant_id": "ragas59_hyde",
+    "retrieval": "hyde",
+    "n_questions": 59,
+    "generator": "qwen2.5:7b-instruct (concise)",
+    "judge": "qwen2.5:7b-instruct",
+    "context_recall": 0.9084745762711864,
+    "faithfulness": 0.8276836158192089,
+    "answer_relevancy": 0.7326119674239657,
+    "context_precision": 0.8348163841116625
+  },
+  "ragas_v10_champion": {
+    "variant_id": "ragas_v10_champion",
+    "n_questions": 189,
+    "retrieval": "vector+rerank",
+    "generator": "qwen2.5:7b (concise)",
+    "judge": "qwen2.5:7b",
+    "context_recall": 0.7862433862433862,
+    "faithfulness": 0.7258652094717669,
+    "answer_relevancy": 0.7307085025366193,
+    "answer_correctness": 0.5358569749657517,
+    "context_precision": 0.6346702316814468,
+    "faithfulness_answered_only": 0.8502252252252253,
+    "refusal_rate": 0.18518518518518523
+  }
+}

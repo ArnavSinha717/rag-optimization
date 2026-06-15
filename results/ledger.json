@@ -1,0 +1,20 @@
+{
+  "v01_pdfplumber_fixed2000": {
+    "variant_id": "v01_pdfplumber_fixed2000",
+    "k": 5,
+    "n_questions": 37,
+    "doc_recall_at_k": 1.0,
+    "passage_recall_at_k": 0.84375,
+    "answer_correctness": 0.609375,
+    "refusal_rate": 1.0
+  },
+  "v02_pdfplumber_fixed1000": {
+    "variant_id": "v02_pdfplumber_fixed1000",
+    "k": 5,
+    "n_questions": 37,
+    "doc_recall_at_k": 1.0,
+    "passage_recall_at_k": 0.75,
+    "answer_correctness": 0.5,
+    "refusal_rate": 0.8
+  }
+}

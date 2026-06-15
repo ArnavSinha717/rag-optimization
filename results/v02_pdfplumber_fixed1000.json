@@ -1,0 +1,716 @@
+{
+  "variant_id": "v02_pdfplumber_fixed1000",
+  "k": 5,
+  "metrics": {
+    "n_questions": 37,
+    "doc_recall_at_k": 1.0,
+    "passage_recall_at_k": 0.75,
+    "answer_correctness": 0.5,
+    "refusal_rate": 0.8
+  },
+  "per_question": [
+    {
+      "id": "q01",
+      "category": "factual",
+      "difficulty": "easy",
+      "question": "What is the term length of the Newegg sponsorship of the HyperX Esports Arena?",
+      "expected_answer": "Five (5) years, from February 1, 2019 through January 31, 2024.",
+      "expected_doc": "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+      "retrieved_docs": [
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi"
+      ],
+      "answer": "The Term of this Agreement shall be valid for five (5) years from February 1, 2019 through January 31, 2024.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 1.0
+    },
+    {
+      "id": "q02",
+      "category": "factual",
+      "difficulty": "easy",
+      "question": "Which state's law governs the Newegg-Allied sponsorship agreement?",
+      "expected_answer": "California (with exclusive venue in Los Angeles County state and federal courts).",
+      "expected_doc": "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+      "retrieved_docs": [
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi"
+      ],
+      "answer": "Not found in the provided documents",
+      "doc_recall@k": 1,
+      "passage_recall@k": 0,
+      "answer_score": 0.0
+    },
+    {
+      "id": "q03",
+      "category": "definitional",
+      "difficulty": "medium",
+      "question": "What kind of license does Allied grant to Newegg for use of the Allied Marks?",
+      "expected_answer": "A non-exclusive, royalty-free, non-assignable, non-transferable, non-sublicensable worldwide license.",
+      "expected_doc": "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+      "retrieved_docs": [
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi"
+      ],
+      "answer": "Allied grants a worldwide license to use, publicly display, transmit, broadcast, stream, distribute and reproduce the Allied Marks in all approved forms and in manners for the purposes of this Agreement during the Term.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 0,
+      "answer_score": 0.0
+    },
+    {
+      "id": "q04",
+      "category": "factual",
+      "difficulty": "easy",
+      "question": "What is the Annual Fee for the first contract year of the Jacksonville Jaguars sponsorship?",
+      "expected_answer": "$200,000 for the 2018/19 Contract Year.",
+      "expected_doc": "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement",
+      "retrieved_docs": [
+        "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement",
+        "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement",
+        "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement",
+        "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement",
+        "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement"
+      ],
+      "answer": "Not found in the provided documents.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 0,
+      "answer_score": 0.0
+    },
+    {
+      "id": "q05",
+      "category": "factual",
+      "difficulty": "easy",
+      "question": "What designation can Sponsor use for its Dick's Wings restaurants under the Jacksonville Jaguars agreement?",
+      "expected_answer": "'Official Wings of the Jacksonville Jaguars'.",
+      "expected_doc": "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement",
+      "retrieved_docs": [
+        "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement",
+        "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement",
+        "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement",
+        "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement",
+        "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement"
+      ],
+      "answer": "The Official Designations, including \"Official Wings of the Jacksonville Jaguars,\" can be used by Sponsor in connection with the Sponsor Business, which is defined as the advertisement and promotion of Sponsor\u2019s Dick\u2019s Wings and Grill branded restaurants.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 0.5
+    },
+    {
+      "id": "q06",
+      "category": "conditional",
+      "difficulty": "medium",
+      "question": "How are Playoff Payments calculated under the Jacksonville Jaguars sponsorship agreement?",
+      "expected_answer": "A pro-rated portion of the Annual Fee applicable during the then-current Contract Year, per Playoff Game.",
+      "expected_doc": "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement",
+      "retrieved_docs": [
+        "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement",
+        "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement",
+        "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement",
+        "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement",
+        "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement"
+      ],
+      "answer": "According to [Source 4], Sponsor pays Club an additional amount per Playoff Game equal to a pro-rated portion of the Annual Fee applicable during the then-current Contract Year. The pro-rated portion is determined by Club using Club's internal line item accounting values as set forth in Club\u2019s standard rate card for such Benefits during each Playoff Game.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 1.0
+    },
+    {
+      "id": "q07",
+      "category": "factual",
+      "difficulty": "easy",
+      "question": "Under which state's law is the Chase Affiliate Agreement governed?",
+      "expected_answer": "Delaware.",
+      "expected_doc": "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement",
+      "retrieved_docs": [
+        "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement",
+        "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement",
+        "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement",
+        "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement",
+        "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement"
+      ],
+      "answer": "This Agreement will be governed in all respects by the laws of the State of Delaware.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 1.0
+    },
+    {
+      "id": "q08",
+      "category": "conditional",
+      "difficulty": "medium",
+      "question": "Can either party terminate the Chase Affiliate Agreement without cause?",
+      "expected_answer": "Yes \u2014 either party may terminate at any time, with or without cause, by giving written or e-mail notice.",
+      "expected_doc": "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement",
+      "retrieved_docs": [
+        "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement",
+        "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202",
+        "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement",
+        "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement",
+        "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement"
+      ],
+      "answer": "Either Affiliate or Chase can terminate this Agreement at any time, with or without cause, by giving the other party written or e-mail notice of termination. [Source 5]",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 1.0
+    },
+    {
+      "id": "q09",
+      "category": "factual",
+      "difficulty": "medium",
+      "question": "Name an example of Restricted Content under the Chase Affiliate Agreement.",
+      "expected_answer": "Content that is unlawful, offensive, profane, defamatory, obscene, harassing, or racially objectionable; promotes illegal activities (including gambling); promotes sexually explicit material; promotes violence or hate speech; or infringes intellectual property.",
+      "expected_doc": "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement",
+      "retrieved_docs": [
+        "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement",
+        "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement",
+        "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement",
+        "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement",
+        "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement"
+      ],
+      "answer": "An example of Restricted Content under the Chase Affiliate Agreement is incorporating images or content that is any way unlawful, offensive, profane, harmful, threatening, defamatory, obscene, harassing or racially, ethically or otherwise objectionable.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 1.0
+    },
+    {
+      "id": "q10",
+      "category": "factual",
+      "difficulty": "easy",
+      "question": "Which state's law governs the Marketing Affiliate Agreement between Birch First Global and Mount Knowledge Holdings?",
+      "expected_answer": "Nevada.",
+      "expected_doc": "cybergyholdingsinc_20140520_10-q_ex-10_27_8605784_ex-10_27_affiliate_20agreement",
+      "retrieved_docs": [
+        "cybergyholdingsinc_20140520_10-q_ex-10_27_8605784_ex-10_27_affiliate_20agreement",
+        "cybergyholdingsinc_20140520_10-q_ex-10_27_8605784_ex-10_27_affiliate_20agreement",
+        "cybergyholdingsinc_20140520_10-q_ex-10_27_8605784_ex-10_27_affiliate_20agreement",
+        "cybergyholdingsinc_20140520_10-q_ex-10_27_8605784_ex-10_27_affiliate_20agreement",
+        "steelvaultcorp_20081224_10-k_ex-10_16_3074935_ex-10_16_affiliate_20agreement"
+      ],
+      "answer": "This Agreement is governed by and construed in accordance with the laws of the State of Nevada.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 1.0
+    },
+    {
+      "id": "q11",
+      "category": "factual",
+      "difficulty": "easy",
+      "question": "How long is each renewal term under the Birch First / Mount Knowledge agreement?",
+      "expected_answer": "One (1) year, renewed automatically.",
+      "expected_doc": "cybergyholdingsinc_20140520_10-q_ex-10_27_8605784_ex-10_27_affiliate_20agreement",
+      "retrieved_docs": [
+        "cybergyholdingsinc_20140520_10-q_ex-10_27_8605784_ex-10_27_affiliate_20agreement",
+        "cybergyholdingsinc_20140520_10-q_ex-10_27_8605784_ex-10_27_affiliate_20agreement",
+        "cybergyholdingsinc_20140520_10-q_ex-10_27_8605784_ex-10_27_affiliate_20agreement",
+        "tubemediacorp_20060310_8-k_ex-10_1_513921_ex-10_1_affiliate_20agreement",
+        "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2"
+      ],
+      "answer": "Not found in the provided documents.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 0,
+      "answer_score": 0.0
+    },
+    {
+      "id": "q12",
+      "category": "factual",
+      "difficulty": "medium",
+      "question": "How much notice is required to terminate the Birch First / Mount Knowledge agreement at the end of its term?",
+      "expected_answer": "Thirty (30) days written notice.",
+      "expected_doc": "cybergyholdingsinc_20140520_10-q_ex-10_27_8605784_ex-10_27_affiliate_20agreement",
+      "retrieved_docs": [
+        "cybergyholdingsinc_20140520_10-q_ex-10_27_8605784_ex-10_27_affiliate_20agreement",
+        "cybergyholdingsinc_20140520_10-q_ex-10_27_8605784_ex-10_27_affiliate_20agreement",
+        "cybergyholdingsinc_20140520_10-q_ex-10_27_8605784_ex-10_27_affiliate_20agreement",
+        "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202",
+        "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2"
+      ],
+      "answer": "Not found in the provided documents.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 0.0
+    },
+    {
+      "id": "q13",
+      "category": "factual",
+      "difficulty": "easy",
+      "question": "Which state's law governs the NCM / Digital Cinema Destinations network affiliate agreement?",
+      "expected_answer": "Delaware.",
+      "expected_doc": "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2",
+      "retrieved_docs": [
+        "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2",
+        "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2",
+        "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2",
+        "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2",
+        "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2"
+      ],
+      "answer": "Not found in the provided documents.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 0.0
+    },
+    {
+      "id": "q14",
+      "category": "factual",
+      "difficulty": "medium",
+      "question": "What is the depreciation period for NCM Equipment under the NCM / Digital Cinema agreement?",
+      "expected_answer": "Five years from the Effective Date.",
+      "expected_doc": "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2",
+      "retrieved_docs": [
+        "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2",
+        "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2",
+        "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2",
+        "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2",
+        "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2"
+      ],
+      "answer": "The depreciation period for NCM Equipment is a five-year period commencing on the Effective Date. [Source 3]",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 1.0
+    },
+    {
+      "id": "q15",
+      "category": "definitional",
+      "difficulty": "easy",
+      "question": "What does 'NCM' stand for in the network affiliate agreement?",
+      "expected_answer": "National CineMedia, LLC.",
+      "expected_doc": "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2",
+      "retrieved_docs": [
+        "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2",
+        "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2",
+        "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2",
+        "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2",
+        "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2"
+      ],
+      "answer": "Not found in the provided documents.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 0,
+      "answer_score": 0.0
+    },
+    {
+      "id": "q16",
+      "category": "factual",
+      "difficulty": "easy",
+      "question": "Which state's law governs the Link Plus / Axiometric agreement?",
+      "expected_answer": "Maryland.",
+      "expected_doc": "linkpluscorp_20050802_8-k_ex-10_3240252_ex-10_affiliate_20agreement",
+      "retrieved_docs": [
+        "linkpluscorp_20050802_8-k_ex-10_3240252_ex-10_affiliate_20agreement",
+        "linkpluscorp_20050802_8-k_ex-10_3240252_ex-10_affiliate_20agreement",
+        "linkpluscorp_20050802_8-k_ex-10_3240252_ex-10_affiliate_20agreement",
+        "linkpluscorp_20050802_8-k_ex-10_3240252_ex-10_affiliate_20agreement",
+        "linkpluscorp_20050802_8-k_ex-10_3240252_ex-10_affiliate_20agreement"
+      ],
+      "answer": "Not found in the provided documents.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 0.0
+    },
+    {
+      "id": "q17",
+      "category": "conditional",
+      "difficulty": "easy",
+      "question": "Does Link Plus Corporation (LKPL) charge Axiometric for the office space it provides?",
+      "expected_answer": "No \u2014 the office space is provided free of charge.",
+      "expected_doc": "linkpluscorp_20050802_8-k_ex-10_3240252_ex-10_affiliate_20agreement",
+      "retrieved_docs": [
+        "linkpluscorp_20050802_8-k_ex-10_3240252_ex-10_affiliate_20agreement",
+        "linkpluscorp_20050802_8-k_ex-10_3240252_ex-10_affiliate_20agreement",
+        "linkpluscorp_20050802_8-k_ex-10_3240252_ex-10_affiliate_20agreement",
+        "linkpluscorp_20050802_8-k_ex-10_3240252_ex-10_affiliate_20agreement",
+        "linkpluscorp_20050802_8-k_ex-10_3240252_ex-10_affiliate_20agreement"
+      ],
+      "answer": "[Source 1] and [Source 4] indicate that LKPL will provide Axiometric with a license to use office space in LKPL's corporate facility in Columbia, Maryland, free of charge. However, these sources do not explicitly state whether LKPL charges Axiometric for the office space or if there are any conditions regarding such charges. Therefore, based on the provided information:\n\nNot found in the provided documents.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 0.0
+    },
+    {
+      "id": "q18",
+      "category": "factual",
+      "difficulty": "medium",
+      "question": "How much notice can LKPL give to terminate Axiometric's license to use the office space?",
+      "expected_answer": "60 days notice.",
+      "expected_doc": "linkpluscorp_20050802_8-k_ex-10_3240252_ex-10_affiliate_20agreement",
+      "retrieved_docs": [
+        "linkpluscorp_20050802_8-k_ex-10_3240252_ex-10_affiliate_20agreement",
+        "linkpluscorp_20050802_8-k_ex-10_3240252_ex-10_affiliate_20agreement",
+        "linkpluscorp_20050802_8-k_ex-10_3240252_ex-10_affiliate_20agreement",
+        "linkpluscorp_20050802_8-k_ex-10_3240252_ex-10_affiliate_20agreement",
+        "linkpluscorp_20050802_8-k_ex-10_3240252_ex-10_affiliate_20agreement"
+      ],
+      "answer": "LKPL may terminate Axiometric's license to use the office space upon 60 days' notice. This information is found in [Source 2].",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 1.0
+    },
+    {
+      "id": "q19",
+      "category": "factual",
+      "difficulty": "easy",
+      "question": "Where is element 5 GmbH headquartered?",
+      "expected_answer": "Vogelsanger Strasse 78, 50823 Cologne, Germany.",
+      "expected_doc": "southernstarenergyinc_20051202_sb-2a_ex-9_801890_ex-9_affiliate_20agreement",
+      "retrieved_docs": [
+        "southernstarenergyinc_20051202_sb-2a_ex-9_801890_ex-9_affiliate_20agreement",
+        "southernstarenergyinc_20051202_sb-2a_ex-9_801890_ex-9_affiliate_20agreement",
+        "southernstarenergyinc_20051202_sb-2a_ex-9_801890_ex-9_affiliate_20agreement",
+        "southernstarenergyinc_20051202_sb-2a_ex-9_801890_ex-9_affiliate_20agreement",
+        "southernstarenergyinc_20051202_sb-2a_ex-9_801890_ex-9_affiliate_20agreement"
+      ],
+      "answer": "Not found in the provided documents.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 0,
+      "answer_score": 0.0
+    },
+    {
+      "id": "q20",
+      "category": "factual",
+      "difficulty": "easy",
+      "question": "What types of products are advertised through element 5's Affiliate Program?",
+      "expected_answer": "Software products from element 5 Software Publishers.",
+      "expected_doc": "southernstarenergyinc_20051202_sb-2a_ex-9_801890_ex-9_affiliate_20agreement",
+      "retrieved_docs": [
+        "southernstarenergyinc_20051202_sb-2a_ex-9_801890_ex-9_affiliate_20agreement",
+        "southernstarenergyinc_20051202_sb-2a_ex-9_801890_ex-9_affiliate_20agreement",
+        "southernstarenergyinc_20051202_sb-2a_ex-9_801890_ex-9_affiliate_20agreement",
+        "southernstarenergyinc_20051202_sb-2a_ex-9_801890_ex-9_affiliate_20agreement",
+        "southernstarenergyinc_20051202_sb-2a_ex-9_801890_ex-9_affiliate_20agreement"
+      ],
+      "answer": "According to [Source 4] SouthernStarEnergyInc_20001202_SB-2A_EX-9_801890_EX-9_Affiliate%20Agreement, the Products under the Agreement are software products designated by the respective Software Publisher for this purpose and which can be selected by the Affiliate from a product catalog in the Affiliate Control Panel.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 1.0
+    },
+    {
+      "id": "q21",
+      "category": "factual",
+      "difficulty": "easy",
+      "question": "Which state's law governs the Equidata / National Credit Report Marketing Affiliate Agreement?",
+      "expected_answer": "Virginia.",
+      "expected_doc": "steelvaultcorp_20081224_10-k_ex-10_16_3074935_ex-10_16_affiliate_20agreement",
+      "retrieved_docs": [
+        "steelvaultcorp_20081224_10-k_ex-10_16_3074935_ex-10_16_affiliate_20agreement",
+        "steelvaultcorp_20081224_10-k_ex-10_16_3074935_ex-10_16_affiliate_20agreement",
+        "steelvaultcorp_20081224_10-k_ex-10_16_3074935_ex-10_16_affiliate_20agreement",
+        "steelvaultcorp_20081224_10-k_ex-10_16_3074935_ex-10_16_affiliate_20agreement",
+        "steelvaultcorp_20081224_10-k_ex-10_16_3074935_ex-10_16_affiliate_20agreement"
+      ],
+      "answer": "Not found in the provided documents",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 0.0
+    },
+    {
+      "id": "q22",
+      "category": "factual",
+      "difficulty": "easy",
+      "question": "What is the initial term of the Equidata Marketing Affiliate Agreement, and how does it renew?",
+      "expected_answer": "One year, then automatically renews under the same terms unless superseded.",
+      "expected_doc": "steelvaultcorp_20081224_10-k_ex-10_16_3074935_ex-10_16_affiliate_20agreement",
+      "retrieved_docs": [
+        "steelvaultcorp_20081224_10-k_ex-10_16_3074935_ex-10_16_affiliate_20agreement",
+        "steelvaultcorp_20081224_10-k_ex-10_16_3074935_ex-10_16_affiliate_20agreement",
+        "steelvaultcorp_20081224_10-k_ex-10_16_3074935_ex-10_16_affiliate_20agreement",
+        "steelvaultcorp_20081224_10-k_ex-10_16_3074935_ex-10_16_affiliate_20agreement",
+        "steelvaultcorp_20081224_10-k_ex-10_16_3074935_ex-10_16_affiliate_20agreement"
+      ],
+      "answer": "The initial term of the Equidata Marketing Affiliate Agreement is one year. After the initial term, the agreement automatically renews under the same terms and agreements unless superceded by future agreements.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 1.0
+    },
+    {
+      "id": "q23",
+      "category": "factual",
+      "difficulty": "medium",
+      "question": "When are payments due under the Equidata Marketing Affiliate Agreement?",
+      "expected_answer": "30 days from the invoice date; invoices are issued bi-monthly.",
+      "expected_doc": "steelvaultcorp_20081224_10-k_ex-10_16_3074935_ex-10_16_affiliate_20agreement",
+      "retrieved_docs": [
+        "steelvaultcorp_20081224_10-k_ex-10_16_3074935_ex-10_16_affiliate_20agreement",
+        "steelvaultcorp_20081224_10-k_ex-10_16_3074935_ex-10_16_affiliate_20agreement",
+        "steelvaultcorp_20081224_10-k_ex-10_16_3074935_ex-10_16_affiliate_20agreement",
+        "steelvaultcorp_20081224_10-k_ex-10_16_3074935_ex-10_16_affiliate_20agreement",
+        "steelvaultcorp_20081224_10-k_ex-10_16_3074935_ex-10_16_affiliate_20agreement"
+      ],
+      "answer": "Payments are due 30 days from the invoice date as outlined in Exhibit A attached hereto, which is a part of the Equidata Marketing Affiliate Agreement. [Source 5]",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 1.0
+    },
+    {
+      "id": "q24",
+      "category": "factual",
+      "difficulty": "easy",
+      "question": "Which state's law governs the TUBE Music Network / Tribune Broadcasting affiliate agreement?",
+      "expected_answer": "New York.",
+      "expected_doc": "tubemediacorp_20060310_8-k_ex-10_1_513921_ex-10_1_affiliate_20agreement",
+      "retrieved_docs": [
+        "tubemediacorp_20060310_8-k_ex-10_1_513921_ex-10_1_affiliate_20agreement",
+        "tubemediacorp_20060310_8-k_ex-10_1_513921_ex-10_1_affiliate_20agreement",
+        "tubemediacorp_20060310_8-k_ex-10_1_513921_ex-10_1_affiliate_20agreement",
+        "tubemediacorp_20060310_8-k_ex-10_1_513921_ex-10_1_affiliate_20agreement",
+        "tubemediacorp_20060310_8-k_ex-10_1_513921_ex-10_1_affiliate_20agreement"
+      ],
+      "answer": "Not found in the provided documents.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 0,
+      "answer_score": 0.0
+    },
+    {
+      "id": "q25",
+      "category": "factual",
+      "difficulty": "medium",
+      "question": "Within how many days must Affiliate submit its Promotional Spots report under the TUBE / Tribune agreement?",
+      "expected_answer": "45 days after the end of each calendar quarter.",
+      "expected_doc": "tubemediacorp_20060310_8-k_ex-10_1_513921_ex-10_1_affiliate_20agreement",
+      "retrieved_docs": [
+        "tubemediacorp_20060310_8-k_ex-10_1_513921_ex-10_1_affiliate_20agreement",
+        "tubemediacorp_20060310_8-k_ex-10_1_513921_ex-10_1_affiliate_20agreement",
+        "tubemediacorp_20060310_8-k_ex-10_1_513921_ex-10_1_affiliate_20agreement",
+        "tubemediacorp_20060310_8-k_ex-10_1_513921_ex-10_1_affiliate_20agreement",
+        "tubemediacorp_20060310_8-k_ex-10_1_513921_ex-10_1_affiliate_20agreement"
+      ],
+      "answer": "Affiliate shall submit to Network, within forty-five (45) days of the end of each calendar quarter, a report on behalf of each Station with respect to the Promotional Spots aired by each Station during such calendar quarter.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 1.0
+    },
+    {
+      "id": "q26",
+      "category": "factual",
+      "difficulty": "medium",
+      "question": "What Commercial General Liability insurance limits must Network maintain under the TUBE / Tribune agreement?",
+      "expected_answer": "Not less than $1,000,000 per occurrence and $2,000,000 in the aggregate.",
+      "expected_doc": "tubemediacorp_20060310_8-k_ex-10_1_513921_ex-10_1_affiliate_20agreement",
+      "retrieved_docs": [
+        "tubemediacorp_20060310_8-k_ex-10_1_513921_ex-10_1_affiliate_20agreement",
+        "tubemediacorp_20060310_8-k_ex-10_1_513921_ex-10_1_affiliate_20agreement",
+        "tubemediacorp_20060310_8-k_ex-10_1_513921_ex-10_1_affiliate_20agreement",
+        "tubemediacorp_20060310_8-k_ex-10_1_513921_ex-10_1_affiliate_20agreement",
+        "tubemediacorp_20060310_8-k_ex-10_1_513921_ex-10_1_affiliate_20agreement"
+      ],
+      "answer": "Network shall maintain Errors and Omissions insurance that covers Network\u2019s media activities at a liability limit of $1,000,000 in any one (1) policy period.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 0,
+      "answer_score": 0.0
+    },
+    {
+      "id": "q27",
+      "category": "factual",
+      "difficulty": "easy",
+      "question": "How many days of prior written notice does either party need to give to terminate the Union Dental / George Green Business Affiliate Agreement?",
+      "expected_answer": "Thirty (30) days prior written notice.",
+      "expected_doc": "uniondentalholdingsinc_20050204_8-ka_ex-10_3345577_ex-10_affiliate_20agreement",
+      "retrieved_docs": [
+        "uniondentalholdingsinc_20050204_8-ka_ex-10_3345577_ex-10_affiliate_20agreement",
+        "uniondentalholdingsinc_20050204_8-ka_ex-10_3345577_ex-10_affiliate_20agreement",
+        "uniondentalholdingsinc_20050204_8-ka_ex-10_3345577_ex-10_affiliate_20agreement",
+        "uniondentalholdingsinc_20050204_8-ka_ex-10_3345577_ex-10_affiliate_20agreement",
+        "uniondentalholdingsinc_20050204_8-ka_ex-10_3345577_ex-10_affiliate_20agreement"
+      ],
+      "answer": "The UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate%20Agreement source states that UDC may immediately terminate the agreement without notice if it determines that the Business Affiliate has breached a material provision of this Agreement or if the activities contemplated under this Agreement will result in a violation of any federal or state law. Alternatively, UDC may choose to provide the Business Affiliate with ten (10) days written notice of the existence of an alleged material breach and afford the Business Affiliate an opportunity to cure said alleged material breach upon mutually agreeable terms.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 0.5
+    },
+    {
+      "id": "q28",
+      "category": "factual",
+      "difficulty": "medium",
+      "question": "Within how many days after termination must Confidential Information be returned under the Union Dental agreement?",
+      "expected_answer": "Fifteen (15) days.",
+      "expected_doc": "uniondentalholdingsinc_20050204_8-ka_ex-10_3345577_ex-10_affiliate_20agreement",
+      "retrieved_docs": [
+        "uniondentalholdingsinc_20050204_8-ka_ex-10_3345577_ex-10_affiliate_20agreement",
+        "uniondentalholdingsinc_20050204_8-ka_ex-10_3345577_ex-10_affiliate_20agreement",
+        "uniondentalholdingsinc_20050204_8-ka_ex-10_3345577_ex-10_affiliate_20agreement",
+        "uniondentalholdingsinc_20050204_8-ka_ex-10_3345577_ex-10_affiliate_20agreement",
+        "uniondentalholdingsinc_20050204_8-ka_ex-10_3345577_ex-10_affiliate_20agreement"
+      ],
+      "answer": "Within fifteen (15) days of the termination of this Agreement, any Confidential Information provided to such Party and in its possession must be returned or destroyed as requested by a Party.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 1.0
+    },
+    {
+      "id": "q29",
+      "category": "conditional",
+      "difficulty": "medium",
+      "question": "Under what conditions can UDC terminate the Business Affiliate Agreement without notice?",
+      "expected_answer": "UDC may immediately terminate without notice if it determines the Business Affiliate has breached.",
+      "expected_doc": "uniondentalholdingsinc_20050204_8-ka_ex-10_3345577_ex-10_affiliate_20agreement",
+      "retrieved_docs": [
+        "uniondentalholdingsinc_20050204_8-ka_ex-10_3345577_ex-10_affiliate_20agreement",
+        "uniondentalholdingsinc_20050204_8-ka_ex-10_3345577_ex-10_affiliate_20agreement",
+        "uniondentalholdingsinc_20050204_8-ka_ex-10_3345577_ex-10_affiliate_20agreement",
+        "uniondentalholdingsinc_20050204_8-ka_ex-10_3345577_ex-10_affiliate_20agreement",
+        "uniondentalholdingsinc_20050204_8-ka_ex-10_3345577_ex-10_affiliate_20agreement"
+      ],
+      "answer": "UDC can immediately terminate the agreement without notice if:\n\n1. The Business Affiliate has breached a material provision of this Agreement.\n2. The activities contemplated under this Agreement will result in a violation of any federal or state law.\n3. In UDC's opinion, the Services would violate any federal or state law.\n\nAlternatively, UDC can provide the Business Affiliate with ten (10) days written notice of the existence of an alleged material breach and afford them an opportunity to cure said alleged material breach upon mutually agreeable terms. Failure to cure in the manner set forth is grounds for immediate termination.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 1.0
+    },
+    {
+      "id": "q30",
+      "category": "factual",
+      "difficulty": "medium",
+      "question": "Where are disputes raised by Payment Data Systems resolved under the Network 1 affiliate office agreement?",
+      "expected_answer": "By arbitration in McLean, Virginia, under American Arbitration Association rules.",
+      "expected_doc": "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202",
+      "retrieved_docs": [
+        "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202",
+        "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202",
+        "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202",
+        "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202",
+        "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202"
+      ],
+      "answer": "Not found in the provided documents.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 0.0
+    },
+    {
+      "id": "q31",
+      "category": "definitional",
+      "difficulty": "medium",
+      "question": "How is the Exit Fee defined under the Network 1 affiliate office agreement?",
+      "expected_answer": "18 months of net recurring revenue per transferring merchant normally paid to Affiliate.",
+      "expected_doc": "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202",
+      "retrieved_docs": [
+        "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202",
+        "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202",
+        "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202",
+        "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202",
+        "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202"
+      ],
+      "answer": "The Exit Fee is defined in Section 7.6(c) of Source [Source 4], which states:\n\n\"all out of pocket and reasonable reimbursement of staff expenses shall be paid prior to the Transfer of the Merchants from NET1 or Affiliate, as defined in section 7.6(c) below.\"\n\nHowever, for the Exit Fee itself, it is defined as follows (from Source [Source 2]):\n\n\"The amount of the Exit Fee during and following the termination of this Agreement shall be defined as the following: (1) the aggregate sum, per transferring merchant, equal to eighteen (18) months net recurring revenue normally paid to Affiliate under the compensation terms of this Agreement to a maximum of $250,000.\"\n\nThis definition is for the Exit Fee during and following termination, not specifically for the Exit Fee related to Source [Source 4]. The specific Exit Fee in Source [Source 4] appears to be defined as \"as defined in section 7.6(c) below,\" but without further details provided in the given sources.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 0.0
+    },
+    {
+      "id": "q32",
+      "category": "factual",
+      "difficulty": "easy",
+      "question": "What payment processing services does Network 1 Financial provide?",
+      "expected_answer": "VISA and MasterCard processing and related payment processing services for merchants.",
+      "expected_doc": "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202",
+      "retrieved_docs": [
+        "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202",
+        "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202",
+        "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202",
+        "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202",
+        "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202"
+      ],
+      "answer": "Network 1 Financial provides through various Member Bank(s), VISA and MasterCard processing and related payment processing services.",
+      "doc_recall@k": 1,
+      "passage_recall@k": 1,
+      "answer_score": 1.0
+    },
+    {
+      "id": "q33",
+      "category": "out_of_scope",
+      "difficulty": "easy",
+      "question": "Who is the current CEO of Newegg Inc.?",
+      "expected_answer": "Not found in the provided documents.",
+      "expected_doc": null,
+      "retrieved_docs": [
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi"
+      ],
+      "answer": "The current CEO of Newegg Inc. is Judson Hannigan, as stated in Source [Source 3].",
+      "doc_recall@k": null,
+      "passage_recall@k": null,
+      "answer_score": 0.0
+    },
+    {
+      "id": "q34",
+      "category": "out_of_scope",
+      "difficulty": "easy",
+      "question": "What is Allied Esports Entertainment's current stock price?",
+      "expected_answer": "Not found in the provided documents.",
+      "expected_doc": null,
+      "retrieved_docs": [
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+        "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi"
+      ],
+      "answer": "Not found in the provided documents.",
+      "doc_recall@k": null,
+      "passage_recall@k": null,
+      "answer_score": 1.0
+    },
+    {
+      "id": "q35",
+      "category": "out_of_scope",
+      "difficulty": "easy",
+      "question": "How many full-time employees does Chase Bank USA have?",
+      "expected_answer": "Not found in the provided documents.",
+      "expected_doc": null,
+      "retrieved_docs": [
+        "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement",
+        "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement",
+        "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement",
+        "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement",
+        "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement"
+      ],
+      "answer": "Not found in the provided documents.",
+      "doc_recall@k": null,
+      "passage_recall@k": null,
+      "answer_score": 1.0
+    },
+    {
+      "id": "q36",
+      "category": "out_of_scope",
+      "difficulty": "easy",
+      "question": "Which team won the 2023 Super Bowl?",
+      "expected_answer": "Not found in the provided documents.",
+      "expected_doc": null,
+      "retrieved_docs": [
+        "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement",
+        "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement",
+        "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement",
+        "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement",
+        "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement"
+      ],
+      "answer": "Not found in the provided documents.",
+      "doc_recall@k": null,
+      "passage_recall@k": null,
+      "answer_score": 1.0
+    },
+    {
+      "id": "q37",
+      "category": "out_of_scope",
+      "difficulty": "medium",
+      "question": "What year was element 5 GmbH founded?",
+      "expected_answer": "Not found in the provided documents.",
+      "expected_doc": null,
+      "retrieved_docs": [
+        "southernstarenergyinc_20051202_sb-2a_ex-9_801890_ex-9_affiliate_20agreement",
+        "southernstarenergyinc_20051202_sb-2a_ex-9_801890_ex-9_affiliate_20agreement",
+        "southernstarenergyinc_20051202_sb-2a_ex-9_801890_ex-9_affiliate_20agreement",
+        "southernstarenergyinc_20051202_sb-2a_ex-9_801890_ex-9_affiliate_20agreement",
+        "southernstarenergyinc_20051202_sb-2a_ex-9_801890_ex-9_affiliate_20agreement"
+      ],
+      "answer": "Not found in the provided documents.",
+      "doc_recall@k": null,
+      "passage_recall@k": null,
+      "answer_score": 1.0
+    }
+  ]
+}

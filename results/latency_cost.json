@@ -1,0 +1,32 @@
+{
+  "vector+rerank (champ)": {
+    "retr_ms": 929.5693635940552,
+    "total_ms": 2370.7064390182495,
+    "cost_per_query": 0.000801225
+  },
+  "vector only": {
+    "retr_ms": 455.4891586303711,
+    "total_ms": 1896.6262340545654,
+    "cost_per_query": 0.000801225
+  },
+  "BM25 only": {
+    "retr_ms": 48.294782638549805,
+    "total_ms": 1489.4318580627441,
+    "cost_per_query": 0.0007986
+  },
+  "hybrid+rerank": {
+    "retr_ms": 977.864146232605,
+    "total_ms": 2419.0012216567993,
+    "cost_per_query": 0.000801225
+  },
+  "HyDE+rerank": {
+    "retr_ms": 2370.7064390182495,
+    "total_ms": 3811.843514442444,
+    "cost_per_query": 0.0009840250000000001
+  },
+  "multi-query+rerank": {
+    "retr_ms": 4316.500544548035,
+    "total_ms": 5757.637619972229,
+    "cost_per_query": 0.0010419000000000001
+  }
+}
