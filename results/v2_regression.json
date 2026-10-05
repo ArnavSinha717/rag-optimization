@@ -1,0 +1,1467 @@
+{
+  "agent": "bedrock",
+  "judge": "ollama",
+  "kept": 120,
+  "regressed": 42,
+  "total": 162,
+  "results": [
+    {
+      "id": "q01",
+      "cat": "expiration_date",
+      "verdict": "HIT",
+      "question": "What is the term length of the Newegg sponsorship of the HyperX Esports Arena?",
+      "expected": "Five (5) years, from February 1, 2019 through January 31, 2024.",
+      "evidence": "This Agreement shall be valid for five (5) years from February 1, 2019 through January 31, 2024",
+      "answer": "Based on the search results, **the term length of the Newegg sponsorship of the HyperX Esports Arena is five (5) years**.\n\nAccording to Section 3 of the Event Sponsorship Agreement (effective February 1, 2019), the agreement is valid for five years from **February 1, 2019 through January 31, 2024**."
+    },
+    {
+      "id": "q03",
+      "cat": "license_grant",
+      "verdict": "HIT",
+      "question": "What kind of license does Allied grant to Newegg for use of the Allied Marks?",
+      "expected": "A non-exclusive, royalty-free, non-assignable, non-transferable, non-sublicensable worldwide license.",
+      "evidence": "Allied grants Newegg a non-exclusive, royalty-free, non-assignable, non-transferable, and non- sublicensable worldwide license",
+      "answer": "Based on the search results, I can see that the contract discusses licenses in both directions. Let me clarify: **Allied grants Newegg a license to use the Allied Marks**, not the other way around.\n\nAccording to **Section 5.1** of the Allied Esports Entertainment Inc. Sponsorship Agreement:\n\n**Allied grants Newegg a non-exclusive, royalty-free, non-assignable, non-transferable, and non-sublicensable worldwide license** to use, publicly display, transmit, broadcast, stream, distribute and reproduce the Allied Marks in all approved forms and in manners for the purposes of the Agreement during the Term.\n\nKey characteristics of this license:\n- **Non-exclusive** \u2013 Newegg does not have exclusive rights\n- **Royalty-free** \u2013 Newegg does not pay any fees or royalties for the license of the Allied Marks (except the Sponsorship Fee specified in Schedule 3)\n- **Non-assignable** \u2013 Cannot be assigned to another party\n- **Non-transferable** \u2013 Cannot be transferred\n- **Non-sublicensable** \u2013 Cannot be sublicensed to third parties\n- **Worldwide** \u2013 Applies globally"
+    },
+    {
+      "id": "q04",
+      "cat": "payment_terms",
+      "verdict": "MISS",
+      "question": "What is the Annual Fee for the first contract year of the Jacksonville Jaguars sponsorship?",
+      "expected": "$200,000 for the 2018/19 Contract Year.",
+      "evidence": "First Contract Year (2018/19): $ 200,000",
+      "answer": "I don't see a Jacksonville Jaguars sponsorship contract in the available contracts list. The contracts available do not include one specifically for the Jacksonville Jaguars. \n\nCould you please verify the contract name or provide additional details? It's possible the contract might be listed under a different name or entity name rather than \"Jacksonville Jaguars.\""
+    },
+    {
+      "id": "q05",
+      "cat": "factual",
+      "verdict": "MISS",
+      "question": "What designation can Sponsor use for its Dick's Wings restaurants under the Jacksonville Jaguars agreement?",
+      "expected": "'Official Wings of the Jacksonville Jaguars'.",
+      "evidence": "the right to use the designation \u201cOfficial Wings of the Jacksonville Jaguars\u201d",
+      "answer": "I don't see a Jacksonville Jaguars agreement in the available contracts. The contracts listed don't include one with that name. Could you provide more details about the contract, such as:\n\n- The company name associated with the agreement?\n- Any other identifying information from the contract?\n- Or would you like me to search across all contracts for \"Dick's Wings\" to see if it appears elsewhere?"
+    },
+    {
+      "id": "q06",
+      "cat": "payment_terms",
+      "verdict": "MISS",
+      "question": "How are Playoff Payments calculated under the Jacksonville Jaguars sponsorship agreement?",
+      "expected": "A pro-rated portion of the Annual Fee applicable during the then-current Contract Year, per Playoff Game.",
+      "evidence": "Sponsor shall pay Club an additional amount per Playoff Game equal to a pro-rated portion of the Annual Fee applicable during the then-current Contract Year",
+      "answer": "I don't see a Jacksonville Jaguars sponsorship agreement in the available contracts. The list includes various sponsorship and endorsement agreements from other companies, but none specifically for the Jacksonville Jaguars.\n\nCould you verify the exact name of the contract you're looking for, or let me know if it might be listed under a different title? Alternatively, if you have the contract name or filing reference, that would help me locate it."
+    },
+    {
+      "id": "q07",
+      "cat": "governing_law",
+      "verdict": "MISS",
+      "question": "Under which state's law is the Chase Affiliate Agreement governed?",
+      "expected": "Delaware.",
+      "evidence": "This Agreement will be governed in all respects by the laws of the State of Delaware",
+      "answer": "I don't see a \"Chase Affiliate Agreement\" in the available contracts. The contracts listed include several affiliate agreements from other companies (CreditCards.com, Cyberghy Holdings, Digital Cinema Destinations, Link Plus Corp, Southern Star Energy, Steel Vault Corp, Tube Media Corp, and Union Dental Holdings), but none from Chase.\n\nCould you clarify which contract you're asking about? Is it possible you meant one of the other affiliate agreements listed, or is there a different Chase contract you're interested in?"
+    },
+    {
+      "id": "q08",
+      "cat": "termination",
+      "verdict": "MISS",
+      "question": "Can either party terminate the Chase Affiliate Agreement without cause?",
+      "expected": "Yes \u2014 either party may terminate at any time, with or without cause, by giving written or e-mail notice.",
+      "evidence": "Either Affiliate or Chase may terminate this Agreement at any time, with or without cause, by giving the other party written or e-mail",
+      "answer": "I don't see a \"Chase Affiliate Agreement\" in the available contracts. The contracts listed include several affiliate agreements from other companies (CreditCards.com, Cyberghy Holdings, Digital Cinema Destinations, Link Plus Corp, Southern Star Energy, Steel Vault Corp, Tube Media Corp, and Union Dental Holdings), but none from Chase.\n\nCould you clarify which contract you're asking about? Is it one of the affiliate agreements listed above, or did you mean a different contract?"
+    },
+    {
+      "id": "q09",
+      "cat": "factual",
+      "verdict": "MISS",
+      "question": "Name an example of Restricted Content under the Chase Affiliate Agreement.",
+      "expected": "Content that is unlawful, offensive, profane, defamatory, obscene, harassing, or racially objectionable; promotes illegal activities (including gambling); promotes sexually explicit material; promotes violence or hate speech; or infringes intellectual property.",
+      "evidence": "Incorporates images or content that is any way unlawful, offensive, profane, harmful, threatening, defamatory, obscene, harassing",
+      "answer": "I don't see a \"Chase Affiliate Agreement\" in the available contracts. The contracts listed include several affiliate agreements (from companies like Creditcards.com, Cyberghy Holdings, Digital Cinema Destinations, Link Plus Corp, Southern Star Energy, Steel Vault Corp, Tube Media Corp, and Union Dental Holdings), but none specifically from Chase.\n\nCould you clarify which contract you're referring to? Is it one of the affiliate agreements listed above, or do you have a different name for the Chase agreement?"
+    },
+    {
+      "id": "q10",
+      "cat": "governing_law",
+      "verdict": "MISS",
+      "question": "Which state's law governs the Marketing Affiliate Agreement between Birch First Global and Mount Knowledge Holdings?",
+      "expected": "Nevada.",
+      "evidence": "This Agreement is accepted by Company in the State of Nevada and shall be governed by and construed in accordance with the laws thereof",
+      "answer": "I don't see a contract specifically titled \"Marketing Affiliate Agreement between Birch First Global and Mount Knowledge Holdings\" in the available contracts list. The contract you're asking about doesn't appear to be in this database.\n\nCould you verify the exact contract name or provide any additional details that might help me locate it? Alternatively, if you know a different name or reference for this agreement, please let me know."
+    },
+    {
+      "id": "q11",
+      "cat": "renewal_term",
+      "verdict": "MISS",
+      "question": "How long is each renewal term under the Birch First / Mount Knowledge agreement?",
+      "expected": "One (1) year, renewed automatically.",
+      "evidence": "shall be automatically renewed for successive one (1) year periods",
+      "answer": "I don't see a \"Birch First / Mount Knowledge\" agreement in the available contracts. Could you please clarify which contract you're referring to? You might want to check:\n\n1. The exact name of the contract\n2. Whether it might be listed under different names or parties\n\nAlternatively, if you can provide more details about the contract (such as the company names involved or the type of agreement), I can help you locate it."
+    },
+    {
+      "id": "q12",
+      "cat": "termination",
+      "verdict": "MISS",
+      "question": "How much notice is required to terminate the Birch First / Mount Knowledge agreement at the end of its term?",
+      "expected": "Thirty (30) days written notice.",
+      "evidence": "This Agreement may be terminated by either party at the expiration of its term or any renewal term upon thirty (30) days written notice",
+      "answer": "I don't see a contract with \"Birch First\" or \"Mount Knowledge\" in the available contracts. Could you please clarify which contract you're asking about? You can either:\n\n1. Provide the exact contract name as it appears in the list above, or\n2. Give me more details about the parties involved or the type of agreement\n\nThis will help me locate the correct contract and find the termination notice requirements for you."
+    },
+    {
+      "id": "q13",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which state's law governs the NCM / Digital Cinema Destinations network affiliate agreement?",
+      "expected": "Delaware.",
+      "evidence": "construed in accordance with and governed by the internal laws of the State of Delaware",
+      "answer": "Based on the search results, the **State of Delaware** governs the NCM / Digital Cinema Destinations network affiliate agreement.\n\nSpecifically, Section 14.7(a) states:\n\n> \"This Agreement shall be binding on the Parties as of the date hereof and is to be construed in accordance with and governed by the internal laws of the State of Delaware without giving effect to any choice of law rule that would cause the application of the laws of any jurisdiction other than the internal laws of the State of Delaware to the rights and duties of the Parties.\""
+    },
+    {
+      "id": "q14",
+      "cat": "factual",
+      "verdict": "HIT",
+      "question": "What is the depreciation period for NCM Equipment under the NCM / Digital Cinema agreement?",
+      "expected": "Five years from the Effective Date.",
+      "evidence": "in full depreciation at the end of the five-year period commencing on the Effective Date",
+      "answer": "Based on the Digital Cinema Destinations Corp. agreement, **the depreciation period for NCM Equipment is five (5) years**.\n\nSpecifically, Section 2.3 states:\n\n> \"NCM shall depreciate the cost of the NCM Equipment on a calendar quarterly basis, provided that the method used will result in full depreciation at the end of the five-year period commencing on the Effective Date.\"\n\nThis means NCM depreciates the equipment quarterly using a method that achieves full depreciation over the five-year period starting from the Effective Date of the agreement."
+    },
+    {
+      "id": "q16",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which state's law governs the Link Plus / Axiometric agreement?",
+      "expected": "Maryland.",
+      "evidence": "shall be construed and governed in accordance with the laws of the State of Maryland",
+      "answer": "Based on the Link Plus / Axiometric agreement, **Maryland** law governs the agreement.\n\nSpecifically, Section 7.4 of the agreement states: \"This Agreement shall be construed and governed in accordance with the laws of the State of Maryland regardless of the place or places of its physical execution and performance.\"\n\nAdditionally, Section 7.2 specifies that all actions and proceedings related to the agreement shall be brought in Maryland courts."
+    },
+    {
+      "id": "q17",
+      "cat": "conditional",
+      "verdict": "HIT",
+      "question": "Does Link Plus Corporation (LKPL) charge Axiometric for the office space it provides?",
+      "expected": "No \u2014 the office space is provided free of charge.",
+      "evidence": "LKPL will provide Axiometric with a license to use office space in LKPL's corporate facility in Columbia, Maryland, free of charge",
+      "answer": "Based on the Link Plus Corporation Affiliate Agreement with Axiometric dated July 15, 2005, **no, LKPL does not charge Axiometric for office space**.\n\nAccording to Section 2.1 of the agreement:\n\n> \"During the term of this Agreement, LKPL will provide Axiometric with a license to use office space in LKPL's corporate facility in Columbia, Maryland, **free of charge**.\"\n\nThe agreement specifies that LKPL provides Axiometric with office space for two individuals and associated equipment, along with access to LKPL's telephone system, internet connections, conference room, and printers\u2014all at no cost. However, Axiometric is responsible for providing its own equipment, furniture, and supplies, and must use the space in accordance with LKPL's lease terms."
+    },
+    {
+      "id": "q18",
+      "cat": "termination",
+      "verdict": "HIT",
+      "question": "How much notice can LKPL give to terminate Axiometric's license to use the office space?",
+      "expected": "60 days notice.",
+      "evidence": "LKPL may terminate Axiometric's license to use work space in LKPL's facility upon 60 days notice",
+      "answer": "Perfect! I found the answer in the **Link Plus Corp Affiliate Agreement** (dated July 15, 2005).\n\nAccording to **Section 2.3** of the agreement:\n\n**LKPL can terminate Axiometric's license to use office space upon 60 days notice.**\n\nSpecifically, the contract states:\n\n> \"If LKPL deems itself unable to continue to provide Axiometric work space without expanding LKPL's facilities, and if LKPL determines it will be in its own best interests to expand its facilities, then LKPL will afford Axiometric the opportunity to lease space in the new facilities under a mutually acceptable separate commercial rental agreement. If Axiometric does not then wish to rent office space from LKPL, then LKPL may terminate Axiometric's license to use work space in LKPL's facility upon 60 days notice.\"\n\nNote: The agreement also provides that Axiometric has the right to terminate the license and move out at any time upon **two weeks notice** (Section 2.6)."
+    },
+    {
+      "id": "q19",
+      "cat": "factual",
+      "verdict": "MISS",
+      "question": "Where is element 5 GmbH headquartered?",
+      "expected": "Vogelsanger Strasse 78, 50823 Cologne, Germany.",
+      "evidence": "element 5 GmbH, Vogelsanger Strasse 78, 50823 Cologne, Germany",
+      "answer": "I don't have access to a tool that searches for general company information like headquarters locations. My tools are designed specifically to search and analyze contract text.\n\nIf you have a contract involving element 5 GmbH that you'd like me to search, I can help you find information about their headquarters or other details mentioned in that contract. Do you have a specific contract you'd like me to look at?"
+    },
+    {
+      "id": "q20",
+      "cat": "factual",
+      "verdict": "HIT",
+      "question": "What types of products are advertised through element 5's Affiliate Program?",
+      "expected": "Software products from element 5 Software Publishers.",
+      "evidence": "publish electronic advertisements on the Web site of the Affiliate for selected software products offered by element 5 Software Publishers",
+      "answer": "Based on the search results, I found the Element 5 Affiliate Program agreement. According to the document, the types of products advertised through Element 5's Affiliate Program are:\n\n**Software Products**\n\nSpecifically, the agreement states that:\n\n> \"The object of the Affiliate Program provided by element 5 (hereafter, \"Program\") is to publish electronic advertisements on the Web site of the Affiliate for **selected software products offered by element 5 Software Publishers**.\"\n\nThe agreement further clarifies that:\n\n> \"The Products under the Agreement are **software products designated by the respective Software Publisher** for this purpose and which can be selected by the Affiliate from a product catalog in the Affiliate Control Panel.\"\n\nSo Element 5's Affiliate Program focuses exclusively on advertising **software products** that are offered by Software Publishers who use Element 5's distribution and sales services. Affiliates can select from a catalog of available software products to advertise on their websites and earn commission-based compensation for referred sales."
+    },
+    {
+      "id": "q21",
+      "cat": "governing_law",
+      "verdict": "MISS",
+      "question": "Which state's law governs the Equidata / National Credit Report Marketing Affiliate Agreement?",
+      "expected": "Virginia.",
+      "evidence": "This Agreement is governed by and construed in accordance with the laws of the State of Virginia",
+      "answer": "I don't see a contract with \"Equidata\" or \"National Credit Report Marketing\" in the available contracts. The closest match I can find is:\n\n- **CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate%20Agreement**\n\nCould you clarify which contract you're asking about? Is it the Creditcards.com Affiliate Agreement, or is there a different contract name you'd like me to search for?"
+    },
+    {
+      "id": "q22",
+      "cat": "expiration_date",
+      "verdict": "MISS",
+      "question": "What is the initial term of the Equidata Marketing Affiliate Agreement, and how does it renew?",
+      "expected": "One year, then automatically renews under the same terms unless superseded.",
+      "evidence": "This Agreement shall be for the term of one year; thereafter, the Agreement shall renew automatically",
+      "answer": "I don't see an \"Equidata Marketing Affiliate Agreement\" in the available contracts. The contract list does not contain any contract with \"Equidata\" in the title. \n\nCould you please verify the exact name of the contract you're looking for? It's possible the contract may be titled differently, or it may not be in the current database. If you can provide more details or an alternative name, I'd be happy to search for it."
+    },
+    {
+      "id": "q23",
+      "cat": "payment_terms",
+      "verdict": "MISS",
+      "question": "When are payments due under the Equidata Marketing Affiliate Agreement?",
+      "expected": "30 days from the invoice date; invoices are issued bi-monthly.",
+      "evidence": "Such amounts shall be billed on a bi-monthly basis by Equidata and are due and payable in full by Marketing Affiliate 30 days from the invoice date",
+      "answer": "I don't see an \"Equidata Marketing Affiliate Agreement\" in the available contracts. The list includes several affiliate agreements, but none specifically named \"Equidata Marketing Affiliate Agreement.\"\n\nCould you clarify which contract you're asking about? Is it possible you meant one of these affiliate agreements, or do you have a different name for the Equidata contract?"
+    },
+    {
+      "id": "q25",
+      "cat": "factual",
+      "verdict": "HIT",
+      "question": "Within how many days must Affiliate submit its Promotional Spots report under the TUBE / Tribune agreement?",
+      "expected": "45 days after the end of each calendar quarter.",
+      "evidence": "Affiliate shall submit to Network, within forty-five (45) days of the end of each calendar quarter, a report",
+      "answer": "Based on the TUBE Media Corp. Affiliate Agreement, **Affiliate must submit its Promotional Spots report within forty-five (45) days** of the end of each calendar quarter.\n\nSpecifically, Section 7(c) states:\n\n> \"Affiliate shall submit to Network, within forty-five (45) days of the end of each calendar quarter, a report on behalf of each Station with respect to the Promotional Spots aired by each Station during such calendar quarter, setting forth the date and time each such Promotional Spot aired on the Primary Feed.\""
+    },
+    {
+      "id": "q26",
+      "cat": "insurance",
+      "verdict": "HIT",
+      "question": "What Commercial General Liability insurance limits must Network maintain under the TUBE / Tribune agreement?",
+      "expected": "Not less than $1,000,000 per occurrence and $2,000,000 in the aggregate.",
+      "evidence": "Commercial General Liability insurance at liability limits of not less than $1,000,000 each occurrence and $2,000,000 in the aggregate",
+      "answer": "Based on the TUBE Media Corp. Affiliate Agreement, **Network must maintain Commercial General Liability insurance at liability limits of not less than:**\n\n- **$1,000,000 each occurrence**\n- **$2,000,000 in the aggregate**\n\nAdditionally, Network must procure and maintain Errors and Omissions insurance covering Network's media activities at a liability limit of $1,000,000 in any one policy period. The Affiliate must be named as an additional insured on these policies, and Network must provide certificates of insurance prior to the Affiliate Launch Date, with 30 days' prior written notice required for any cancellation or material changes to the coverage."
+    },
+    {
+      "id": "q27",
+      "cat": "termination",
+      "verdict": "HIT",
+      "question": "How many days of prior written notice does either party need to give to terminate the Union Dental / George Green Business Affiliate Agreement?",
+      "expected": "Thirty (30) days prior written notice.",
+      "evidence": "continue in effect until either Party informs the other Party with thirty (30) day prior written notice of termination",
+      "answer": "Based on the Union Dental / George Green Business Affiliate Agreement, **either party needs to provide thirty (30) days of prior written notice to terminate the Agreement**.\n\nSpecifically, Section 5.a (Term and Termination) states:\n\n> \"This Agreement shall become effective on the Effective Date and shall continue in effect until either Party informs the other Party with thirty (30) day prior written notice of termination of this Agreement.\"\n\nHowever, there is an exception: Section 5.b allows UDC (Union Dental Corp.) to immediately terminate the Agreement without notice if there is a material breach, or UDC may alternatively provide the Business Affiliate with ten (10) days written notice of the alleged material breach and an opportunity to cure it."
+    },
+    {
+      "id": "q28",
+      "cat": "confidentiality",
+      "verdict": "HIT",
+      "question": "Within how many days after termination must Confidential Information be returned under the Union Dental agreement?",
+      "expected": "Fifteen (15) days.",
+      "evidence": "fifteen (15) days of the termination of this Agreement, any Confidential Information provided to such Party",
+      "answer": "Based on the Union Dental agreement, **Confidential Information must be returned within fifteen (15) days of termination**.\n\nSpecifically, Section 3(g) states:\n\n> \"Return to a Party or destroy, as requested by a Party, within fifteen (15) days of the termination of this Agreement, any Confidential Information provided to such Party and in its possession and retain no copies or back-up tapes.\"\n\nThis obligation applies to all Confidential Information in the possession of either party, including information held by subcontractors or agents."
+    },
+    {
+      "id": "q29",
+      "cat": "termination",
+      "verdict": "MISS",
+      "question": "Under what conditions can UDC terminate the Business Affiliate Agreement without notice?",
+      "expected": "UDC may immediately terminate without notice if it determines the Business Affiliate has breached.",
+      "evidence": "UDC may immediately terminate this Agreement without notice",
+      "answer": "I don't see a contract specifically titled \"Business Affiliate Agreement\" in the available contracts. However, I see several affiliate agreements. Could you clarify which contract you're referring to? Here are the affiliate-related agreements available:\n\n- CreditcardscomInc - Affiliate Agreement\n- CybergyHoldingsInc - Affiliate Agreement\n- DigitalCinemaDestinationsCorp - Affiliate Agreement\n- LinkPlusCorp - Affiliate Agreement\n- SouthernStarEnergyInc - Affiliate Agreement\n- SteelVaultCorp - Affiliate Agreement\n- TubeMediaCorp - Affiliate Agreement\n- UnionDentalHoldingsInc - Affiliate Agreement\n- UsioInc - Affiliate Agreement\n\nIs \"UDC\" mentioned in one of these contracts, or is it a different type of agreement altogether?"
+    },
+    {
+      "id": "q30",
+      "cat": "payment_terms",
+      "verdict": "MISS",
+      "question": "Where are disputes raised by Payment Data Systems resolved under the Network 1 affiliate office agreement?",
+      "expected": "By arbitration in McLean, Virginia, under American Arbitration Association rules.",
+      "evidence": "All disputes or claims by Payment Data Systems hereunder shall be resolved by arbitration in McLean, Virginia, pursuant to the rules of the American Arbitration Association",
+      "answer": "I don't see a contract specifically titled \"Network 1 affiliate office agreement\" in the available contracts. Could you provide more details about this contract, or let me know if it might be listed under a different name? \n\nAlternatively, if you're looking for information about Payment Data Systems and dispute resolution in any of the available contracts, I can search across the corpus. Would you like me to do that?"
+    },
+    {
+      "id": "q31",
+      "cat": "payment_terms",
+      "verdict": "MISS",
+      "question": "How is the Exit Fee defined under the Network 1 affiliate office agreement?",
+      "expected": "18 months of net recurring revenue per transferring merchant normally paid to Affiliate.",
+      "evidence": "eighteen (18) months net recurring revenue normally paid to Affiliate",
+      "answer": "I don't see a contract specifically titled \"Network 1 affiliate office agreement\" in the available contracts. Could you clarify which contract you're referring to? Is it one of the affiliate agreements listed above, or do you have a different name for the Network 1 agreement?"
+    },
+    {
+      "id": "q32",
+      "cat": "payment_terms",
+      "verdict": "HIT",
+      "question": "What payment processing services does Network 1 Financial provide?",
+      "expected": "VISA and MasterCard processing and related payment processing services for merchants.",
+      "evidence": "VISA and MasterCard processing and related payment processing services",
+      "answer": "Based on the search results, according to the Network 1 Financial Affiliate Office Agreement, **Network 1 Financial provides the following payment processing services:**\n\n1. **VISA and MasterCard processing** \u2014 the primary service mentioned\n2. **Related payment processing services** \u2014 provided through various Member Banks to merchants\n\nThe agreement specifically states that \"Network 1 Financial, Inc. provides through various Member Bank(s) ('Member'), VISA and MasterCard processing and related payment processing services ('Services') to merchant(s) ('Merchant(s)').\"\n\nThe services are delivered in accordance with agreements between Network 1, Member Banks, and other settlement/transaction processing providers. The company operates through an affiliate and contractor network model to market these services to merchants."
+    },
+    {
+      "id": "q33",
+      "cat": "out_of_scope",
+      "verdict": "HIT",
+      "question": "Who is the current CEO of Newegg Inc.?",
+      "expected": "Not found in the provided documents.",
+      "evidence": "",
+      "answer": "I don't have access to tools that can answer questions about current corporate leadership or real-time business information. My tools are designed specifically to search and analyze contract text.\n\nTo find the current CEO of Newegg Inc., I'd recommend:\n- Visiting Newegg's official website (investor relations section)\n- Checking recent SEC filings (10-K, 8-K forms)\n- Looking at business news sources like Bloomberg, Reuters, or Yahoo Finance\n\nIs there a contract related to Newegg that I can help you search or analyze instead?"
+    },
+    {
+      "id": "q34",
+      "cat": "out_of_scope",
+      "verdict": "HIT",
+      "question": "What is Allied Esports Entertainment's current stock price?",
+      "expected": "Not found in the provided documents.",
+      "evidence": "",
+      "answer": "I don't have access to real-time stock price data or financial market information. My tools are designed to search and analyze legal contracts only.\n\nTo find Allied Esports Entertainment's current stock price, you would need to:\n- Check financial websites like Yahoo Finance, Google Finance, or Bloomberg\n- Visit your brokerage platform\n- Search the company's investor relations website\n\nIs there a legal contract related to Allied Esports Entertainment that you'd like me to help you research instead?"
+    },
+    {
+      "id": "q35",
+      "cat": "out_of_scope",
+      "verdict": "HIT",
+      "question": "How many full-time employees does Chase Bank USA have?",
+      "expected": "Not found in the provided documents.",
+      "evidence": "",
+      "answer": "I don't have access to information about Chase Bank USA's employee count. My tools are designed to search and analyze contract text, not to provide general corporate information.\n\nIf you have a specific contract (such as an employment agreement, service agreement, or other document involving Chase Bank USA) that you'd like me to search for employee-related information, I'd be happy to help with that.\n\nIs there a contract you'd like me to look up?"
+    },
+    {
+      "id": "q36",
+      "cat": "out_of_scope",
+      "verdict": "HIT",
+      "question": "Which team won the 2023 Super Bowl?",
+      "expected": "Not found in the provided documents.",
+      "evidence": "",
+      "answer": "I'm a legal-contract research assistant, and I only have access to tools for searching and analyzing contracts. I can't answer general knowledge questions like sports trivia.\n\nIf you have questions about contracts \u2014 such as terms, clauses, governing law, renewal conditions, liability caps, or comparisons across agreements \u2014 I'd be happy to help with those!"
+    },
+    {
+      "id": "q37",
+      "cat": "out_of_scope",
+      "verdict": "HIT",
+      "question": "What year was element 5 GmbH founded?",
+      "expected": "Not found in the provided documents.",
+      "evidence": "",
+      "answer": "I don't have access to general information about companies or their founding dates. My tools are designed to search and analyze legal contracts.\n\nIf you're asking about **element 5 GmbH** because it appears in one of the contracts I have access to, I can help you search for that information within those contracts. \n\nWould you like me to:\n1. Search the available contracts for mentions of \"element 5 GmbH\" and its founding year?\n2. Or do you have a specific contract in mind that mentions this company?\n\nLet me know, and I can search the contract database for you."
+    },
+    {
+      "id": "q38",
+      "cat": "effective_date",
+      "verdict": "HIT",
+      "question": "What is the Effective Date of the Newegg-Allied sponsorship agreement?",
+      "expected": "February 1, 2019.",
+      "evidence": "made and effective as of February 1, 2019",
+      "answer": "The **Effective Date of the Newegg-Allied sponsorship agreement is February 1, 2019**.\n\nThis is stated in the opening of the agreement: \"This Event Sponsorship Agreement (\"Agreement\") is made and effective as of February 1, 2019 (the \"Effective Date\"), by and between Newegg Inc. (\"Newegg\"), a Delaware corporation, and Allied Esports International, Inc., a Nevada corporation (\"Allied\").\""
+    },
+    {
+      "id": "q39",
+      "cat": "license_grant",
+      "verdict": "HIT",
+      "question": "What kind of license does Newegg grant to Allied for the Newegg Marks?",
+      "expected": "A revocable, non-transferable, non-assignable, non-sublicensable, non-exclusive and limited license.",
+      "evidence": "Newegg grants Allied a revocable, non-transferrable, non-assignable",
+      "answer": "Based on the Sponsorship Agreement between Allied Esports Entertainment Inc. and Newegg, Newegg grants Allied a **revocable, non-transferrable, non-assignable, non-sublicensable, non-exclusive and limited license** to use the Newegg Marks.\n\nSpecifically, according to Section 6.1 of the agreement, this license permits Allied to use the Newegg Marks **solely in connection with Allied's marketing and conduct of the Arena** during the Term of the agreement.\n\nKey characteristics of this license include:\n\n- **Revocable** \u2014 Newegg can terminate it\n- **Non-transferrable and non-assignable** \u2014 Allied cannot transfer it to others, whether voluntarily or through a change of control\n- **Non-sublicensable** \u2014 Allied cannot grant sublicenses to third parties\n- **Non-exclusive** \u2014 Newegg can grant similar licenses to others\n- **Limited** \u2014 Restricted to specific uses related to the Arena\n\nAdditionally, the agreement makes clear that Allied does not acquire any ownership rights in the Newegg Marks, and all goodwill associated with Allied's use of the marks inures exclusively to the benefit of Newegg. Allied's use is also subject to Newegg's right of review, approval, and control exercised in Newegg's sole discretion."
+    },
+    {
+      "id": "q40",
+      "cat": "expiration_date",
+      "verdict": "HIT",
+      "question": "When does the Term of the Jacksonville Jaguars sponsorship commence?",
+      "expected": "April 1, 2018 (the Effective Date).",
+      "evidence": "shall commence as of April 1, 2018 (the \u201cEffective Date\u201d)",
+      "answer": "Based on the Jacksonville Jaguars Sponsorship Agreement, the Term commences on **April 1, 2018** (referred to as the \"Effective Date\"). \n\nThe agreement was executed on November 27, 2017, but the actual term of the sponsorship between Jacksonville Jaguars, LLC and The ARC Group, Inc. begins on April 1, 2018, and expires upon the later of (a) the conclusion of the 2022/23 NFL season or (b) the last day in February, 2023."
+    },
+    {
+      "id": "q41",
+      "cat": "expiration_date",
+      "verdict": "MISS",
+      "question": "When does the Jacksonville Jaguars sponsorship agreement expire?",
+      "expected": "Upon the later of the conclusion of the 2022/23 NFL season and the last day of February 2023.",
+      "evidence": "shall expire upon the later of: (a) the conclusion of the 2022/23 NFL season",
+      "answer": "I don't see a Jacksonville Jaguars sponsorship agreement in the list of available contracts. The contracts available do not include one specifically for the Jacksonville Jaguars. \n\nWould you like me to search for a different contract, or do you have additional information about which company or entity this sponsorship agreement might be associated with?"
+    },
+    {
+      "id": "q42",
+      "cat": "payment_terms",
+      "verdict": "MISS",
+      "question": "How often is Commission paid to the Affiliate under the Chase Affiliate Agreement?",
+      "expected": "Monthly.",
+      "evidence": "set forth below (\u201cCommission\u201d) paid monthly",
+      "answer": "I don't see a \"Chase Affiliate Agreement\" in the available contracts. The contracts listed include several Affiliate Agreements from other companies (CreditCards.com, Cybergy Holdings, Digital Cinema Destinations, LinkPlus Corp, Southern Star Energy, SteelVault Corp, TubeMedia Corp, and Union Dental Holdings), but none from Chase.\n\nCould you clarify which contract you're referring to? Is it possible you meant one of the other Affiliate Agreements listed, or is there a different name for the Chase agreement?"
+    },
+    {
+      "id": "q43",
+      "cat": "definitional",
+      "verdict": "MISS",
+      "question": "What is an 'Approved Account' under the Chase Affiliate Agreement?",
+      "expected": "A Chase credit card application submitted via a link on the Affiliate's website that Chase approves.",
+      "evidence": "an \u201cApproved Account\u201d means any Chase credit card application",
+      "answer": "I don't see a \"Chase Affiliate Agreement\" in the available contracts. The contracts listed include several affiliate agreements, but none specifically from Chase. Could you clarify which contract you're referring to? Is it possible you meant:\n\n- One of the other Affiliate Agreements listed (such as CreditcardscomInc, Cyberghy Holdings, Digital Cinema Destinations, Link Plus Corp, Southern Star Energy, Steel Vault Corp, Tube Media Corp, or Union Dental Holdings)?\n- Or a different Chase-related contract?\n\nPlease let me know which specific contract you'd like me to search."
+    },
+    {
+      "id": "q44",
+      "cat": "factual",
+      "verdict": "MISS",
+      "question": "Within how many business days must the Marketing Affiliate present materials for review under the Birch First / Mount Knowledge agreement?",
+      "expected": "Ten (10) business days.",
+      "evidence": "within ten (10) business days following the",
+      "answer": "I don't see a contract with \"Birch First\" or \"Mount Knowledge\" in the available contracts. Could you please clarify which contract you're referring to? You might want to:\n\n1. Check if the contract name is slightly different than what you mentioned\n2. Provide the full or partial name of the contract as it appears in the system\n3. Let me know if it might be listed under a different company name\n\nAlternatively, if you'd like me to search across all contracts for information about Marketing Affiliate material review timelines, I can do that as well."
+    },
+    {
+      "id": "q45",
+      "cat": "factual",
+      "verdict": "HIT",
+      "question": "What is the patron base of the Network Affiliate's theatre circuit under the NCM / Digital Cinema agreement?",
+      "expected": "In excess of 400,000 patrons.",
+      "evidence": "patron base in excess of 400,000 patrons",
+      "answer": "Perfect! I found the information. According to the NCM / Digital Cinema agreement (specifically the Network Affiliate Agreement between National CineMedia, LLC and Digital Cinema Destinations Corp.):\n\n**The patron base of the Network Affiliate's theatre circuit is in excess of 400,000 patrons.**\n\nThis is stated in the \"WHEREAS\" section of the agreement:\n\n> \"WHEREAS, Network Affiliate owns and operates a theatre circuit with a patron base in excess of 400,000 patrons\"\n\nAdditionally, the agreement references a \"Base Amount\" of 400,000 patrons in Section 7.2, which is used to determine the Minimum Fee calculation for the twelve-month periods during the term of the agreement."
+    },
+    {
+      "id": "q46",
+      "cat": "confidentiality",
+      "verdict": "HIT",
+      "question": "Does 'Confidential Information' include information already known to the recipient under the NCM / Digital Cinema agreement?",
+      "expected": "No - information already known to the recipient at the time of receipt is excluded.",
+      "evidence": "Confidential Information does not include information which: (i) the recipient can demonstrate was already known",
+      "answer": "Perfect! I found the answer in the Digital Cinema Destinations Corp. Affiliate Agreement (which involves NCM - National CineMedia, LLC).\n\n**No, 'Confidential Information' does NOT include information already known to the recipient.**\n\nAccording to the agreement, \"Confidential Information\" is defined as:\n\n> \"any and all technical and non-technical information of or related to either Party, including, without limitation, proprietary information, know-how, the NCM Property and Derived Works, and information related to or regarding either Party's research and development, finances, suppliers, customers, business forecasts, and marketing plans, in whatever form disclosed or made available.\"\n\nHowever, the definition explicitly **excludes** information which:\n\n1. **(i) the recipient can demonstrate was already known to it at the time of its receipt** hereunder;\n2. (ii) is or becomes generally available to the public other than by means of the recipient's breach of its obligations under this Agreement;\n3. (iii) is independently obtained from a third party whose disclosure violates no duty of confidentiality; or\n4. (iv) is independently developed by or on behalf of the recipient without use of or reliance on any Confidential Information furnished to it under this Agreement.\n\nSo information already known to the recipient at the time of receipt is explicitly carved out from the definition of Confidential Information."
+    },
+    {
+      "id": "q47",
+      "cat": "indemnification",
+      "verdict": "HIT",
+      "question": "Who must indemnify whom under the Link Plus / Axiometric agreement?",
+      "expected": "Axiometric must indemnify and hold LKPL and the Indemnified Parties harmless.",
+      "evidence": "Axiometric must indemnify and hold LKPL and its officers",
+      "answer": "Based on the Link Plus / Axiometric agreement, **Axiometric must indemnify Link Plus Corporation (LKPL)**.\n\nSpecifically, Section 2.8 states:\n\n> \"Axiometric must indemnify and hold LKPL and its officers, directors, stockholders, agents, contractors, employees and guests (collectively, the \"Indemnified Parties\") harmless from and against any and all Loss that the Indemnified Parties may incur arising from or relating to Axiometric use of the office space, including but not limited to any Loss suffered by the Indemnified Parties as a result of any negligent acts or omissions of Axiometric, its employees, agents, contractors and representatives, or anyone else working under Axiometric or in the office with the permission of Axiometric.\"\n\nThis indemnification obligation covers losses arising from Axiometric's use of office space provided by LKPL, including losses from negligent acts or omissions by Axiometric and its personnel."
+    },
+    {
+      "id": "q48",
+      "cat": "factual",
+      "verdict": "HIT",
+      "question": "What is the maximum lifespan of the cookies used in element 5's Affiliate Program?",
+      "expected": "A maximum of 180 days.",
+      "evidence": "lifespan (of max. 180 days) of the cookie(s)",
+      "answer": "Based on the search results, I found the answer in element 5's Affiliate Program agreement.\n\n**The maximum lifespan of the cookies used in element 5's Affiliate Program is 180 days.**\n\nThis is stated in Section II, \u00a7 6(2) of the Affiliate Agreement:\n\n> \"Insofar as the referred end user accepts cookies when clicking on Affiliate's link, proceeds from orders will be taken into account which do arise within the lifespan (of max. 180 days) of the cookie(s) used and/ or possibly within the lifespan of a special action of the Software Publisher via integrated link.\"\n\nThis means that affiliate commissions are only earned on sales that occur within 180 days of the end user clicking on the affiliate's link (assuming the user accepts cookies)."
+    },
+    {
+      "id": "q49",
+      "cat": "factual",
+      "verdict": "HIT",
+      "question": "How many days does an Affiliate have to object after element 5 announces changed participation terms?",
+      "expected": "Within 14 days of the announcement.",
+      "evidence": "WHITHIN 14 DAYS OF THE ANNOUNCEMENT OF CHANGED PARTICIPATION TERMS",
+      "answer": "Perfect! I found the answer. According to the **Southern Star Energy Inc. Affiliate Agreement**, the relevant section states:\n\n**An Affiliate has 14 days to object after element 5 announces changed participation terms.**\n\nThe specific language from \u00a7 2 (Changes to these provisions) reads:\n\n> \"WHITHIN 14 DAYS OF THE ANNOUNCEMENT OF CHANGED PARTICIPATION TERMS, AFFILIATE AND SOFTWARE PUBLISHER MAY OBJECT TO SUCH CHANGES. IF NO OBJECTION IS RECEIVED DURING THIS TIME, THE PARTICIPANT IS DEEMED TO HAVE ACCEPTED THE CHANGES AND THEY WILL BECOME PART OF THE EXISTING RELATIONS UNDER THE AGREEMENT.\""
+    },
+    {
+      "id": "q50",
+      "cat": "payment_terms",
+      "verdict": "MISS",
+      "question": "What is the returned check fee under the Equidata Marketing Affiliate Agreement?",
+      "expected": "Not less than $35.00 per returned item.",
+      "evidence": "returned check fee of not less than $35.00 per returned item",
+      "answer": "I don't see an \"Equidata Marketing Affiliate Agreement\" in the list of available contracts. The contracts available include several affiliate agreements, but none specifically named \"Equidata Marketing Affiliate Agreement.\"\n\nCould you please clarify which contract you're referring to? You might want to check:\n- If \"Equidata\" is the correct company name\n- If there's a different title for the agreement you're looking for\n\nAlternatively, if you can provide more details about the contract (such as the company name or filing date), I can help you locate it."
+    },
+    {
+      "id": "q51",
+      "cat": "factual",
+      "verdict": "MISS",
+      "question": "Within how many days must the Marketing Affiliate give written demand of a dispute under the Equidata agreement?",
+      "expected": "Within 10 days of the due date of the invoice.",
+      "evidence": "shall give Equidata written demand of dispute within 10 days of the due date",
+      "answer": "I don't see an \"Equidata\" contract in the available list. Could you please clarify which contract you're referring to? Is it possible you meant a different contract name, or could you provide more details about the Equidata agreement?"
+    },
+    {
+      "id": "q52",
+      "cat": "expiration_date",
+      "verdict": "HIT",
+      "question": "When does the Initial Term of the TUBE Music Network / Tribune agreement expire?",
+      "expected": "March 31, 2011.",
+      "evidence": "expire on March 31, 2011",
+      "answer": "Perfect! I found the information. According to the TUBE Music Network / Tribune agreement (TubeMediaCorp Affiliate Agreement dated March 10, 2006):\n\n**The Initial Term expires on March 31, 2011.**\n\nThe relevant clause states: \"The 'Initial Term' shall commence upon the Effective Date and shall expire on March 31, 2011.\""
+    },
+    {
+      "id": "q53",
+      "cat": "definitional",
+      "verdict": "HIT",
+      "question": "What does 'FCC' stand for in the TUBE Music Network / Tribune agreement?",
+      "expected": "Federal Communications Commission.",
+      "evidence": "Federal Communications Commission (\u201cFCC\u201d)",
+      "answer": "Based on the search results from the Tube Media Corp Affiliate Agreement, **'FCC' stands for \"Federal Communications Commission\"**.\n\nThis is explicitly defined in the contract's definitions section, which states:\n\n> \"MVPD\" means a multichannel video program distributor as such term is set forth in 47 C.F.R. \u00a776.905(d) of the rules of the Federal Communications Commission (\"FCC\").\n\nThe contract also references FCC rules and regulations multiple times throughout, including references to FCC Rules sections 76.101, 76.123, 73.671(c), and 73.670, relating to broadcast standards, children's programming, and commercial limits."
+    },
+    {
+      "id": "q54",
+      "cat": "renewal_term",
+      "verdict": "HIT",
+      "question": "When does the exclusive negotiation period for renewal end under the TUBE / Tribune agreement?",
+      "expected": "Six (6) months before the expiration of the Term.",
+      "evidence": "exclusive negotiation period will end six (6) months before the expiration of the Term",
+      "answer": "Based on the search results, I found the answer in the **TUBE Media Corp. Affiliate Agreement** (which is the TUBE / Tribune agreement you're asking about):\n\n**The exclusive negotiation period for renewal ends six (6) months before the expiration of the Term.**\n\nSpecifically, Section 2(c) states:\n\n> \"If the Term is renewed as described in Section 2(b), Network and Affiliate will negotiate exclusively and in good faith concerning further renewal of this Agreement upon mutually-agreed terms and conditions; provided, that unless Network and Affiliate otherwise agree in writing, the exclusive negotiation period will end six (6) months before the expiration of the Term.\"\n\nSince the Initial Term expires on March 31, 2011, and the Renewal Term is for an additional four (4) years, the exclusive negotiation period for renewal would end six months before the expiration of whichever term is being renewed."
+    },
+    {
+      "id": "q55",
+      "cat": "effective_date",
+      "verdict": "HIT",
+      "question": "What is the Effective Date of the Union Dental / George Green Business Affiliate Agreement?",
+      "expected": "October 15, 2004.",
+      "evidence": "effective as of October 15, 2004",
+      "answer": "Based on the search results, the **Effective Date of the Union Dental / George Green Business Affiliate Agreement is October 15, 2004**.\n\nThe agreement was dated January 28, 2005, but it was made effective as of October 15, 2004. This is stated in the opening of the agreement: \"This Business Affiliate Agreement (\"Agreement\") dated January 28, 2005, effective as of October 15, 2004, (\"Effective Date\") is entered into by and between Dr. George D. Green (the \"Business Affiliate\") and UNION DENTAL CORP., a Florida corporation (\"UDC\").\""
+    },
+    {
+      "id": "q56",
+      "cat": "factual",
+      "verdict": "MISS",
+      "question": "Within how many business days must the Affiliate respond to a right-of-first-refusal Offer under the Network 1 agreement?",
+      "expected": "Within 15 business days of receipt of the Offer.",
+      "evidence": "Affiliate within 15 business days of receipt of the Offer",
+      "answer": "I don't see a contract titled \"Network 1\" in the available contracts. Could you clarify which contract you're referring to? Is it possible you meant one of the affiliate agreements listed, or is there a different name for the contract you're asking about?"
+    },
+    {
+      "id": "q57",
+      "cat": "factual",
+      "verdict": "MISS",
+      "question": "How much written notice must CLIENT give regarding the Merchant Program under the Network 1 agreement?",
+      "expected": "120 days written notice.",
+      "evidence": "CLIENT shall have given 120 days written",
+      "answer": "I don't see a contract titled \"Network 1\" in the available contracts. Could you clarify which contract you're referring to? Is it possible you meant a different name, or could you provide more details about the Network 1 agreement (such as the company name or document type)?"
+    },
+    {
+      "id": "q58",
+      "cat": "factual",
+      "verdict": "MISS",
+      "question": "What is the maximum compensation under the Network 1 affiliate office agreement?",
+      "expected": "A maximum of $250,000.",
+      "evidence": "compensation terms of this Agreement to a maximum of $250,000",
+      "answer": "I don't see a contract specifically titled \"Network 1 affiliate office agreement\" in the available contracts. Could you clarify which contract you're referring to? Is it one of the affiliate agreements listed above, or do you have a different name for the Network 1 agreement?"
+    },
+    {
+      "id": "q59",
+      "cat": "exclusivity",
+      "verdict": "HIT",
+      "question": "Who is the sole and exclusive owner of the Newegg Marks under the Allied agreement?",
+      "expected": "Newegg.",
+      "evidence": "Newegg is and shall be at all times the sole and exclusive owner",
+      "answer": "Based on the Allied Esports Entertainment Sponsorship Agreement, **Newegg** is the sole and exclusive owner of the Newegg Marks.\n\nSpecifically, Section 6.2 of the agreement states:\n\n> \"Allied acknowledges and agrees that Newegg has valuable goodwill and reputation in the Newegg Marks and that **Newegg is and shall be at all times the sole and exclusive owner of rights, including Intellectual Property Rights, in and related to the Newegg Marks.**\"\n\nThe agreement further clarifies that Allied does not acquire any right, title, or interest in the Newegg Marks through the limited license granted to it, and that all goodwill associated with Allied's use of the Newegg Marks shall inure exclusively to the benefit of Newegg."
+    },
+    {
+      "id": "q60",
+      "cat": "factual",
+      "verdict": "MISS",
+      "question": "Within how many days must a party report an unauthorized use or disclosure under the Birch First / Mount Knowledge agreement?",
+      "expected": "Within thirty (30) days of such discovery.",
+      "evidence": "thirty (30) days of such discovery",
+      "answer": "I don't see a contract with \"Birch First\" or \"Mount Knowledge\" in the available contracts. The contract titles listed don't match that name. Could you please clarify which contract you're referring to? You might want to:\n\n1. Check the exact name of the contract\n2. Provide additional details about the parties involved\n3. Let me know if it might be listed under a different name\n\nAlternatively, if you'd like me to search across all contracts for unauthorized use or disclosure reporting requirements, I can do that as well."
+    },
+    {
+      "id": "q61",
+      "cat": "exclusivity",
+      "verdict": "HIT",
+      "question": "Does Axiometric have an exclusive right to market AMR Product Suites to certain entities under the Link Plus agreement?",
+      "expected": "Yes - Axiometric has the exclusive right to market and sell to entities headquartered in specified locations.",
+      "evidence": "Axiometric shall have the exclusive right to market",
+      "answer": "Yes, according to the Link Plus agreement, **Axiometric does have an exclusive right to market AMR Product Suites to certain entities**. Specifically:\n\n**Section 3.2.1** states:\n> \"Axiometric shall have the exclusive right to market and sell AMR Product Suites to entities whose corporate headquarters are physically located in the United States and U.S. territories with the exception of Datamatic as defined in 3.3.1 and 3.3.2 below\"\n\n**The exception** is that Link Plus Corporation (LKPL) has the exclusive right to market and sell AMR Product Suites to Datamatic LTD (a Plano, TX corporation), as specified in Section 3.2.2.\n\nAdditionally, **Link Plus has the exclusive right to market and sell AMR Product Suites to entities whose corporate headquarters are located outside the United States and its territories** (Section 3.2.3).\n\nSo in summary, Axiometric's exclusive marketing rights are limited to U.S. and U.S. territory entities, excluding Datamatic."
+    },
+    {
+      "id": "q62",
+      "cat": "payment_terms",
+      "verdict": "MISS",
+      "question": "What payment timing applies to Playoff Payments under the Jacksonville Jaguars agreement?",
+      "expected": "Not later than 30 days following Sponsor's receipt of an invoice.",
+      "evidence": "not later than 30 days following Sponsor\u2019s receipt of an invoice",
+      "answer": "I don't see a Jacksonville Jaguars agreement in the available contracts. The list does not contain any sports team or NFL-related agreements. Could you please verify the exact name of the contract you're looking for, or let me know if it might be listed under a different title?"
+    },
+    {
+      "id": "q63",
+      "cat": "factual",
+      "verdict": "HIT",
+      "question": "How many days prior notice must Equidata give before increasing the base cost of Services?",
+      "expected": "No less than 30 days prior to the increase.",
+      "evidence": "Notice will be given to Marketing Affiliate in writing no less than 30 days prior to such increase",
+      "answer": "Perfect! I found the information. According to the SteelVaultCorp Affiliate Agreement with Equidata:\n\n**Equidata must give 30 days prior notice before increasing the base cost of Services.**\n\nThe relevant clause states: \"Equidata reserves the right to increase the base cost of Services. Notice will be given to Marketing Affiliate in writing no less than 30 days prior to such increase taking affect.\""
+    },
+    {
+      "id": "q64",
+      "cat": "definitional",
+      "verdict": "MISS",
+      "question": "What rights does element 5 grant the Affiliate to use advertising material?",
+      "expected": "A non-exclusive, revocable right to use provided advertising material.",
+      "evidence": "Affiliate a non-exclusive, revocable right to use provided advertising",
+      "answer": "I need to identify which contract you're asking about. Could you please specify which contract contains \"element 5\" or provide the contract name? For example, is this from a franchise agreement, partnership agreement, affiliate agreement, or another type of contract?\n\nAlternatively, I can list all available contracts to help you identify the right one."
+    },
+    {
+      "id": "q65",
+      "cat": "out_of_scope",
+      "verdict": "HIT",
+      "question": "Is the Newegg-Allied agreement a franchise under the Birch First / Mount Knowledge agreement?",
+      "expected": "Not found in the provided documents.",
+      "evidence": "",
+      "answer": "I don't see contracts with those exact names in the system. The available contracts don't include:\n- A \"Newegg-Allied agreement\"\n- A \"Birch First / Mount Knowledge agreement\"\n\nCould you clarify:\n1. Are these the exact names of the contracts, or are they informal references?\n2. Do you have the full or formal titles of these agreements?\n3. Are you perhaps referring to different contracts from the list above?\n\nThis will help me search the correct documents for you."
+    },
+    {
+      "id": "q66",
+      "cat": "out_of_scope",
+      "verdict": "HIT",
+      "question": "What is the revenue of National CineMedia in 2011?",
+      "expected": "Not found in the provided documents.",
+      "evidence": "",
+      "answer": "I don't have access to financial data or revenue information. My tools are designed to search and analyze legal contracts only.\n\nIf you're looking for National CineMedia's 2011 revenue, you would need to:\n- Check their annual reports or SEC filings (10-K forms)\n- Visit financial databases like Yahoo Finance, Google Finance, or Bloomberg\n- Look at the company's investor relations website\n\nIs there a legal contract related to National CineMedia that I can help you search through instead?"
+    },
+    {
+      "id": "q67",
+      "cat": "out_of_scope",
+      "verdict": "MISS",
+      "question": "What is the email address of the Equidata CEO?",
+      "expected": "Not found in the provided documents.",
+      "evidence": "",
+      "answer": "I don't have access to a tool that searches for contact information like CEO email addresses. My tools are designed to search and analyze the text of contracts.\n\nIf you're looking for a CEO's email address that appears *within* a contract document, I can help search for that. Do you have a specific contract that might contain Equidata's CEO contact information?"
+    },
+    {
+      "id": "q100",
+      "cat": "license_grant",
+      "verdict": "HIT",
+      "question": "What license is granted under the 2Themartcominc branding agreement_ agency agreement?",
+      "expected": "i-Escrow hereby grants to 2TheMart a worldwide, non-exclusive right to use, reproduce, distribute, publicly perform, publicly display and digitally perform the i-Escrow Content on or in conjunction with 2TheMart auctions.",
+      "evidence": "i-Escrow hereby grants to 2TheMart a worldwide, non-exclusive right to use, reproduce, distribute, publicly perform, publicly display and digitally perform the i-Escrow Content on or in conjunction with 2TheMart auctions.",
+      "answer": "Based on the 2Themartcominc branding agreement agency agreement, the following licenses are granted:\n\n**Content Licenses (Section 6.1):**\n- **2TheMart grants to i-Escrow**: A worldwide, non-exclusive right to use, reproduce, distribute, publicly perform, publicly display and digitally perform the 2TheMart Content solely with respect to and in conjunction with the Co-Branded Site, all with the prior written consent of 2TheMart, for the term of the Agreement.\n\n- **i-Escrow grants to 2TheMart**: A worldwide, non-exclusive right to use, reproduce, distribute, publicly perform, publicly display and digitally perform the i-Escrow Content on or in conjunction with 2TheMart auctions.\n\n**Trademark Licenses (Section 6.3):**\n- **i-Escrow grants to 2TheMart**: A non-exclusive, nontransferable right to use the i-Escrow Marks (including the Domain Name) in links to and advertisements and promotions for the Co-Branded Pages or the Services.\n\n- **2TheMart grants to i-Escrow**: A non-exclusive, nontransferable right to use 2TheMart Marks (including the Domain Name) on the Co-Branded Pages and for the performance of Services.\n\nAll of these rights are explicitly stated as **not sublicenseable, transferable or assignable** (Section 6.5)."
+    },
+    {
+      "id": "q101",
+      "cat": "notice_period_to_terminate_renewal",
+      "verdict": "HIT",
+      "question": "How much notice is required to terminate the renewal of the 2Themartcominc branding agreement_ agency agreement?",
+      "expected": "A party wishing to renew this Agreement shall give the other party notice thereof no less than thirty (30) days before the expiration of the term then in effect.",
+      "evidence": "A party wishing to renew this Agreement shall give the other party notice thereof no less than thirty (30) days before the expiration of the term then in effect.",
+      "answer": "Based on the search results from the **2Themartcominc branding agreement_ agency agreement**, the notice requirement to terminate the renewal is:\n\n**30 days' notice is required.**\n\nAccording to Section 8.1 (TERM), the agreement states:\n\n> \"A party wishing to renew this Agreement shall give the other party notice thereof no less than thirty (30) days before the expiration of the term then in effect. In the event that either party does not give such notice, the term of this Agreement shall be automatically renewed for another one (1) year.\"\n\nThis means that if a party wants to prevent automatic renewal, they must provide written notice at least 30 days before the current term expires. If no such notice is given, the agreement automatically renews for another one-year term."
+    },
+    {
+      "id": "q102",
+      "cat": "term",
+      "verdict": "HIT",
+      "question": "What is the term of the 2Themartcominc branding agreement_ agency agreement?",
+      "expected": "The term of this Agreement shall continue for one (1) year following the Launch Date, unless earlier terminated as provided herein.",
+      "evidence": "The term of this Agreement shall continue for one (1) year following the Launch Date, unless earlier terminated as provided herein.",
+      "answer": "Based on the search results, the **term of the 2Themartcominc branding agreement agency agreement is one (1) year** following the Launch Date.\n\nAccording to Section 8.1 (TERM) of the agreement:\n\n- The initial term is **one (1) year** from the Launch Date\n- The agreement may be renewed for successive one (1) year terms by mutual written agreement of the parties\n- Either party wishing to renew must give notice at least 30 days before expiration\n- If neither party gives notice, the agreement automatically renews for another one (1) year\n\nThe agreement also includes provisions for early termination for breach (with a 60-day cure period), change in company structure (with 30 days' notice), or bankruptcy."
+    },
+    {
+      "id": "q103",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which jurisdiction's law governs the 2Themartcominc branding agreement_ agency agreement?",
+      "expected": "This Agreement will be governed and construed in accordance with the laws of the State of California without giving effect to conflict of laws principles.",
+      "evidence": "This Agreement will be governed and construed in accordance with the laws of the State of California without giving effect to conflict of laws principles.",
+      "answer": "Based on the search results, the **2Themartcominc branding agreement_ agency agreement** is governed by the laws of the **State of California**.\n\nSpecifically, Section 12.1 (GOVERNING LAW) states:\n\n> \"This Agreement will be governed and construed in accordance with the laws of the State of California without giving effect to conflict of laws principles. Both parties submit to personal jurisdiction in California and further agree that any cause of action arising under this Agreement shall be brought in a court in Orange County, California.\""
+    },
+    {
+      "id": "q112",
+      "cat": "termination_for_convenience",
+      "verdict": "HIT",
+      "question": "Can the Bellicumpharmaceuticals,Inc supply agreement be terminated for convenience, and how?",
+      "expected": "Bellicum may terminate this Agreement or a particular Module upon ninety (90) days written notice to Miltenyi: 1) if Bellicum, in its sole and absolute discretion, discontinues or indefinitely suspends the development and/or commercialization of the Bellicum Product(s) or 2) without cause for any reason or no reason.",
+      "evidence": "Bellicum may terminate this Agreement or a particular Module upon ninety (90) days written notice to Miltenyi: 1) if Bellicum, in its sole and absolute discretion, discontinues or indefinitely suspends the development and/or commercialization of the Bellicum Product(s) or 2) without cause for any reason or no reason.",
+      "answer": "Yes, the **Bellicum Pharmaceuticals, Inc Supply Agreement** can be terminated for convenience. Here's how:\n\n**Termination Without Cause (Section 15.3):**\n\nBellicum may terminate the Agreement or a particular Module upon **ninety (90) days' written notice** to Miltenyi for either of the following reasons:\n\n1. **Discontinuance or Suspension**: If Bellicum, in its sole and absolute discretion, discontinues or indefinitely suspends the development and/or commercialization of the Bellicum Product(s), or\n\n2. **Without Cause**: Without cause for any reason or no reason.\n\n**Payment Obligations Upon Termination:**\n\nUpon termination under Section 15.3, Bellicum's sole obligation is to make payment for:\n- All undisputed and properly due amounts payable for Miltenyi Product ordered prior to the effective date of termination\n- Any Purchase Orders made by Bellicum in connection with its then-outstanding obligation to purchase quantities of Miltenyi Product forecasted for an applicable Firm Zone\n\nImportantly, termination does not release Bellicum from its payment obligations with respect to quantities set forth in any Purchase Orders or quantities forecasted for any Firm Zone."
+    },
+    {
+      "id": "q115",
+      "cat": "expiration_date",
+      "verdict": "HIT",
+      "question": "When does the Bellicumpharmaceuticals,Inc supply agreement expire?",
+      "expected": "The Agreement shall have an initial term of ten (10) years commencing from the Effective Date and ending on the tenth (10th) anniversary thereof (the \"Initial Term\"), unless earlier terminated by either Party in accordance with the provisions of Section 15.2 or Section 15.3.",
+      "evidence": "The Agreement shall have an initial term of ten (10) years commencing from the Effective Date and ending on the tenth (10th) anniversary thereof (the \"Initial Term\"), unless earlier terminated by either Party in accordance with the provisions of Section 15.2 or Section 15.3.",
+      "answer": "Based on the Bellicum Pharmaceuticals, Inc supply agreement, the agreement has an **initial term of ten (10) years** commencing from the Effective Date (March 27, 2019, per the execution copy). This means the initial term would expire on the tenth anniversary of the Effective Date.\n\nAfter the initial 10-year term expires, Bellicum has the option to extend the agreement for successive renewal terms of five (5) years each, provided Bellicum is not in material default and exercises the renewal option by giving written notice to Miltenyi not later than six (6) months prior to the expiration of the current term.\n\nSo the specific expiration date depends on when the Effective Date was formally set, but based on the execution copy date of March 27, 2019, the initial term would expire around **March 27, 2029**, unless earlier terminated or later extended by Bellicum's exercise of renewal options."
+    },
+    {
+      "id": "q117",
+      "cat": "effective_date",
+      "verdict": "HIT",
+      "question": "What is the effective date of the Bellringbrandsinc manufacturing agreement3?",
+      "expected": "October 1, 2018",
+      "evidence": "October 1, 2018",
+      "answer": "Based on the search results, the **Bellringbrandsinc manufacturing agreement3** is an amendment to the original Manufacturing Agreement between Stremick's Heritage Foods, LLC and Premier Nutrition Corporation. \n\nThe effective date of this amendment (Amendment No. 2) is **October 1, 2018** (referred to as the \"Second Amendment Effective Date\"). The amendment itself was set to expire on December 31, 2021.\n\nHowever, it's worth noting that the original underlying Manufacturing Agreement between the parties was dated **July 1, 2017**."
+    },
+    {
+      "id": "q118",
+      "cat": "parties",
+      "verdict": "HIT",
+      "question": "Who are the parties to the Bellringbrandsinc manufacturing agreement3?",
+      "expected": "Stremick's Heritage Foods, LLC",
+      "evidence": "Stremick's Heritage Foods, LLC",
+      "answer": "Based on the search results, the parties to the Bellringbrandsinc manufacturing agreement3 are:\n\n1. **Stremick's Heritage Foods, LLC** (referred to as \"Heritage\")\n2. **Premier Nutrition Corporation** (referred to as \"Premier\")\n\nThe document shown is Amendment No. 2 to the original Manufacturing Agreement dated July 1, 2017, and it was effective as of October 1, 2018. The agreement also references **Jasper Products, LLC** (Heritage's wholly owned subsidiary) as a facility where products are manufactured."
+    },
+    {
+      "id": "q120",
+      "cat": "parties",
+      "verdict": "HIT",
+      "question": "Who are the parties to the Bellringbrandsinc manufacturing agreement4?",
+      "expected": "Stremicks Heritage Foods, LLC",
+      "evidence": "Stremicks Heritage Foods, LLC",
+      "answer": "Based on the search results, the parties to the Bellring Brands Inc Manufacturing Agreement3 are:\n\n1. **Stremick's Heritage Foods, LLC** (referred to as \"Heritage\")\n2. **Premier Nutrition Corporation** (referred to as \"Premier\")\n\nThis is an amendment (Amendment No. 2) to the original Manufacturing Agreement dated July 1, 2017, and it was effective as of October 1, 2018. The agreement covers the manufacturing of products for Premier by Heritage at Heritage's facilities or its wholly owned subsidiary, Jasper's facilities."
+    },
+    {
+      "id": "q121",
+      "cat": "governing_law",
+      "verdict": "MISS",
+      "question": "Which jurisdiction's law governs the Coherusbiosciencesinc development agreement?",
+      "expected": "This Agreement shall be governed by and construed in accordance with the laws of [***], without regard to the conflicts of law principles thereof, and [***].",
+      "evidence": "This Agreement shall be governed by and construed in accordance with the laws of [***], without regard to the conflicts of law principles thereof, and [***].",
+      "answer": "Based on the search results from the Coherus Biosciences development agreement, **Section 16.2 (Applicable Law)** states:\n\n\"This Agreement shall be governed by and construed in accordance with the laws of [***], without regard to the conflicts of law principles thereof...\"\n\nUnfortunately, the specific jurisdiction is redacted (shown as [***]) in the publicly available version of the document. The agreement indicates that a particular jurisdiction's law governs it, but the exact jurisdiction name has been redacted in this filing."
+    },
+    {
+      "id": "q123",
+      "cat": "termination_for_convenience",
+      "verdict": "HIT",
+      "question": "Can the Coherusbiosciencesinc development agreement be terminated for convenience, and how?",
+      "expected": "Licensee may terminate this Agreement for convenience upon eighteen (18) months' advance written notice to Bioeq; provided, however, that any such termination for convenience shall not become effective prior to twelve (12) months after the First Commercial Sale of the first Licensed Product.",
+      "evidence": "Licensee may terminate this Agreement for convenience upon eighteen (18) months' advance written notice to Bioeq; provided, however, that any such termination for convenience shall not become effective prior to twelve (12) months after the First Commercial Sale of the first Licensed Product.",
+      "answer": "Yes, the Coherus Biosciences development agreement **can be terminated for convenience** by the Licensee. Here are the key details:\n\n**Termination for Convenience (Section 15.2.5):**\n\n- **Who can terminate:** The Licensee may terminate the agreement for convenience\n- **Notice period:** Eighteen (18) months' advance written notice to Bioeq is required\n- **Timing restriction:** The termination for convenience cannot become effective prior to twelve (12) months after the First Commercial Sale of the first Licensed Product\n\nIn other words, the Licensee must wait at least 12 months after the first commercial sale before it can initiate a termination for convenience, and then must provide 18 months' advance notice before the termination actually takes effect.\n\nThe search results indicate there are additional consequences to such termination (marked as [***] in the document, indicating redacted confidential information), but the basic mechanism and timing requirements are as described above."
+    },
+    {
+      "id": "q125",
+      "cat": "notice_period_to_terminate_renewal",
+      "verdict": "HIT",
+      "question": "How much notice is required to terminate the renewal of the Datacalltechnologies content license agreement?",
+      "expected": "The Initial Term shall automatically be extended for an additional period of half a year unless either party provides the other party with written notification of termination of the letter Agreement at least 60 days prior to end of such period.",
+      "evidence": "The Initial Term shall automatically be extended for an additional period of half a year unless either party provides the other party with written notification of termination of the letter Agreement at least 60 days prior to end of such period.",
+      "answer": "Based on the DataCallTechnologies Content License Agreement, **60 days' written notice** is required to terminate the renewal of the agreement.\n\nSpecifically, Section 7.1 states:\n\n> \"The Initial Term shall automatically be extended for an additional period of half a year unless either party provides the other party with written notification of termination of the letter Agreement at least 60 days prior to end of such period.\"\n\nThis means that unless one party provides written notice of termination at least 60 days before the end of the renewal period, the agreement will automatically renew for an additional six-month period."
+    },
+    {
+      "id": "q126",
+      "cat": "anti-assignment",
+      "verdict": "HIT",
+      "question": "What does the Datacalltechnologies content license agreement say about assignment of the agreement?",
+      "expected": "Neither Party shall assign or transfer to any third party, without the prior written consent of the other Party, this Agreement or any rights granted herein.",
+      "evidence": "Neither Party shall assign or transfer to any third party, without the prior written consent of the other Party, this Agreement or any rights granted herein.",
+      "answer": "According to the DataCallTechnologies Content License Agreement, **Section 8.2** addresses assignment of the agreement:\n\n> \"Neither Party shall assign or transfer to any third party, without the prior written consent of the other Party, this Agreement or any rights granted herein.\"\n\nThis means that **neither Data Call Technologies (the Licensor) nor Plan_B Media AG (the Licensee) can assign or transfer the agreement or any of the rights granted under it to a third party without obtaining prior written consent from the other party.** This is a mutual restriction on both parties' ability to unilaterally assign their obligations and rights under the agreement."
+    },
+    {
+      "id": "q127",
+      "cat": "effective_date",
+      "verdict": "HIT",
+      "question": "What is the effective date of the Datacalltechnologies content license agreement?",
+      "expected": "Contract start: 04-01-06",
+      "evidence": "Contract start: 04-01-06",
+      "answer": "Based on the search results, the **effective date of the DataCallTechnologies Content License Agreement is April 1, 2006** (04-01-06).\n\nThis is stated in Appendix 2, Section 2.1 of the agreement, which specifies \"Contract start: 04-01-06\". The contract was set to end on April 1, 2008 (04-01-08), making it a 24-month initial term as described in Section 7.1 of the agreement."
+    },
+    {
+      "id": "q128",
+      "cat": "license_grant",
+      "verdict": "MISS",
+      "question": "What license is granted under the Datacalltechnologies content license agreement?",
+      "expected": "In the alternative, if LICENSOR is not the sole and exclusive owner of all of the foregoing intellectual property rights to the Content, LICENSOR has been granted by the owner or rightful sub-licensee of the intellectual property of the Content the right to grant the rights provided by LICENSOR to plan_b under this Agreement.",
+      "evidence": "In the alternative, if LICENSOR is not the sole and exclusive owner of all of the foregoing intellectual property rights to the Content, LICENSOR has been granted by the owner or rightful sub-licensee of the intellectual property of the Content the right to grant the rights provided by LICENSOR to plan_b under this Agreement.",
+      "answer": "Based on the DataCallTechnologies Content License Agreement, the license granted is as follows:\n\n**Section 5.3** grants to plan_b (the licensee) a license to:\n- **Produce, use, distribute, promote and publicly display the Content** in any possible way for distribution and marketing purposes\n- **Use the trademarks, trade names, or logos** relating to the Content\n\nAdditionally, **Section 2.3** specifies that the LICENSOR grants plan_b the right to:\n- **Produce, market and distribute Content to End Users** in the specified territory through its own and its partner's platform\n\nThe license is granted for the term of the agreement (initially 24 months with automatic renewal for additional 6-month periods unless terminated with 60 days' notice). The content is intended for commercial distribution to End Users (third parties receiving content on mobile devices for payment for their own private and non-commercial use)."
+    },
+    {
+      "id": "q129",
+      "cat": "agreement_date",
+      "verdict": "HIT",
+      "question": "What is the agreement date of the Ebixinc branding agreement?",
+      "expected": "19th day of January, 2001",
+      "evidence": "19th day of January, 2001",
+      "answer": "The agreement date of the Ebixinc branding agreement is **January 19, 2001**. This is stated as the \"Effective Date\" in the Co-Branding Agreement between About.com, Inc. and ebix.com, Inc."
+    },
+    {
+      "id": "q130",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which jurisdiction's law governs the Ebixinc branding agreement?",
+      "expected": "This Agreement will be governed by the laws of the state where a suit is properly filed under the terms of this paragraph, being either Illinois or New York, and without giving effect to conflict of law principles.",
+      "evidence": "This Agreement will be governed by the laws of the state where a suit is properly filed under the terms of this paragraph, being either Illinois or New York, and without giving effect to conflict of law principles.",
+      "answer": "Based on the search results, the **Ebixinc branding agreement** (specifically the Co-Branding Agreement) is governed by the laws of **either Illinois or New York**, depending on which party initiates litigation:\n\n- **If Ebix initiates litigation**: The agreement is governed by **New York law** and must be filed in New York state or federal courts (New York County).\n- **If About initiates litigation**: The agreement is governed by **Illinois law** and must be filed in Illinois state or federal courts (Cook County).\n\nThe governing law clause (Section 15.4) states: \"This Agreement will be governed by the laws of the state where a suit is properly filed under the terms of this paragraph, being either Illinois or New York, and without giving effect to conflict of law principles.\""
+    },
+    {
+      "id": "q132",
+      "cat": "termination_for_convenience",
+      "verdict": "HIT",
+      "question": "Can the Ebixinc branding agreement be terminated for convenience, and how?",
+      "expected": "eBix may terminate this Agreement, [**] upon [**] to About; provided, however, that the termination is no earlier than [**] of the Effective Date of this Agreement.",
+      "evidence": "eBix may terminate this Agreement, [**] upon [**] to About; provided, however, that the termination is no earlier than [**] of the Effective Date of this Agreement.",
+      "answer": "Based on the search results from the **EbixInc Co-Branding Agreement**, the answer is **yes, but with limitations**:\n\n**Termination for Convenience:**\n\nAccording to **Section 13.1**, eBix may terminate the Agreement for convenience upon [redacted] notice to About, **provided that the termination is no earlier than [redacted] of the Effective Date**. (The specific notice period and minimum duration are redacted in the document.)\n\n**Other Termination Rights:**\n\nThe agreement also provides for termination in other circumstances:\n\n- **For Cause (Payment Default)** \u2013 Either party may terminate if the other fails to make required payments for more than 20 business days after receiving notice (Section 13.2).\n\n- **For Cause (Material Breach)** \u2013 Either party may terminate if the other commits a material breach not cured within 30 calendar days of written notice (Section 13.2).\n\n- **Immediate Termination** \u2013 Either party may terminate immediately upon written notice for bankruptcy, cessation of business operations, or certain change-of-control events (Section 13.3).\n\nSo while eBix has a unilateral right to terminate for convenience, About does not appear to have the same right\u2014only eBix can terminate without cause, subject to a minimum notice period and duration requirement."
+    },
+    {
+      "id": "q133",
+      "cat": "parties",
+      "verdict": "HIT",
+      "question": "Who are the parties to the Federatedgovernmentincomesecuritiesinc services agreement_powerof?",
+      "expected": "FEDERATED INVESTMENT MANAGEMENT COMPANY",
+      "evidence": "FEDERATED INVESTMENT MANAGEMENT COMPANY",
+      "answer": "Based on the search results, the parties to the Federated Government Income Securities Inc. Services Agreement (Power of Attorney) are:\n\n1. **FEDERATED INVESTMENT MANAGEMENT COMPANY** (the \"Adviser\")\n2. **FEDERATED ADVISORY SERVICES COMPANY** (the attorney-in-fact)\n\nThis is a Limited Power of Attorney document dated October 1, 2016 (revised March 1, 2020), in which Federated Investment Management Company appoints Federated Advisory Services Company as its attorney-in-fact to act on behalf of various funds and accounts, including Federated Government Income Securities, Inc."
+    },
+    {
+      "id": "q134",
+      "cat": "term",
+      "verdict": "MISS",
+      "question": "What is the term of the Federatedgovernmentincomesecuritiesinc services agreement_powerof?",
+      "expected": "This Limited Power of Attorney shall be revoked and terminated automatically upon the cancellation or termination of the Services Agreement or as to any Fund upon the cancellation or termination of the Adviser's Investment Advisory Contract for such Fund.",
+      "evidence": "This Limited Power of Attorney shall be revoked and terminated automatically upon the cancellation or termination of the Services Agreement or as to any Fund upon the cancellation or termination of the Adviser's Investment Advisory Contract for such Fund.",
+      "answer": "Based on the search results, the document is a **Limited Power of Attorney** dated **January 1, 2004** (with a revised Schedule 1 dated March 1, 2020). \n\nHowever, the search results do not show a specific \"term\" or duration period for this agreement. The document references a \"Services Agreement dated as of January 1, 2004\" but the excerpts returned do not contain explicit language stating how long the Limited Power of Attorney is in effect or when it terminates.\n\nTo find the specific term information, I would need to search more specifically for termination or expiration language. Would you like me to search for termination or expiration provisions in this agreement?"
+    },
+    {
+      "id": "q135",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which jurisdiction's law governs the Federatedgovernmentincomesecuritiesinc services agreement_powerof?",
+      "expected": "This Limited Power of Attorney shall be governed and construed in accordance with the laws of the Commonwealth of Pennsylvania without reference to principles of conflicts of laws.",
+      "evidence": "This Limited Power of Attorney shall be governed and construed in accordance with the laws of the Commonwealth of Pennsylvania without reference to principles of conflicts of laws.",
+      "answer": "Based on the search results, the **Federated Government Income Securities Inc Services Agreement - Power of Attorney** is governed by the laws of the **Commonwealth of Pennsylvania**.\n\nThe relevant clause states: \"This Limited Power of Attorney shall be governed and construed in accordance with the laws of the Commonwealth of Pennsylvania without reference to principles of conflicts of laws.\""
+    },
+    {
+      "id": "q136",
+      "cat": "agreement_date",
+      "verdict": "HIT",
+      "question": "What is the agreement date of the Federatedgovernmentincomesecuritiesinc services agreement_powerof?",
+      "expected": "January 1, 2004",
+      "evidence": "January 1, 2004",
+      "answer": "Based on the search results, the agreement date of the Federated Government Income Securities Inc Services Agreement (Power of Attorney) is **January 1, 2004**.\n\nThis date appears in the opening of the Limited Power of Attorney document: \"KNOW ALL MEN BY THESE PRESENTS, dated as of January 1, 2004\" and is also referenced in the Services Agreement between the Adviser and FASC, which is dated as of January 1, 2004."
+    },
+    {
+      "id": "q137",
+      "cat": "parties",
+      "verdict": "HIT",
+      "question": "Who are the parties to the Flotekindustriesinccn supply agreement?",
+      "expected": "Flotek Chemistry, LLC",
+      "evidence": "Flotek Chemistry, LLC",
+      "answer": "Based on the Flotekindustriesinccn supply agreement, the parties are:\n\n1. **Florida Chemical Company, LLC** (a Delaware limited liability company) \u2014 referred to as \"FCC\"\n2. **Flotek Chemistry, LLC** (an Oklahoma limited liability company) \u2014 referred to as \"Flotek\"\n\nThe agreement was entered into as of February 28, 2019, with FCC agreeing to supply terpene products to Flotek."
+    },
+    {
+      "id": "q138",
+      "cat": "anti-assignment",
+      "verdict": "HIT",
+      "question": "What does the Flotekindustriesinccn supply agreement say about assignment of the agreement?",
+      "expected": "FCC may not assign or delegate its rights or obligations pursuant to this Agreement.",
+      "evidence": "FCC may not assign or delegate its rights or obligations pursuant to this Agreement.",
+      "answer": "Based on the Flotekindustriesinccn supply agreement, here's what it says about assignment:\n\n**Section 23 (Successors) contains the assignment provision:**\n\nThe agreement states that **FCC (Florida Chemical Company, LLC) may not assign or delegate its rights or obligations** pursuant to this Agreement.\n\nHowever, subject to that restriction, the agreement also provides that:\n\n- The Agreement shall be binding upon each of the parties upon their execution, and inure to the benefit of the parties and their successors and assigns.\n- **Any assignee will be bound by the obligations of the assigning party** under the Agreement.\n- **Any assignment shall not diminish the liability or obligation of the assignor** under the terms of the Agreement unless otherwise agreed.\n\nIn summary, while the agreement generally contemplates successors and assigns, it explicitly prohibits FCC from assigning or delegating its rights or obligations without consent. The other party (Flotek) is not explicitly restricted from assignment under this language, though any assignment would still bind the assignee to the agreement's obligations and would not relieve the original assignor of liability."
+    },
+    {
+      "id": "q139",
+      "cat": "agreement_date",
+      "verdict": "HIT",
+      "question": "What is the agreement date of the Flotekindustriesinccn supply agreement?",
+      "expected": "February 28, 2019",
+      "evidence": "February 28, 2019",
+      "answer": "The agreement date of the Flotekindustriesinccn supply agreement is **February 28, 2019**.\n\nThis is stated in the opening of the agreement: \"This Supply Agreement (the 'Agreement') is entered into as of February 28, 2019 by and between Florida Chemical Company, LLC, a Delaware limited liability company ('FCC') and Flotek Chemistry, LLC, an Oklahoma limited liability company ('Flotek').\""
+    },
+    {
+      "id": "q140",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which jurisdiction's law governs the Flotekindustriesinccn supply agreement?",
+      "expected": "This Agreement shall be governed by and construed in accordance with the laws of the state of Delaware.",
+      "evidence": "This Agreement shall be governed by and construed in accordance with the laws of the state of Delaware.",
+      "answer": "Based on the search results, the **Flotekindustriesinccn supply agreement** is governed by the laws of the **state of Delaware**.\n\nSection 27 (Governing Law) of the agreement states: \"This Agreement shall be governed by and construed in accordance with the laws of the state of Delaware.\""
+    },
+    {
+      "id": "q141",
+      "cat": "license_grant",
+      "verdict": "HIT",
+      "question": "What license is granted under the Fusemedicalinc distributor agreement?",
+      "expected": "The Supplier hereby grants to the Distributor the non-exclusive right, in the Territory, to use the Trade Marks in the promotion, advertisement and sale of the Products, subject to, and for the duration of, this agreement.",
+      "evidence": "The Supplier hereby grants to the Distributor the non-exclusive right, in the Territory, to use the Trade Marks in the promotion, advertisement and sale of the Products, subject to, and for the duration of, this agreement.",
+      "answer": "Based on the FuseMedicalInc Distributor Agreement, the license granted is:\n\n**A non-exclusive right to use the Trade Marks in the Territory for the promotion, advertisement, and sale of the Products**, subject to and for the duration of the agreement.\n\nSpecifically, according to Section 9.1 of the agreement:\n\n> \"The Supplier hereby grants to the Distributor the non-exclusive right, in the Territory, to use the Trade Marks in the promotion, advertisement and sale of the Products, subject to, and for the duration of, this agreement.\"\n\nKey limitations on this license include:\n\n1. **Non-exclusive** \u2014 the Supplier can grant the same rights to others\n2. **Territory-limited** \u2014 restricted to a defined geographic area\n3. **Duration-limited** \u2014 only for the term of the agreement\n4. **Non-transferable** \u2014 the Distributor cannot sub-license, transfer, or otherwise deal with the rights (Section 9.6)\n5. **Subject to approval** \u2014 all representations of the Trade Marks must be submitted to the Supplier for approval before use (Section 9.3)"
+    },
+    {
+      "id": "q142",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which jurisdiction's law governs the Fusemedicalinc distributor agreement?",
+      "expected": "This agreement and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with Ohio law.",
+      "evidence": "This agreement and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with Ohio law.",
+      "answer": "According to the Fusemedicalinc distributor agreement, **Ohio law** governs the agreement. \n\nSpecifically, Section 24.1 states:\n\n> \"This agreement and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with Ohio law.\"\n\nAdditionally, Section 24.2 provides that the courts of Ohio have non-exclusive jurisdiction to settle any disputes arising from the agreement."
+    },
+    {
+      "id": "q143",
+      "cat": "renewal_term",
+      "verdict": "HIT",
+      "question": "What is the renewal term of the Fusemedicalinc distributor agreement?",
+      "expected": "This agreement begins on the Commencement Date and, subject to clause 11.2, shall continue for an initial term of one (1) years (Initial Term) and indefinitely after that until terminated by either party giving at least twelve (12) months' prior written notice to expire on or after the expiry date of the initial term.",
+      "evidence": "This agreement begins on the Commencement Date and, subject to clause 11.2, shall continue for an initial term of one (1) years (Initial Term) and indefinitely after that until terminated by either party giving at least twelve (12) months' prior written notice to expire on or after the expiry date of the initial term.",
+      "answer": "Based on the search results from the **FuseMedicalInc Distributor Agreement**, the renewal term is as follows:\n\n**The agreement begins on the Commencement Date and continues for an initial term of one (1) year (Initial Term), and then continues indefinitely after that until terminated by either party giving at least twelve (12) months' prior written notice to expire on or after the expiry date of the initial term.**\n\nIn summary:\n- **Initial Term:** 1 year\n- **Renewal:** Indefinite (continues automatically after the initial term)\n- **Termination Notice Required:** 12 months' prior written notice to end the agreement"
+    },
+    {
+      "id": "q144",
+      "cat": "parties",
+      "verdict": "HIT",
+      "question": "Who are the parties to the Fusemedicalinc distributor agreement?",
+      "expected": "Signature Orthopaedics Pty Ltd",
+      "evidence": "Signature Orthopaedics Pty Ltd",
+      "answer": "Based on the search results, the parties to the Fusemedicalinc distributor agreement are:\n\n1. **Signature Orthopaedics Pty Ltd** (ACN 106 702 416), located at 7 Sirius Road, Lane Cove, NSW (the Supplier)\n\n2. **CPM Medical Consultants, LLC**, located at 1565 N. Central Expressway, Suite 200, Dallas, TX 75080 (the Distributor)\n\nThe agreement is dated March 29, 2018, and establishes a non-exclusive distributorship arrangement for the promotion and sale of products within a specified territory."
+    },
+    {
+      "id": "q145",
+      "cat": "parties",
+      "verdict": "HIT",
+      "question": "Who are the parties to the Glumobileinc content license agreement3?",
+      "expected": "Fox Mobile Entertainment, Inc.",
+      "evidence": "Fox Mobile Entertainment, Inc.",
+      "answer": "Based on the search results, the parties to the Glumobileinc content license agreement3 are:\n\n1. **Fox Mobile Entertainment, Inc.** (\"Fox\"), as Administrator for Twentieth Century Fox Film Corporation (\"Trademark Licensor\")\n2. **Glu Mobile, Inc. f/k/a Sorrent, Inc.** (\"Licensee\")\n\nThis is a Wireless Content License Agreement (Number 12965) originally dated December 16, 2004, and the document shown is Amendment No. 2 dated March 27, 2006."
+    },
+    {
+      "id": "q146",
+      "cat": "license_grant",
+      "verdict": "HIT",
+      "question": "What license is granted under the Glumobileinc content license agreement3?",
+      "expected": "Fox also grants Licensee a limited, non-exclusive right and license to distribute the following Wireless Products in connection with the Property \"ICE AGE 2\" outside of the United States: (A) 4 Scrat voicetones; (B) 1 John Leguizamo voicetone; and (C) 3 premium videos. (collectively, \"IA2 Audio and Video Wireless Products\")",
+      "evidence": "Fox also grants Licensee a limited, non-exclusive right and license to distribute the following Wireless Products in connection with the Property \"ICE AGE 2\" outside of the United States: (A) 4 Scrat voicetones; (B) 1 John Leguizamo voicetone; and (C) 3 premium videos. (collectively, \"IA2 Audio and Video Wireless Products\")",
+      "answer": "Based on the search results from the Glumobileinc content license agreement3, the license granted is:\n\n**A limited, non-exclusive right and license to distribute Wireless Products** in connection with the property \"ICE AGE: THE MELTDOWN\" and \"ICE AGE 2\". Specifically:\n\n**For \"ICE AGE: THE MELTDOWN\" in the United States:**\n- 2 Scrat voicetones\n- 2 John Leguizamo voicetones\n- 3 premium videos\n\n**For \"ICE AGE 2\" outside of the United States:**\n- 4 Scrat voicetones\n- 1 John Leguizamo voicetone\n- 3 premium videos\n\nThe license is granted by Fox Mobile Entertainment, Inc. (as Administrator for Twentieth Century Fox Film Corporation) to Glu Mobile, Inc., and is characterized as **limited and non-exclusive**, meaning Glu Mobile can distribute these wireless products but Fox retains the right to license them to others as well."
+    },
+    {
+      "id": "q147",
+      "cat": "parties",
+      "verdict": "HIT",
+      "question": "Who are the parties to the Glumobileinc content license agreement4?",
+      "expected": "Fox Mobile Entertainment, Inc.",
+      "evidence": "Fox Mobile Entertainment, Inc.",
+      "answer": "Based on the search results, the parties to the Glumobileinc content license agreement4 are:\n\n1. **Fox Mobile Entertainment, Inc.** (\"Fox\"), as Administrator for Twentieth Century Fox Film Corporation\n2. **Glu Mobile Inc.** (\"Licensee\")\n\nThis is a Wireless Content License Agreement (Number 12965) originally dated December 16, 2004, which has been amended multiple times, including Amendment No. 3 dated February 19, 2007."
+    },
+    {
+      "id": "q148",
+      "cat": "expiration_date",
+      "verdict": "HIT",
+      "question": "When does the Glumobileinc content license agreement4 expire?",
+      "expected": "The rights granted hereunder shall be effective as of the Effective Date and shall expire on December 31, 2006 (the \"Term\"); provided, however, that with respect to each Property, including Robots, Kingdom of Heaven, Mr. and Mrs. Smith, In Her Shoes, Idiocracy (Oww My Balls) and Ice Age II, all right and licenses granted herein will continue in full force and effect until March 31, 2008.\"",
+      "evidence": "The rights granted hereunder shall be effective as of the Effective Date and shall expire on December 31, 2006 (the \"Term\"); provided, however, that with respect to each Property, including Robots, Kingdom of Heaven, Mr. and Mrs. Smith, In Her Shoes, Idiocracy (Oww My Balls) and Ice Age II, all right and licenses granted herein will continue in full force and effect until March 31, 2008.\"",
+      "answer": "Based on the search results, the **Glumobileinc content license agreement4** has the following expiration dates:\n\n- **General expiration date: December 31, 2006**\n- **Extended expiration date for specific properties: March 31, 2008**\n\nAccording to Amendment No. 3 (dated February 19, 2007), the rights granted under the agreement were set to expire on December 31, 2006. However, for specific properties (Robots, Kingdom of Heaven, Mr. and Mrs. Smith, In Her Shoes, Idiocracy, and Ice Age II), all rights and licenses continue in full force and effect until **March 31, 2008**."
+    },
+    {
+      "id": "q149",
+      "cat": "agreement_date",
+      "verdict": "HIT",
+      "question": "What is the agreement date of the Glumobileinc content license agreement4?",
+      "expected": "February 19, 2007",
+      "evidence": "February 19, 2007",
+      "answer": "Based on the search results, the **Glumobileinc content license agreement4** has multiple relevant dates:\n\n1. **Original Agreement Date**: December 16, 2004 (Wireless Content License Agreement Number 12965)\n2. **Amendment Dates**: \n   - November 11, 2005\n   - March 27, 2006\n   - **February 19, 2007** (Amendment No. 3 - the most recent amendment shown)\n\nThe document you're looking at appears to be Amendment No. 3, which is dated as of **February 19, 2007**."
+    },
+    {
+      "id": "q150",
+      "cat": "agreement_date",
+      "verdict": "HIT",
+      "question": "What is the agreement date of the Gridironbionutrientsinc endorsement agreement?",
+      "expected": "November 7, 2017",
+      "evidence": "November 7, 2017",
+      "answer": "Based on the search results, the Gridiron BioNutrients Inc. Endorsement Agreement has **two key dates**:\n\n1. **Original Agreement Date: October 30, 2017** - This is the date of the original Endorsement Agreement executed by the parties.\n\n2. **Addendum I Effective Date: November 7, 2017** - This is the effective date of Endorsement Agreement Addendum I, which added Gridiron CBD H2O Probiotic\u2122 Water to the Licensed Products.\n\nThe Addendum was executed on **November 22, 2017**.\n\nIf you're looking for the primary agreement date, it is **October 30, 2017**."
+    },
+    {
+      "id": "q151",
+      "cat": "parties",
+      "verdict": "HIT",
+      "question": "Who are the parties to the Gridironbionutrientsinc endorsement agreement?",
+      "expected": "National Football League Alumni - Northern California Chapter",
+      "evidence": "National Football League Alumni - Northern California Chapter",
+      "answer": "Based on the Gridironbionutrientsinc endorsement agreement, the parties are:\n\n1. **National Football League Alumni - Northern California Chapter (\"NFLA-NC\")** \u2014 a charitable corporation organized under the laws of California, with principal office at 1311 Madison Avenue, Redwood CA 94061\n\n2. **National Football League Alumni, Inc. (\"NFLA\")** \u2014 a charitable corporation organized under the laws of Florida, with principal office at 8000 Midlantic Drive, 130 S., Mount Laurel, NJ 08054\n\n3. **Food For Athletes, Inc. / Gridiron BioNutrients\u2122** \u2014 a corporation organized under the laws of California/Nevada, with principal office(s) at 1147 N Roseburg CT, STE A/B Visalia, CA 93291 (referred to collectively as the \"Company\")"
+    },
+    {
+      "id": "q152",
+      "cat": "revenue/profit_sharing",
+      "verdict": "HIT",
+      "question": "What revenue or profit sharing terms does the Gridironbionutrientsinc endorsement agreement contain?",
+      "expected": "A *donation of $0.05 per Unit sold of Licensed Products within the Contract Territory payable to the **NFL Alumni Northern California Chapter.",
+      "evidence": "A *donation of $0.05 per Unit sold of Licensed Products within the Contract Territory payable to the **NFL Alumni Northern California Chapter.",
+      "answer": "Based on the search results, the **Gridironbionutrientsinc endorsement agreement** contains the following revenue/profit sharing terms:\n\n**Donation/Profit Sharing Structure:**\n- A **donation of $0.05 per Unit sold** of Licensed Products within the Contract Territory, payable to the NFL Alumni Northern California Chapter (NFLA-NC)\n- Donations are allocated and dispersed to the NFLA-NC beginning on the first full quarter (three-month period) of the Agreement and continue on a quarterly basis thereafter for the term of the Agreement\n- The NFLA-NC will donate **15% of the above-described proceeds** to the NFLA (the national organization)\n\n**Unit Conversion Schedule** (for calculating donations):\n- 1 bottle of BlackMP Living Water = 1 Unit\n- 1 4oz bottle of BlackMP Concentrate = 30 Units\n- 1 bottle of Zezel Probiotic Water = 1 Unit\n- 1 bottle of Zayin Sports Water = 1 Unit\n- 1 bottle of Gridiron MVP\u2122 Water = 1 Unit\n- 1 bottle of Gridiron CBD H2O Probiotics\u2122 Water = 1 Unit\n- 1 4oz bottle of Gridiron MVP\u2122 Concentrate = 30 Units\n\nThe Company is required to provide quarterly sales reports to the NFLA-NC upon request to track the donations owed."
+    },
+    {
+      "id": "q153",
+      "cat": "effective_date",
+      "verdict": "HIT",
+      "question": "What is the effective date of the Gridironbionutrientsinc endorsement agreement?",
+      "expected": "November 7, 2017",
+      "evidence": "November 7, 2017",
+      "answer": "Based on the search results, the **Endorsement Agreement Addendum I** for Gridiron BioNutrients Inc. has an effective date of **November 7, 2017**.\n\nHowever, it's important to note that this is an addendum to an earlier Endorsement Agreement that was executed on **October 30, 2017**. The addendum was signed on November 22nd, 2017, but made effective as of November 7, 2017."
+    },
+    {
+      "id": "q155",
+      "cat": "parties",
+      "verdict": "HIT",
+      "question": "Who are the parties to the Hospitalityinvestorstrust,Inc franchise agreement?",
+      "expected": "\"we,\" \"us,\" \"our\" or \"Franchisor\"",
+      "evidence": "\"we,\" \"us,\" \"our\" or \"Franchisor\"",
+      "answer": "Based on the search results, the parties to the Hospitalityinvestorstrust, Inc franchise agreement are:\n\n1. **Franchisor**: **Homewood Suites Franchise LLC**, a Delaware limited liability company (which is a subsidiary of Hilton Worldwide)\n\n2. **Franchisee**: **Hospitalityinvestorstrust, Inc** (the specific franchisee identified in the Addendum)\n\nThe agreement refers to them collectively as the \"Parties\" and uses the terms \"we,\" \"us,\" \"our\" for the Franchisor and \"you,\" \"your,\" \"Franchisee\" for the Franchisee."
+    },
+    {
+      "id": "q158",
+      "cat": "expiration_date",
+      "verdict": "HIT",
+      "question": "When does the Hyperionsoftwarecorp exclusive distributor agreement expire?",
+      "expected": "This Agreement shall have an initial term of one (1) year from the date first above written (the \"Initial Term\"), and shall thereafter automatically renew for successive two (2) year periods (each a \"Renewal Term\"), unless earlier terminated in accordance with the terms of this Agreement.",
+      "evidence": "This Agreement shall have an initial term of one (1) year from the date first above written (the \"Initial Term\"), and shall thereafter automatically renew for successive two (2) year periods (each a \"Renewal Term\"), unless earlier terminated in accordance with the terms of this Agreement.",
+      "answer": "Based on the search results, the **Hyperionsoftwarecorp exclusive distributor agreement** does not have a fixed expiration date. Instead, it has a **renewable term structure**:\n\n- **Initial Term:** One (1) year from the date first written (the agreement is dated September 28, 1994)\n- **Renewal Terms:** After the initial term, the agreement automatically renews for successive two (2) year periods\n\nEither party may cancel the agreement effective on the last day of the Initial Term or any Renewal Term by serving written notice at least **90 days prior** to the end of that term.\n\nAdditionally, Developer may cancel the agreement if the total gross annual software revenue does not meet Developer's revenue forecast, with cancellation notice to be delivered no later than 30 days after Developer's Fiscal Year end (June 30).\n\nSo rather than expiring on a specific date, the agreement continues indefinitely unless one party provides the required termination notice."
+    },
+    {
+      "id": "q159",
+      "cat": "cap_on_liability",
+      "verdict": "HIT",
+      "question": "What cap on liability does the Hyperionsoftwarecorp exclusive distributor agreement specify?",
+      "expected": "IN NO EVENT SHALL DEVELOPER BE LIABLE FOR ANY LOSS OF PROFIT OR ANY OTHER COMMERCIAL DAMAGE, INCLUDING BUT NOT LIMITED TO SPECIAL, INCIDENTAL, CONSEQUENTIAL OR OTHER INDIRECT DAMAGES UNDER ANY CAUSE OF ACTION ARISING OUT OF OR RELATING TO THIS AGREEMENT, INCLUDING, WITHOUT LIMITATION, CLAIMS ARISING FROM MALFUNCTION OR DEFECTS IN THE PRODUCTS.",
+      "evidence": "IN NO EVENT SHALL DEVELOPER BE LIABLE FOR ANY LOSS OF PROFIT OR ANY OTHER COMMERCIAL DAMAGE, INCLUDING BUT NOT LIMITED TO SPECIAL, INCIDENTAL, CONSEQUENTIAL OR OTHER INDIRECT DAMAGES UNDER ANY CAUSE OF ACTION ARISING OUT OF OR RELATING TO THIS AGREEMENT, INCLUDING, WITHOUT LIMITATION, CLAIMS ARISING FROM MALFUNCTION OR DEFECTS IN THE PRODUCTS.",
+      "answer": "According to the **Hyperionsoftwarecorp Exclusive Distributor Agreement**, the liability cap is specified in Section 6 (Limitation of Liability) as follows:\n\n**Developer's maximum liability is expressly limited to the lesser of:**\n1. **The amount paid under the Agreement by Distributor to Developer within the six (6) month period immediately preceding the cause giving rise to the claim; OR**\n2. **Five hundred thousand dollars ($500,000)**\n\nAdditionally, the agreement excludes Developer from liability for any loss of profit or other commercial damage, including special, incidental, consequential, or other indirect damages arising out of or relating to the agreement."
+    },
+    {
+      "id": "q160",
+      "cat": "exclusivity",
+      "verdict": "HIT",
+      "question": "What exclusivity provisions does the Hyperionsoftwarecorp exclusive distributor agreement contain?",
+      "expected": "Upon the terms and subject to the conditions of this Agreement, Developer hereby grants to Distributor an exclusive, non-transferable fight and license to market and distribute the Products in the Territory.",
+      "evidence": "Upon the terms and subject to the conditions of this Agreement, Developer hereby grants to Distributor an exclusive, non-transferable fight and license to market and distribute the Products in the Territory.",
+      "answer": "Based on the search results, the **Hyperionsoftwarecorp exclusive distributor agreement** (specifically the IMRS Operations Inc. and Delteq Pte Ltd agreement dated April 15, 1994) contains the following exclusivity provisions:\n\n## Key Exclusivity Provisions:\n\n1. **Exclusive Distribution License (Section 1.1)**\n   - Developer grants Distributor an **exclusive, non-transferable right and license** to market and distribute the Products in the Territory (Singapore, Malaysia, Indonesia, Thailand, and Brunei).\n   - Distributor shall distribute Products to End-Users in the Territory who enter into an End-User License Agreement.\n   - Products are provided in executable object code form only; Distributor has no right to source code.\n\n2. **Covenant Not to Compete (Section 4.4)**\n   - During the term of the Agreement and for **two (2) years after termination** for any reason, Distributor will **not market or attempt to market** any computer program that competes in any way with the Products in the areas of:\n     - Consolidation\n     - Financial information\n     - Financial transaction processing\n     - Reporting\n     - Data collection\n     - Modeling (including personal computer use)\n   - This restriction also applies to any modifications, alterations, or enhancements to the Products developed during the Agreement term.\n\nThese provisions establish both the exclusive distribution rights granted to the Distributor and the non-compete obligations that restrict the Distributor's ability to handle competing products during and after the agreement period."
+    },
+    {
+      "id": "q161",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which jurisdiction's law governs the Hyperionsoftwarecorp exclusive distributor agreement?",
+      "expected": "This Agreement shall be governed by and construed in accordance with the laws of the State of Connecticut, U.S.A. without regard to its conflict of taws provision.",
+      "evidence": "This Agreement shall be governed by and construed in accordance with the laws of the State of Connecticut, U.S.A. without regard to its conflict of taws provision.",
+      "answer": "Based on the search results, the **Hyperionsoftwarecorp exclusive distributor agreement** is governed by the laws of the **State of Connecticut, U.S.A.**\n\nSpecifically, Section 10.2 (Jurisdiction and Venue) states:\n\n> \"This Agreement shall be governed by and construed in accordance with the laws of the State of Connecticut, U.S.A. without regard to its conflict of laws provision.\"\n\nAdditionally, jurisdiction for any litigation arising from the agreement is limited to the Federal or State courts with competent jurisdiction located in **Stamford, Connecticut**."
+    },
+    {
+      "id": "q162",
+      "cat": "agreement_date",
+      "verdict": "HIT",
+      "question": "What is the agreement date of the Hertzgrouprealtytrustinc trademark license agreement?",
+      "expected": "September ___, 2019",
+      "evidence": "September ___, 2019",
+      "answer": "Based on the search results, the agreement date of the Hertz Group Realty Trust Inc Trademark License Agreement is **September ___, 2019** (with the specific day left blank in the form).\n\nThe document states: \"This TRADEMARK LICENSE AGREEMENT (\"Agreement\"), is entered into as of September ___, 2019 (\"Effective Date\")...\"\n\nThis is a form agreement, so the specific day of September 2019 would be filled in when the agreement is executed by the parties."
+    },
+    {
+      "id": "q163",
+      "cat": "anti-assignment",
+      "verdict": "HIT",
+      "question": "What does the Hertzgrouprealtytrustinc trademark license agreement say about assignment of the agreement?",
+      "expected": "Licensed Users may not assign this Agreement and/or any rights and/or obligations hereunder without the prior written consent of Licensor and any such attempted assignment shall be void.",
+      "evidence": "Licensed Users may not assign this Agreement and/or any rights and/or obligations hereunder without the prior written consent of Licensor and any such attempted assignment shall be void.",
+      "answer": "Based on the Hertz Group Realty Trust, Inc. Trademark License Agreement, here is what the agreement says about assignment:\n\n**Section 4.3 - Non-Transferable Agreement:**\n\nThe agreement states that **Licensed Users may not assign this Agreement and/or any rights and/or obligations hereunder without the prior written consent of Licensor, and any such attempted assignment shall be void.**\n\nThis is a strict non-assignment clause that prohibits the licensee from transferring the agreement or its rights and obligations without getting written permission from the licensor (Hertz Investment Group, LLC) first. Any attempt to assign without that consent is automatically void.\n\nHowever, there is one exception noted in **Section 4.6 - Binding Agreement**, which states that the agreement shall be binding upon the parties' \"permitted assigns and successors,\" suggesting that assignments may be permitted in certain circumstances (presumably those approved by the licensor in writing)."
+    },
+    {
+      "id": "q164",
+      "cat": "termination_for_convenience",
+      "verdict": "HIT",
+      "question": "Can the Hertzgrouprealtytrustinc trademark license agreement be terminated for convenience, and how?",
+      "expected": "Either Party may terminate this Agreement by giving the other Party thirty (30) days' prior written notice.",
+      "evidence": "Either Party may terminate this Agreement by giving the other Party thirty (30) days' prior written notice.",
+      "answer": "Yes, the Hertz Group Realty Trust, Inc. trademark license agreement **can be terminated for convenience**. Here's how:\n\n**Termination for Convenience:**\n- **Section 3.1** states: \"Either Party may terminate this Agreement by giving the other Party thirty (30) days' prior written notice.\"\n\nThis means both the Licensor (Hertz Investment Group, LLC) and the Licensee (Hertz Group Realty Trust, Inc.) have the right to terminate the agreement at will, provided they give 30 days' advance written notice.\n\n**Additional Automatic Termination Triggers:**\nThe agreement also terminates automatically (Section 3.2) in these circumstances:\n- If the Licensee is acquired by a third party, or\n- If the Licensor or any affiliate of Licensor ceases to manage the Licensee\n\nIn all cases, the Licensed Users must cease use of the Licensed Trade Name and Licensed Mark within 30 days of termination."
+    },
+    {
+      "id": "q166",
+      "cat": "revenue/profit_sharing",
+      "verdict": "HIT",
+      "question": "What revenue or profit sharing terms does the Ideanomicsinc content license agreement contain?",
+      "expected": "Such Advertising shall be determined by Licensee in its sole discretion and Licensee shall be entitled to retain all revenues resulting from the sale of Advertising.",
+      "evidence": "Such Advertising shall be determined by Licensee in its sole discretion and Licensee shall be entitled to retain all revenues resulting from the sale of Advertising.",
+      "answer": "Based on the search results, the **Ideanomicsinc Content License Agreement** contains the following revenue and profit sharing terms:\n\n1. **Profit Participation (Section 2(e))**: For content listed in Schedule A6 of Schedule A, the Licensor will grant the Licensee certain profit participation rights for certain durations, as detailed in Schedule A6. However, the Licensee will not have distribution rights or any other rights to the content in Schedule A6 under the standard license grant provisions. The agreement notes that if the A6 projects do not get produced, SSS will substitute comparable projects to be mutually approved.\n\n   **Important Note**: The agreement contains a bracketed note stating: \"[PRIOR TO EXECUTION OF THIS AGREEMENT, THE PARTIES WILL AGREE UPON APPROPRIATE LANGUAGE AND PROVISONS FOR THE PAYMENT OF PROFIT INTEREST, AUDIT RIGHTSS AND DISPUTE PROVISIONS.]\" This indicates that the specific profit participation terms were not finalized in this form.\n\n2. **Advertising Revenue (Section 9)**: The Licensee's services may contain advertising, promotions, and/or sponsorship material. The Licensee is entitled to retain all revenues resulting from the sale of advertising.\n\n3. **No Royalties or Fees (Section 10)**: No royalty or fees of any kind are owed by the Licensee under the agreement. Instead, the consideration for the licenses is the issuance of IP Common Shares as defined in a separate Securities Purchase Agreement dated November 23, 2015.\n\nThe specific details of the profit participation arrangement for Schedule A6 content would be found in Schedule A6, which is not included in the search results."
+    },
+    {
+      "id": "q167",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which jurisdiction's law governs the Ideanomicsinc content license agreement?",
+      "expected": "This Agreement shall be governed by and construed in all respects in accordance with the laws of the State of New York, without giving effect to any conflicts of laws principles.",
+      "evidence": "This Agreement shall be governed by and construed in all respects in accordance with the laws of the State of New York, without giving effect to any conflicts of laws principles.",
+      "answer": "Based on the search results, the **Ideanomicsinc Content License Agreement** is governed by the laws of the **State of New York**.\n\nSpecifically, Section 17(a) of the agreement states:\n\n> \"This Agreement shall be governed by and construed in all respects in accordance with the laws of the State of New York, without giving effect to any conflicts of laws principles.\"\n\nAdditionally, the agreement includes a dispute resolution clause (Section 17(b)) that specifies any disputes will be resolved through binding arbitration held in New York, New York, with the merits also to be resolved in accordance with the laws of the State of New York."
+    },
+    {
+      "id": "q170",
+      "cat": "revenue/profit_sharing",
+      "verdict": "HIT",
+      "question": "What revenue or profit sharing terms does the Invendacorp branding agreement contain?",
+      "expected": "The parties will share equally all revenue from the listing of paper or local coupons in the Co-Branded Application.",
+      "evidence": "The parties will share equally all revenue from the listing of paper or local coupons in the Co-Branded Application.",
+      "answer": "Based on the search results from the **Invendacorp Co-Branding Agreement**, here are the key revenue and profit sharing terms:\n\n## Revenue Sharing Terms:\n\n1. **Untargeted Offers Revenue**: The parties share equally all revenue from Untargeted Offers that appear on the Co-Branded Application. This includes:\n   - Revenue from paper or local coupons listed in the Co-Branded Application (shared equally)\n   - Each party receives 20 free Untargeted Offers per month (modifiable by mutual agreement)\n\n2. **E-Centives Package Sales**: Excite@Home pays e-centives a percentage of net revenue (gross revenue less purchase price and cost of sales) generated from sales of e-centives packages. The specific percentage is redacted in the publicly available version.\n\n3. **Excess Program Member User Data**: If Excite@Home delivers more than a specified threshold of Payment-Eligible Program Member User Data records, e-centives will pay Excite@Home on a quarterly basis a percentage of net revenue (gross revenue less direct third party commissions) generated from delivery of offers to excess Program Members.\n\n4. **Sponsorship Tiles**: Revenue generated from Sponsorship tiles is **not shared** \u2014 each party retains revenue from tiles allocated to them.\n\n**Note**: Many specific percentages and dollar amounts in this agreement have been redacted (marked as [*****]) due to confidentiality requests, so the exact revenue split percentages are not visible in the publicly filed version."
+    },
+    {
+      "id": "q178",
+      "cat": "exclusivity",
+      "verdict": "HIT",
+      "question": "What exclusivity provisions does the Lucidinc distributor agreement contain?",
+      "expected": "Lucid appoints the Distributor and the Distributor accepts appointment as an exclusive authorized Lucid Distributor.",
+      "evidence": "Lucid appoints the Distributor and the Distributor accepts appointment as an exclusive authorized Lucid Distributor.",
+      "answer": "Based on the search results, the **Lucidinc distributor agreement** contains the following exclusivity provisions:\n\n1. **Exclusive Territory Appointment** (Section 4.A):\n   - The Distributor is appointed as an **exclusive Distributor within specified territories** (the specific territories are redacted in the document).\n\n2. **Exclusive Authorized Distributor Status** (Section 1.A):\n   - Lucid appoints the Distributor as an **exclusive authorized Lucid Distributor** with the right to purchase and resell certain Lucid products to End User customers within defined market segments (hospital and medical research centers, dermatology, pathology, plastic surgery, mohs surgery departments, clinical research centers, small animal research facilities, cosmetic and cosmeceutical companies).\n\n3. **Non-Solicitation Outside Territory** (Section 4.B):\n   - The Distributor agrees **not to solicit any sales of the Product(s) outside the above Territories**.\n\n4. **Non-Compete Provision** (Section 5.E):\n   - The Distributor agrees **not to develop, manufacture or sell any equipment or service that can be considered competitive** to the equipment or service offered by Lucid. Lucid reserves the right to inform the Distributor of specific products and companies it considers competitive, including any product that would infringe Lucid-owned or licensed patents.\n\nThese provisions establish a territorial exclusivity arrangement with restrictions on the distributor's ability to compete with or sell outside the designated territory."
+    },
+    {
+      "id": "q179",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which jurisdiction's law governs the Lucidinc distributor agreement?",
+      "expected": "This Agreement shall be governed by and interpreted in accordance with the laws of the State of New York, USA without regard to conflict of laws principles.",
+      "evidence": "This Agreement shall be governed by and interpreted in accordance with the laws of the State of New York, USA without regard to conflict of laws principles.",
+      "answer": "Based on the search results, the **Lucidinc distributor agreement** is governed by the laws of the **State of New York, USA**. \n\nSection 20 (Governing Law) states:\n\n> \"This Agreement shall be governed by and interpreted in accordance with the laws of the State of New York, USA without regard to conflict of laws principles.\""
+    },
+    {
+      "id": "q180",
+      "cat": "termination_for_convenience",
+      "verdict": "HIT",
+      "question": "Can the Lucidinc distributor agreement be terminated for convenience, and how?",
+      "expected": "Either party may terminate this agreement by providing Ninety days Written Notice.",
+      "evidence": "Either party may terminate this agreement by providing Ninety days Written Notice.",
+      "answer": "Yes, the Lucidinc distributor agreement **can be terminated for convenience**. According to **Section 16.C**, either party may terminate the agreement by providing **ninety (90) days written notice**.\n\nThe agreement also provides other termination rights:\n\n- **For Cause (Section 16.A)**: Either party may terminate if the other party fails to perform any conditions, covenants, or obligations, or if the other party files for bankruptcy or similar relief.\n\n- **Change of Control (Section 16.B)**: Lucid may terminate if there is any change of control, ownership, or management of the Distributor.\n\nSo the termination for convenience mechanism is straightforward: **90 days written notice** is required from either party."
+    },
+    {
+      "id": "q181",
+      "cat": "renewal_term",
+      "verdict": "HIT",
+      "question": "What is the renewal term of the Lucidinc distributor agreement?",
+      "expected": "After the initial term, unless terminated, this Agreement will automatically renew for periods of one (1) calendar year each.",
+      "evidence": "After the initial term, unless terminated, this Agreement will automatically renew for periods of one (1) calendar year each.",
+      "answer": "Based on the Lucidinc Distributor Agreement, the renewal term is **one (1) calendar year**. \n\nAccording to Section 2 (Term) of the agreement:\n- The initial term is three (3) calendar years from the Agreement date\n- After the initial term, unless terminated, the Agreement will automatically renew for periods of **one (1) calendar year each**"
+    },
+    {
+      "id": "q182",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which jurisdiction's law governs the Lifewayfoodsinc endorsement agreement?",
+      "expected": "This Agreement will be construed and governed in accordance with the laws of the State of Illinois, without regard to conflict of laws principles.",
+      "evidence": "This Agreement will be construed and governed in accordance with the laws of the State of Illinois, without regard to conflict of laws principles.",
+      "answer": "Based on the search results, the **State of Illinois** governs the Lifewayfoodsinc endorsement agreement.\n\nSpecifically, Section 15 (Choice of Law and Forum) states:\n\n> \"This Agreement will be construed and governed in accordance with the laws of the State of Illinois, without regard to conflict of laws principles.\""
+    },
+    {
+      "id": "q183",
+      "cat": "agreement_date",
+      "verdict": "HIT",
+      "question": "What is the agreement date of the Lifewayfoodsinc endorsement agreement?",
+      "expected": "14th day of March, 2016",
+      "evidence": "14th day of March, 2016",
+      "answer": "The agreement date of the Lifewayfoodsinc endorsement agreement is **March 14, 2016** (the 14th day of March, 2016), which is also referred to as the \"Effective Date\" in the agreement."
+    },
+    {
+      "id": "q184",
+      "cat": "parties",
+      "verdict": "HIT",
+      "question": "Who are the parties to the Lifewayfoodsinc endorsement agreement?",
+      "expected": "Ludmila Smolyansky",
+      "evidence": "Ludmila Smolyansky",
+      "answer": "Based on the Lifewayfoodsinc endorsement agreement, the parties are:\n\n1. **Lifeway Foods, Inc.** \u2013 with a principal business address of 6431 West Oakton Street, Morton Grove, IL 60053\n2. **Ludmila Smolyansky** \u2013 an individual, on her own behalf, with an address of 182 N. Harbor Drive, Chicago, IL 60602\n\nThe agreement was executed on March 14, 2016, and was signed by Julie Smolyansky on behalf of Lifeway Foods, Inc., and by Ludmila Smolyansky on her own behalf."
+    },
+    {
+      "id": "q185",
+      "cat": "effective_date",
+      "verdict": "HIT",
+      "question": "What is the effective date of the Lifewayfoodsinc endorsement agreement?",
+      "expected": "14th day of March, 2016",
+      "evidence": "14th day of March, 2016",
+      "answer": "The effective date of the Lifewayfoodsinc endorsement agreement is **March 14, 2016**.\n\nThis is stated in the opening of the agreement: \"This Endorsement Agreement (\"Agreement\") is made this 14th day of March, 2016 (\"Effective Date\")...\""
+    },
+    {
+      "id": "q186",
+      "cat": "effective_date",
+      "verdict": "HIT",
+      "question": "What is the effective date of the Midwestenergyemissionscorp content license agreement?",
+      "expected": "2nd day of June, 2008",
+      "evidence": "2nd day of June, 2008",
+      "answer": "Based on the search results, the **effective date of the Midwestenergyemissionscorp content license agreement is June 2, 2008**.\n\nThis is stated in Exhibit A to the Content License Agreement, which is dated \"June 2, 2008.\" The agreement itself indicates that it \"shall be in full force and effect commencing on the date of execution by both Parties\" and the signature page shows the parties executed the agreement on that date."
+    },
+    {
+      "id": "q187",
+      "cat": "termination_for_convenience",
+      "verdict": "HIT",
+      "question": "Can the Midwestenergyemissionscorp content license agreement be terminated for convenience, and how?",
+      "expected": "COMPANY may, in its unfettered discretion, terminate this Agreement at any time after first givingCONTENT PROVIDER ten (10) days advance notice thereof.",
+      "evidence": "COMPANY may, in its unfettered discretion, terminate this Agreement at any time after first givingCONTENT PROVIDER ten (10) days advance notice thereof.",
+      "answer": "Yes, the Midwestenergyemissionscorp content license agreement **can be terminated for convenience**, and here's how:\n\n**Termination for Convenience:**\n\nAccording to **Section 9.B** of the agreement:\n\n> \"COMPANY may, in its unfettered discretion, terminate this Agreement at any time after first giving CONTENT PROVIDER ten (10) days advance notice thereof.\"\n\n**Key Points:**\n\n- **Who can terminate:** The COMPANY (not the Content Provider) has the unilateral right to terminate for convenience\n- **Notice required:** 10 days advance written notice to the Content Provider\n- **Discretion:** The COMPANY has \"unfettered discretion,\" meaning it can terminate without cause or justification\n\n**Additional Termination Provision (for Cause):**\n\nThe agreement also allows termination for breach under **Section 9.A**: either party may terminate upon 30 days' written notice if the other party breaches a material provision, unless the breach is cured within that 30-day period.\n\n**Post-Termination Obligations:**\n\nPer Section 10, termination does not relieve the COMPANY of obligations to render reports or pay sums owed for periods prior to termination, and warranties, representations, and indemnity obligations survive termination."
+    },
+    {
+      "id": "q188",
+      "cat": "agreement_date",
+      "verdict": "HIT",
+      "question": "What is the agreement date of the Midwestenergyemissionscorp content license agreement?",
+      "expected": "2nd day of June, 2008",
+      "evidence": "2nd day of June, 2008",
+      "answer": "Based on the search results, the agreement date of the Midwestenergyemissionscorp content license agreement is **June 2, 2008**.\n\nThis is stated in the opening of the agreement: \"THIS AGREEMENT is made as of this 2nd day of June, 2008 by and among Digicorp, Inc., a corporation organized under the laws of the State of Delaware, United States of America...\""
+    },
+    {
+      "id": "q189",
+      "cat": "exclusivity",
+      "verdict": "MISS",
+      "question": "What exclusivity provisions does the Midwestenergyemissionscorp content license agreement contain?",
+      "expected": "In this regard, it is specifically understood and agreed that CONTENT PROVIDER will not during the Term of this Agreement take any action to exploit or otherwise use, reproduce, distribute, transmit and publicly display any of the Content via the internet to Universities and College students in the People's Republic of China except for the benefit of the COMPANY.",
+      "evidence": "In this regard, it is specifically understood and agreed that CONTENT PROVIDER will not during the Term of this Agreement take any action to exploit or otherwise use, reproduce, distribute, transmit and publicly display any of the Content via the internet to Universities and College students in the People's Republic of China except for the benefit of the COMPANY.",
+      "answer": "Based on my search of the **MidwestEnergyEmissionsCorp Content License Agreement**, the contract does not contain explicit exclusivity provisions that grant exclusive rights to either party. \n\nHowever, the agreement does reference **non-exclusive content** in Exhibit A, which states:\n\n> \"Content derived from AVP, Inc. and other film content on a **non-exclusive basis**\"\n\nThis indicates that the content being licensed is provided on a **non-exclusive basis**, meaning the Content Provider retains the right to license the same content to other parties.\n\nThe agreement does contain confidentiality provisions (Section 11) that restrict how the parties can use and disclose information, but these are confidentiality restrictions rather than exclusivity provisions. The agreement also gives the Company broad discretion to terminate at any time with 10 days' notice, which suggests the arrangement is not intended to be exclusive."
+    },
+    {
+      "id": "q190",
+      "cat": "agreement_date",
+      "verdict": "HIT",
+      "question": "What is the agreement date of the Netgear,Inc amendment #2 to the distribution agreement?",
+      "expected": "this 15th day of July 1998",
+      "evidence": "this 15th day of July 1998",
+      "answer": "Based on the search results, there are two different Amendment #2 documents shown:\n\n1. **The first Amendment #2** (dated 4/21/2003 in the filing) has an **Amendment Date of October 1, 1996** and was executed on 4/30/97 by NETGEAR and Ingram Micro.\n\n2. **The second Amendment #2** (dated 7/15/98) is entered into on the **15th day of July 1998** by Ingram Micro Inc. and NETGEAR, Inc., amending their Distribution Agreement dated October 1, 1996.\n\nThe most recent Amendment #2 to the distribution agreement has an **agreement date of July 15, 1998**."
+    },
+    {
+      "id": "q191",
+      "cat": "license_grant",
+      "verdict": "MISS",
+      "question": "What license is granted under the Paperexchangecominc branding agreement?",
+      "expected": "PaperExchange hereby grants VerticalNet a non-exclusive, non-transferable, royalty-free, right and license to link to the PaperExchange Site through a PaperExchange Link.",
+      "evidence": "PaperExchange hereby grants VerticalNet a non-exclusive, non-transferable, royalty-free, right and license to link to the PaperExchange Site through a PaperExchange Link.",
+      "answer": "Based on the search results from the Paperexchangecominc branding agreement, the following licenses are granted:\n\n1. **VerticalNet's License to PaperExchange Content**: PaperExchange grants VerticalNet an **exclusive license** to use, modify, enhance, reproduce, display, perform and transmit the PaperExchange Content (which includes job listings for the Career Center and equipment listings). VerticalNet is restricted from disclosing, transferring, or providing this content to third parties, including PaperExchange competitors, except as otherwise permitted under the agreement.\n\n2. **PaperExchange's License to VerticalNet Content**: VerticalNet grants PaperExchange a **non-exclusive, non-transferable license** to use, reproduce, display and transmit the VerticalNet Content (original content including headlines, feature articles, columns and case studies), solely in connection with the development, maintenance and operation of the co-branded sites.\n\nThe key distinction is that PaperExchange receives an exclusive license for its content from VerticalNet, while VerticalNet receives only a non-exclusive, non-transferable license for VerticalNet's content from PaperExchange."
+    },
+    {
+      "id": "q192",
+      "cat": "renewal_term",
+      "verdict": "HIT",
+      "question": "What is the renewal term of the Paperexchangecominc branding agreement?",
+      "expected": "This Agreement will automatically renew at the end of the Initial Term or a subsequent renewal term on a year to year basis (each, a \"Renewal Term\"), unless either party notifies the other at least 30 days prior to the end of the Initial Term or then current Renewal Term, as applicable, of its intention not to renew this Agreement.",
+      "evidence": "This Agreement will automatically renew at the end of the Initial Term or a subsequent renewal term on a year to year basis (each, a \"Renewal Term\"), unless either party notifies the other at least 30 days prior to the end of the Initial Term or then current Renewal Term, as applicable, of its intention not to renew this Agreement.",
+      "answer": "Based on the Paperexchangecominc branding agreement, the **renewal term is on a year-to-year basis**.\n\nSpecifically, according to Section 8.1 (Automatic Renewal):\n\n> \"This Agreement will automatically renew at the end of the Initial Term or a subsequent renewal term on a year to year basis (each, a 'Renewal Term'), unless either party notifies the other at least 30 days prior to the end of the Initial Term or then current Renewal Term, as applicable, of its intention not to renew this Agreement.\"\n\nThis means the agreement automatically renews for successive one-year periods unless either party provides at least 30 days' notice of non-renewal before the end of the current term."
+    },
+    {
+      "id": "q193",
+      "cat": "notice_period_to_terminate_renewal",
+      "verdict": "HIT",
+      "question": "How much notice is required to terminate the renewal of the Paperexchangecominc branding agreement?",
+      "expected": "This Agreement will automatically renew at the end of the Initial Term or a subsequent renewal term on a year to year basis (each, a \"Renewal Term\"), unless either party notifies the other at least 30 days prior to the end of the Initial Term or then current Renewal Term, as applicable, of its intention not to renew this Agreement.",
+      "evidence": "This Agreement will automatically renew at the end of the Initial Term or a subsequent renewal term on a year to year basis (each, a \"Renewal Term\"), unless either party notifies the other at least 30 days prior to the end of the Initial Term or then current Renewal Term, as applicable, of its intention not to renew this Agreement.",
+      "answer": "Based on the Paperexchangecominc branding agreement, **30 days' notice is required to terminate the renewal**.\n\nSpecifically, Section 8.1 (Automatic Renewal) states:\n\n> \"This Agreement will automatically renew at the end of the Initial Term or a subsequent renewal term on a year to year basis (each, a \"Renewal Term\"), unless either party notifies the other **at least 30 days prior to the end of the Initial Term or then current Renewal Term**, as applicable, of its intention not to renew this Agreement.\"\n\nSo either party must provide written notice at least 30 days before the end of the current term to prevent automatic renewal."
+    },
+    {
+      "id": "q194",
+      "cat": "parties",
+      "verdict": "HIT",
+      "question": "Who are the parties to the Paperexchangecominc branding agreement?",
+      "expected": "VerticalNet, Inc.",
+      "evidence": "VerticalNet, Inc.",
+      "answer": "Based on the search results, the parties to the Paperexchangecominc branding agreement are:\n\n1. **VerticalNet, Inc.**\n2. **PaperExchange.com, LLC**\n\nThe agreement was executed by authorized representatives of both parties, with signatures from VerticalNet, Inc. (signed by a V.P. of E-Commerce Products Group) and PaperExchange.com, LLC (signed by Jason Weiss, CEO, and Rod A. Parsley, Vice President Business Development)."
+    },
+    {
+      "id": "q195",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which jurisdiction's law governs the Pcquotecominc branding agreement?",
+      "expected": "This Agreement shall be interpreted, construed and enforced in all respects in accordance with the laws of the State of Illinois, except with regards to its rules regarding choice of law.",
+      "evidence": "This Agreement shall be interpreted, construed and enforced in all respects in accordance with the laws of the State of Illinois, except with regards to its rules regarding choice of law.",
+      "answer": "Based on the search results, the **Pcquotecominc branding agreement** is governed by the laws of the **State of Illinois**.\n\nSpecifically, Section 11 (Applicable Law and Venue) states:\n\n> \"This Agreement shall be interpreted, construed and enforced in all respects in accordance with the laws of the State of Illinois, except with regards to its rules regarding choice of law.\"\n\nAdditionally, the parties irrevocably consent to the jurisdiction of the courts of the State of Illinois and the federal courts situated in the State of Illinois for any actions to enforce the agreement or recover damages."
+    },
+    {
+      "id": "q196",
+      "cat": "license_grant",
+      "verdict": "HIT",
+      "question": "What license is granted under the Pcquotecominc branding agreement?",
+      "expected": "PCQ agrees to allow ABW to co-brand the PCQ SOFTWARE in order to provide a value added service on ABW's World Wide Web site.",
+      "evidence": "PCQ agrees to allow ABW to co-brand the PCQ SOFTWARE in order to provide a value added service on ABW's World Wide Web site.",
+      "answer": "Based on the search results from the **Pcquotecominc Co-Branding Agreement**, the license granted is as follows:\n\n**PCQ agrees to allow ABW to co-brand the PCQ SOFTWARE** in order to provide a value-added service on ABW's World Wide Web site. Specifically:\n\n1. **Right to Co-Brand**: ABW receives the right to co-brand the PCQ SOFTWARE (PC QUOTE 6.0-TM for Windows on the Internet).\n\n2. **Access to HYPERFEED**: ABW's clients are permitted access to the HYPERFEED (PC Quote's proprietary digital data feed containing financial market information).\n\n3. **Scope of License**: The co-branded SOFTWARE will be made available via ABW software housed at the ABW office, and the server will be accessed by all ABW subscribers to download the SOFTWARE and receive the HYPERFEED.\n\n4. **Limitations**: \n   - PCQ retains title and all copyrights or proprietary rights to the SOFTWARE and HYPERFEED\n   - ABW will not provide any unauthorized access to the co-branded service, nor reproduce or redistribute the service in any way\n   - PCQ has sole ability to authorize access to the market data contained in the HYPERFEED by ABW clients\n\n5. **Consideration**: ABW pays a monthly fee for the right to permit access by ABW's clients to the SOFTWARE and HYPERFEED."
+    },
+    {
+      "id": "q197",
+      "cat": "effective_date",
+      "verdict": "MISS",
+      "question": "What is the effective date of the Pcquotecominc branding agreement?",
+      "expected": "The effective date for purposes of this Agreement is the contract date as specified on the signature page of this Agreement.",
+      "evidence": "The effective date for purposes of this Agreement is the contract date as specified on the signature page of this Agreement.",
+      "answer": "Based on the search results, the **effective date of the Pcquotecominc branding agreement is October 11, 1996**.\n\nThis is stated in the opening of the agreement: \"This agreement is made effective Oct. 11, 1996 by and between PC QUOTE, INC. (hereinafter referred to as \"PCQ\")... and AB Wately, Inc. (hereinafter referred to as \"ABW\")...\""
+    },
+    {
+      "id": "q198",
+      "cat": "cap_on_liability",
+      "verdict": "HIT",
+      "question": "What cap on liability does the Pcquotecominc branding agreement specify?",
+      "expected": "LIABILITY UNDER THIS AGREEMENT FROM ANY AND ALL CAUSES, INCLUDING, BUT NOT LIMITED TO, PROGRAM MALFUNCTION OR OPERATIONAL NEGLIGENCE, SHALL BE LIMITED TO GENERAL MONEY DAMAGES IN AN AMOUNT NOT TO EXCEED THE TOTAL CHARGES PAID BY ABW FOR THE SERVICES DURING THE MOST RECENT TWELVE (12) MONTHS OF THE AGREEMENT.",
+      "evidence": "LIABILITY UNDER THIS AGREEMENT FROM ANY AND ALL CAUSES, INCLUDING, BUT NOT LIMITED TO, PROGRAM MALFUNCTION OR OPERATIONAL NEGLIGENCE, SHALL BE LIMITED TO GENERAL MONEY DAMAGES IN AN AMOUNT NOT TO EXCEED THE TOTAL CHARGES PAID BY ABW FOR THE SERVICES DURING THE MOST RECENT TWELVE (12) MONTHS OF THE AGREEMENT.",
+      "answer": "Based on the search results, the **Pcquotecominc branding agreement** specifies the following liability cap:\n\n**Liability is limited to general money damages in an amount not to exceed the total charges paid by ABW for the services during the most recent twelve (12) months of the agreement.**\n\nAdditionally, the agreement explicitly states that:\n- This limitation constitutes the sole remedy for either party (PCQ or ABW)\n- **Neither party will be responsible for lost profits or special, indirect, incidental, or consequential damages**, even if the other party has been advised of the possibility of such damages\n\nThis liability cap applies to all causes, including program malfunction or operational negligence."
+    },
+    {
+      "id": "q199",
+      "cat": "effective_date",
+      "verdict": "HIT",
+      "question": "What is the effective date of the Pelicandeliversinc development agreement2?",
+      "expected": "December 3rd, 2018",
+      "evidence": "December 3rd, 2018",
+      "answer": "The **effective date** of the Pelicandeliversinc development agreement2 is **December 3rd, 2018**.\n\nThis is stated at the beginning of the Software Development Agreement: \"THIS SOFTWARE DEVELOPMENT AGREEMENT (Agreement) is made December 3rd, 2018 (the Effective Date)...\""
+    },
+    {
+      "id": "q200",
+      "cat": "license_grant",
+      "verdict": "HIT",
+      "question": "What license is granted under the Pelicandeliversinc development agreement2?",
+      "expected": "As such, Client hereby grants Developer a royalty-free, worldwide, license to use its Content, Marks, Procedures and Confidential Information in order to complete the Project.",
+      "evidence": "As such, Client hereby grants Developer a royalty-free, worldwide, license to use its Content, Marks, Procedures and Confidential Information in order to complete the Project.",
+      "answer": "Based on the search results from the **Pelicandeliversinc Development Agreement 2**, the following licenses are granted:\n\n**1. License to Client's Intellectual Property (Section 6.3):**\nClient grants Developer a **royalty-free, worldwide license** to use:\n- Client's Content (text, software, graphics, photos, sounds, music, videos, designs, compilations, digital conversions, interactive features, etc.)\n- Client's Marks (trademarks, service marks, trade dress, and logos)\n- Client's Procedures (know-how, methodologies, equipment, or processes used by Client)\n- Client's Confidential Information\n\nThis license is granted to assist Developer in completing all project-related services and deliverables in a complete and timely manner.\n\n**2. Developer's Intellectual Property (Section 6.2):**\nDeveloper retains full ownership over its proprietary information and software (Developer Technology). However, if Developer uses any of its Developer Technology in the Works, Client will not acquire any proprietary or ownership rights to that Developer Technology and agrees not to market or use any Developer Technology as an independent \"stand-alone\" program without Developer's prior written consent."
+    },
+    {
+      "id": "q201",
+      "cat": "agreement_date",
+      "verdict": "HIT",
+      "question": "What is the agreement date of the Pelicandeliversinc development agreement2?",
+      "expected": "December 3rd, 2018 (",
+      "evidence": "December 3rd, 2018 (",
+      "answer": "The agreement date of the Pelicandeliversinc development agreement2 is **December 3rd, 2018** (referred to as the \"Effective Date\" in the agreement)."
+    },
+    {
+      "id": "q202",
+      "cat": "anti-assignment",
+      "verdict": "HIT",
+      "question": "What does the Pelicandeliversinc development agreement2 say about assignment of the agreement?",
+      "expected": "Unless as provided herein, neither Party may assign, delegate, assign, nor subcontract their obligations and duties hereunder without the prior written consent of the non-assigning Party.",
+      "evidence": "Unless as provided herein, neither Party may assign, delegate, assign, nor subcontract their obligations and duties hereunder without the prior written consent of the non-assigning Party.",
+      "answer": "Based on the search results, here's what the **Pelicandeliversinc development agreement2** says about assignment of the agreement:\n\n**Section 12.5 - ASSIGNMENT:**\n\nThe agreement contains the following key provisions:\n\n1. **Binding on Successors**: The agreement will be binding on and inure to the benefit of the parties, their respective successors, assigns, heirs, and personal representatives.\n\n2. **General Restriction**: Neither party may assign, delegate, or subcontract their obligations and duties under the agreement **without the prior written consent of the non-assigning party**.\n\n3. **Developer Exception**: Notwithstanding the general restriction above, the **Developer has a special right** to assign its rights and benefits under the agreement, and to delegate the performance of its obligations and duties, to any corporation or unincorporated business that is the successor to the business of Developer, **without requiring Client's express or implied authorization**.\n\nIn summary, while the agreement generally requires written consent from both parties for assignment, the Developer has a carve-out allowing it to assign to a successor business without Client consent."
+    },
+    {
+      "id": "q204",
+      "cat": "effective_date",
+      "verdict": "MISS",
+      "question": "What is the effective date of the Playboyenterprisesinc purchase agreement?",
+      "expected": "January 15, 2008",
+      "evidence": "January 15, 2008",
+      "answer": "Based on my search of the Playboy Enterprises Inc document, I was unable to find a specific effective date stated in the contract excerpts returned. The document appears to be a Supplier/Subcontractor Contract and related agreements (Content License Agreement, Marketing Agreement, and Sales-Purchase Agreement), but the search results do not show an explicit \"effective date\" clause.\n\nThe document is dated 2/20/2009 (based on the filing date), but this is the SEC filing date, not necessarily the contract's effective date. The contract itself contains signature lines with blank \"Date:\" fields, suggesting the effective date would be filled in when the contract is executed by the parties.\n\nIf you need the specific effective date, you may need to refer to the complete contract document directly, as the relevant section may not have been captured in my search results."
+    },
+    {
+      "id": "q206",
+      "cat": "parties",
+      "verdict": "MISS",
+      "question": "Who are the parties to the Playboyenterprisesinc purchase agreement?",
+      "expected": "Playboy.com, Inc.",
+      "evidence": "Playboy.com, Inc.",
+      "answer": "Based on the search results from the Playboy Enterprises Inc document, the parties to the purchase agreement (specifically the Supplier/Subcontractor Contract shown in Exhibit 8) are:\n\n1. **Supplier** - (to be named by the supplier company)\n2. **Purchaser** - (to be named by the purchaser company)\n\nAdditionally, **Playboy Enterprises International, Inc.** (also referred to as \"Playboy\") is identified as an intended third-party beneficiary to the contract, and **PLAYBOY.COM, INC.** is listed as the Playboy contact party with an address at 730 Fifth Avenue, New York, NY 10019.\n\nThe contract is a template form where the specific names of the Supplier and Purchaser are to be filled in by the parties executing the agreement."
+    },
+    {
+      "id": "q207",
+      "cat": "parties",
+      "verdict": "MISS",
+      "question": "Who are the parties to the Playboyenterprisesinc purchase agreement2?",
+      "expected": "PLAYBOY.COM, INC.",
+      "evidence": "PLAYBOY.COM, INC.",
+      "answer": "Based on the search results, the parties to the Playboy Enterprises Inc purchase agreement are:\n\n1. **Supplier** - The supplier/subcontractor (to be named by the specific supplier entering into the contract)\n2. **Purchaser** - The purchaser (to be named by the specific purchaser entering into the contract)\n3. **Playboy Enterprises International, Inc.** - Listed as an intended third-party beneficiary and owner of the Playboy Properties\n\nThe document also identifies **PLAYBOY.COM, INC.** (located at 730 Fifth Avenue, New York, NY 10019) as the Playboy party contact for the agreement.\n\nThis is a Supplier/Subcontractor Contract template where the specific Supplier and Purchaser names would be filled in by the parties executing the agreement, with Playboy Enterprises International, Inc. retaining ownership of the Playboy Properties and serving as a third-party beneficiary."
+    },
+    {
+      "id": "q208",
+      "cat": "term",
+      "verdict": "MISS",
+      "question": "What is the term of the effective date of the Riseeducationcaymanltd service agreement?",
+      "expected": "This Agreement shall be effective as of the date set forth above in this Agreement.",
+      "evidence": "This Agreement shall be effective as of the date set forth above in this Agreement.",
+      "answer": "Based on the Riseeducationcaymanltd Service Agreement, the term of the agreement is **five (5) years** from the effective date.\n\nAccording to Section 13 (Renewal) of the agreement:\n\n> \"This Agreement shall be effective as of the date set forth above in this Agreement. The term of this Agreement shall be five (5) years. This Agreement shall be renewed automatically for another five (5) years upon the expiration unless the Parties confirm, in writing, the termination of this Agreement.\"\n\nThe agreement also becomes effective upon being affixed with both parties' official seals (as stated in Section 14(3))."
+    },
+    {
+      "id": "q209",
+      "cat": "expiration_date",
+      "verdict": "MISS",
+      "question": "When does the Riseeducationcaymanltd service agreement expire?",
+      "expected": "The term of this Agreement shall be five (5) years.",
+      "evidence": "The term of this Agreement shall be five (5) years.",
+      "answer": "Based on the Riseeducationcaymanltd Service Agreement, the contract does not have a fixed expiration date. Instead, according to **Section 13 (Renewal)**:\n\n- **Initial term:** The agreement is effective for **five (5) years** from the date set forth in the agreement.\n- **Automatic renewal:** Upon expiration of the initial five-year term, the agreement shall be **renewed automatically for another five (5) years**, unless the parties confirm in writing their intention to terminate the agreement.\n\nSo the agreement will continue indefinitely in five-year cycles unless either party provides written notice of termination before the end of a term."
+    },
+    {
+      "id": "q210",
+      "cat": "renewal_term",
+      "verdict": "HIT",
+      "question": "What is the renewal term of the Riseeducationcaymanltd service agreement?",
+      "expected": "This Agreement shall be renewed automatically for another five (5) years upon the expiration unless the Parties confirm, in writing, the termination of this Agreement.",
+      "evidence": "This Agreement shall be renewed automatically for another five (5) years upon the expiration unless the Parties confirm, in writing, the termination of this Agreement.",
+      "answer": "Based on the search results, the **renewal term of the Riseeducationcaymanltd service agreement is five (5) years**.\n\nAccording to Section 13 (Renewal) of the agreement:\n\n> \"This Agreement shall be effective as of the date set forth above in this Agreement. The term of this Agreement shall be five (5) years. This Agreement shall be renewed automatically for another five (5) years upon the expiration unless the Parties confirm, in writing, the termination of this Agreement.\"\n\nThis means the agreement has an initial term of 5 years and will automatically renew for successive 5-year periods unless either party provides written notice of termination."
+    },
+    {
+      "id": "q211",
+      "cat": "parties",
+      "verdict": "HIT",
+      "question": "Who are the parties to the Riseeducationcaymanltd service agreement?",
+      "expected": "Rise (Tianjin) Education Information Consulting Co., Ltd.",
+      "evidence": "Rise (Tianjin) Education Information Consulting Co., Ltd.",
+      "answer": "Based on the Riseeducationcaymanltd service agreement, the parties are:\n\n1. **Party A (Service Provider):** Rise (Tianjin) Education Information Consulting Co., Ltd.\n   - Address: Room C209, C210, C213, C214, C217 and C218, 2/F, Building 1, No. 8 Huanhe West Road, Airport Economic Zone, Tianjin, China\n\n2. **Party B (Service Recipient):** [\u2022] (the specific name and address are redacted/blank in the document)\n\nThe agreement was entered into in Beijing, China, and the Service Provider is identified as a company with resources in the field of English teaching and training for children."
+    },
+    {
+      "id": "q213",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which jurisdiction's law governs the Revolutionmedicinesinc development agreement?",
+      "expected": "This Agreement shall be governed by and construed in accordance with the laws of the State of New York without reference to any rules of conflict of laws.",
+      "evidence": "This Agreement shall be governed by and construed in accordance with the laws of the State of New York without reference to any rules of conflict of laws.",
+      "answer": "Based on the search results, the **Revolutionmedicinesinc development agreement** is governed by the laws of the **State of New York**. \n\nSection 15.5 of the agreement states:\n\n> \"This Agreement shall be governed by and construed in accordance with the laws of the State of New York without reference to any rules of conflict of laws.\""
+    },
+    {
+      "id": "q217",
+      "cat": "parties",
+      "verdict": "HIT",
+      "question": "Who are the parties to the Sandridgeenergyinc operations and maintenance agreement?",
+      "expected": "Pi\u00f1on Gathering Company, LLC",
+      "evidence": "Pi\u00f1on Gathering Company, LLC",
+      "answer": "Based on the Sandridge Energy Inc Operations and Maintenance Agreement, the parties are:\n\n1. **OPERATOR**: SANDRIDGE MIDSTREAM, INC.\n2. **OWNER**: PI\u00d1ON GATHERING COMPANY, LLC (with TCW Asset Management Company as its Manager)\n\nThe agreement was executed on August 6, 2009, with authorized representatives signing on behalf of each party."
+    },
+    {
+      "id": "q218",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which jurisdiction's law governs the Scansourceinc distributor agreement2?",
+      "expected": "The Warranty and the Software License shall be governed by and construed in accordance with the laws of the State of California, without reference to principles of conflict of laws.",
+      "evidence": "The Warranty and the Software License shall be governed by and construed in accordance with the laws of the State of California, without reference to principles of conflict of laws.",
+      "answer": "Based on the search results from the **Scansourceinc distributor agreement2**, the governing law clause states:\n\n**The laws of the State of California** govern the Warranty and Software License, without reference to principles of conflict of laws. The United Nations Convention on the International Sale of Goods shall not apply."
+    },
+    {
+      "id": "q223",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which jurisdiction's law governs the Soupmaninc franchise agreement?",
+      "expected": "This Agreement shall be interpreted and construed under the laws of the State of New York.",
+      "evidence": "This Agreement shall be interpreted and construed under the laws of the State of New York.",
+      "answer": "Based on the search results, the **State of New York** governs the Soupmaninc franchise agreement.\n\nAccording to Section 17.1 (Choice of Law) of the agreement:\n\n> \"This Agreement shall be interpreted and construed under the laws of the State of New York. In the event of any conflict of law, the laws of New York shall prevail, without regard to the application of such state's conflict of law rules.\"\n\nHowever, there is an exception: if any provision would not be enforceable under New York law, but the Franchised Business is located outside of New York and that provision would be enforceable under the laws of the state where the business is located, then that specific provision shall be interpreted under the laws of that other state.\n\nAdditionally, the agreement specifies that any disputes that cannot be resolved through mediation shall be litigated in the County of New York, State of New York (Section 17.2.2 and 17.3)."
+    },
+    {
+      "id": "q224",
+      "cat": "minimum_commitment",
+      "verdict": "HIT",
+      "question": "What minimum commitment does the Soupmaninc franchise agreement impose?",
+      "expected": "In addition to The Original Soupman business you must own and continuously operate, you must sell and have open the minimum number of The Original Soupman businesses as set forth on Attachment E hereto (the \"Minimum Development Quota\") by the dates set forth on such Attachment.",
+      "evidence": "In addition to The Original Soupman business you must own and continuously operate, you must sell and have open the minimum number of The Original Soupman businesses as set forth on Attachment E hereto (the \"Minimum Development Quota\") by the dates set forth on such Attachment.",
+      "answer": "Based on the Soupman Inc franchise agreement, there are **two key minimum commitments**:\n\n1. **Minimum Development Quota**: You must sell and have open a minimum number of The Original Soupman businesses by specified dates. The exact numbers and dates are set forth on **Attachment E** of the agreement. Failure to meet this quota is grounds for termination of the agreement and loss of exclusive rights to market and sell franchises in your Master Territory.\n\n2. **Minimum Soup Purchase Commitment**: To maintain exclusivity, you must purchase a minimum amount of soup from the franchisor:\n   - $170,000 in 2015\n   - $1,600,000 in 2016\n   - $3,200,000 in 2017\n   - $5,000,000 in 2018 and increasing 10% each year thereafter\n\nAdditionally, you must serve a minimum of **three (3) soups daily** in the kettles located in the front line of the restaurant (with a preference for six soups daily).\n\nThe specific numbers for the Minimum Development Quota would be found in Attachment E, which is referenced but not fully detailed in the search results."
+    },
+    {
+      "id": "q226",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which jurisdiction's law governs the Theravancebiopharma,Inc service agreement?",
+      "expected": "This Agreement and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the law of England.",
+      "evidence": "This Agreement and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the law of England.",
+      "answer": "Based on the search results, the **Theravancebiopharma, Inc service agreement** is governed by the law of **England**.\n\nSpecifically, clause 24.11 states:\n\n> \"This Agreement and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the law of England.\"\n\nAdditionally, clause 24.12 provides that the courts of England have exclusive jurisdiction to settle any disputes arising from the agreement."
+    },
+    {
+      "id": "q228",
+      "cat": "term",
+      "verdict": "HIT",
+      "question": "What is the term of the Theravancebiopharma,Inc service agreement?",
+      "expected": "The Executive's employment with the Company will commence on the Commencement Date and shall continue, subject to the remaining terms of this Agreement, until terminated by either party giving the other the following minimum advance written notice: 2.1.1 6 weeks' notice; 2.1.2 such other longer period as required by law.",
+      "evidence": "The Executive's employment with the Company will commence on the Commencement Date and shall continue, subject to the remaining terms of this Agreement, until terminated by either party giving the other the following minimum advance written notice: 2.1.1 6 weeks' notice; 2.1.2 such other longer period as required by law.",
+      "answer": "Based on the Theravancebiopharma, Inc service agreement, the **term of employment** is as follows:\n\n**Section 2.1 - Term of Employment:**\n- The Executive's employment commences on the Commencement Date and continues until terminated by either party giving the other **minimum advance written notice of 6 weeks** (or such other longer period as required by law).\n\nAdditionally, the agreement notes that the Executive's period of continuous employment for purposes of the Employment Rights Act 1996 commenced on **29 October 2013**.\n\nSo there is no fixed term\u2014the employment is ongoing until either party terminates it with 6 weeks' written notice."
+    },
+    {
+      "id": "q229",
+      "cat": "agreement_date",
+      "verdict": "HIT",
+      "question": "What is the agreement date of the Truenorthenergycorp development agreement?",
+      "expected": "January 1, 2007",
+      "evidence": "January 1, 2007",
+      "answer": "Based on the search results, the agreement date of the Truenorthenergycorp development agreement is **January 1, 2007**. \n\nThe document states: \"THIS DEVELOPMENT AGREEMENT (\"Agreement\"), made and entered into effective as of January 1, 2007 (the \"Effective Date\")...\""
+    },
+    {
+      "id": "q230",
+      "cat": "minimum_commitment",
+      "verdict": "MISS",
+      "question": "What minimum commitment does the Truenorthenergycorp development agreement impose?",
+      "expected": "Company shall pay 11.67% of the Drilling Costs of the Initial Well, regardless of whether the Initial Well is successfully drilled to the Objective Zone",
+      "evidence": "Company shall pay 11.67% of the Drilling Costs of the Initial Well, regardless of whether the Initial Well is successfully drilled to the Objective Zone",
+      "answer": "Based on the search results from the **Truenorthenergycorp Development Agreement**, the minimum commitment imposed is:\n\n**8.75% (eight and three-quarters percent)** \u2014 this is Company's proportionate share of various obligations, including:\n\n1. **Drilling and Completion Costs**: Company bears 8.75% of the cost of operation of the Initial Well commencing with first production.\n\n2. **Taxes**: Company shall bear 8.75% of any severance, production and gathering taxes and other taxes imposed or measured by the volume or value of production from the Initial Well.\n\n3. **Plugging and Abandonment**: Company's proportionate share of the cost, risk and expense to plug and abandon the Initial Well is 8.75%.\n\n4. **Carried Interests**: If any lands within the Contract Area contain unleased or third-party interests that must be carried to conduct operations, Company shall bear 8.75% of those Carried Interests.\n\nThis 8.75% represents Company's baseline proportionate participation obligation throughout the agreement's term."
+    },
+    {
+      "id": "q231",
+      "cat": "cap_on_liability",
+      "verdict": "HIT",
+      "question": "What cap on liability does the Truenorthenergycorp development agreement specify?",
+      "expected": "Each of the Parties expressly waives and agrees not to seek indirect, consequential, punitive or exemplary damages of any kind with respect to any dispute arising out of or relating to this Agreement or breach hereof.",
+      "evidence": "Each of the Parties expressly waives and agrees not to seek indirect, consequential, punitive or exemplary damages of any kind with respect to any dispute arising out of or relating to this Agreement or breach hereof.",
+      "answer": "Based on the search results from the **Truenorthenergycorp Development Agreement**, the liability cap is specified in **Article XIII (Disclaimers and Limitation of Liability)**.\n\nThe key provision states:\n\n**Section 13.2** provides that each party expressly waives and agrees not to seek **indirect, consequential, punitive or exemplary damages**.\n\nAdditionally, **Section 5.3** limits BP's liability to Company, stating that BP shall have **no liability to Company for losses sustained or liabilities or obligations incurred except such as may result from BP's gross negligence or willful misconduct**.\n\nSo the agreement caps liability by:\n1. Excluding indirect, consequential, punitive, and exemplary damages\n2. Limiting BP's liability to situations arising only from gross negligence or willful misconduct (not ordinary negligence)"
+    },
+    {
+      "id": "q233",
+      "cat": "parties",
+      "verdict": "HIT",
+      "question": "Who are the parties to the Thriventvariableinsuranceaccountb 99.d(iv)_endorsement agreement?",
+      "expected": "Thrivent Financial for Lutherans",
+      "evidence": "Thrivent Financial for Lutherans",
+      "answer": "Based on the search results, the parties to the Thrivent Variable Insurance Account B 99.d(iv) Endorsement Agreement are:\n\n1. **Thrivent Financial for Lutherans** (the insurance company/Society) - which took over all obligations from Thrivent Life Insurance Company (formerly known as Lutheran Brotherhood Variable Insurance Products Company) effective July 1, 2019\n\n2. **The Insured(s) or Annuitant(s)** - the person(s) named in the contract who become benefit members of the Society\n\nThe endorsement specifically notes that Thrivent Life Insurance Company was dissolved and all its assets and liabilities, including this contract, were transferred to Thrivent Financial for Lutherans, which now has all obligations under the contract."
+    },
+    {
+      "id": "q234",
+      "cat": "anti-assignment",
+      "verdict": "HIT",
+      "question": "What does the Thriventvariableinsuranceaccountb 99.d(iv)_endorsement agreement say about assignment of the agreement?",
+      "expected": "Society membership rights and privileges cannot be transferred or assigned.",
+      "evidence": "Society membership rights and privileges cannot be transferred or assigned.",
+      "answer": "Based on the search results, the **Thrivent Variable Insurance Account B Endorsement Agreement** (effective July 1, 2019) contains the following provision on assignment:\n\n**ASSIGNMENT**\n\n> You may transfer ownership of this contract in accordance with our bylaws. Society membership rights and privileges cannot be transferred or assigned.\n\nIn summary, the agreement allows you to transfer ownership of the contract according to the Society's bylaws, but it explicitly prohibits the transfer or assignment of Society membership rights and privileges."
+    },
+    {
+      "id": "q235",
+      "cat": "minimum_commitment",
+      "verdict": "MISS",
+      "question": "What minimum commitment does the Womensgolfunlimitedinc endorsement agreement impose?",
+      "expected": "The Professional agrees to participate in a minimum of five (5) other events per calendar year to market and promote the Company's products, including but not limited to market consultations, each of which shall include meeting with the Company executives to assist in the design, development, marketing and promotion of the Company's products.",
+      "evidence": "The Professional agrees to participate in a minimum of five (5) other events per calendar year to market and promote the Company's products, including but not limited to market consultations, each of which shall include meeting with the Company executives to assist in the design, development, marketing and promotion of the Company's products.",
+      "answer": "Based on the search results from the **Womensgolfunlimitedinc Endorsement Agreement**, the minimum commitment imposed is:\n\n**Section 4.5 explicitly states:** \"There shall be no minimum amounts due from the Company hereunder except as specified in Section 4.1 above.\"\n\nSection 4.1 specifies that the Company will pay the Professional a **base fee of $36,000 per year** in four equal quarterly installments of $9,000 each (payable on March 15, June 15, September 15, and December 15).\n\nHowever, the agreement also clarifies that **the Company is under no obligation to create, market, promote or sell the Products**. The failure to do so does not create any liability or claims for the Professional.\n\nSo while there is a guaranteed annual base fee of $36,000, there is no minimum sales or marketing commitment required from the Company."
+    },
+    {
+      "id": "q236",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which jurisdiction's law governs the Womensgolfunlimitedinc endorsement agreement?",
+      "expected": "The validity, interpretation, construction and performance of this Agreement shall be governed in accordance with the laws of the State of New Jersey without giving effect to the principles of conflicts of laws of such state.",
+      "evidence": "The validity, interpretation, construction and performance of this Agreement shall be governed in accordance with the laws of the State of New Jersey without giving effect to the principles of conflicts of laws of such state.",
+      "answer": "Based on the search results, the **Womensgolfunlimitedinc endorsement agreement** is governed by the laws of the **State of New Jersey**.\n\nSpecifically, Section 11.4 (GOVERNING LAW) states:\n\n> \"The validity, interpretation, construction and performance of this Agreement shall be governed in accordance with the laws of the State of New Jersey without giving effect to the principles of conflicts of laws of such state.\""
+    },
+    {
+      "id": "q237",
+      "cat": "agreement_date",
+      "verdict": "HIT",
+      "question": "What is the agreement date of the Womensgolfunlimitedinc endorsement agreement?",
+      "expected": "13th day of October, 1999",
+      "evidence": "13th day of October, 1999",
+      "answer": "Based on the search results, the **agreement date of the Womensgolfunlimitedinc endorsement agreement is October 13, 1999**.\n\nThe document states: \"This Endorsement Agreement (\"Agreement\") is made this 13th day of October, 1999 by and between SQUARE TWO GOLF INC., a New Jersey corporation (the \"Company\"), and KATHY WHITWORTH, an individual...\"\n\nHowever, note that while the agreement was executed on October 13, 1999, the **term of the agreement begins on January 1, 2000** and continues for an initial period of five (5) years."
+    },
+    {
+      "id": "q238",
+      "cat": "expiration_date",
+      "verdict": "HIT",
+      "question": "When does the Womensgolfunlimitedinc endorsement agreement expire?",
+      "expected": "The term of this Agreement shall begin on January 1, 2000 and continue for an initial period of five (5) years unless earlier terminated in accordance with Section 7 hereof, and may be renewed under Section 8 hereof (the initial period plus any renewal period, the \"Term\").",
+      "evidence": "The term of this Agreement shall begin on January 1, 2000 and continue for an initial period of five (5) years unless earlier terminated in accordance with Section 7 hereof, and may be renewed under Section 8 hereof (the initial period plus any renewal period, the \"Term\").",
+      "answer": "Based on the search results, the **Womensgolfunlimitedinc endorsement agreement** (formally the Square Two Golf, Inc. Endorsement Agreement with Kathy Whitworth) has the following expiration terms:\n\n**Initial Term:** The agreement expires on **December 31, 2004**.\n\n**Renewal Option:** The Company may renew the agreement for one additional five-year period that would begin on January 1, 2005 and end on December 31, 2009, provided the Company gives written notice of its intent to renew by November 30, 2004.\n\nThe agreement was dated March 29, 2000, so the initial five-year term runs from 2000 through the end of 2004."
+    }
+  ]
+}

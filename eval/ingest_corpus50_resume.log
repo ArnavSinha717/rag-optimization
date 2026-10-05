@@ -1,0 +1,4 @@
+rag_lib loaded: Gemini + Mongo (3088 chunks) + S3 ready. 67 eval questions.
+v10_corpus50_recursive: 48 docs already ingested (resume mode)
+
+DONE: inserted 0 new chunks; variant total = 1402

@@ -1,0 +1,368 @@
+{
+ "description": "The 50 CUAD v1 contract PDFs ingested as variant v10_corpus50_recursive (eval/ingest_corpus50.py). Copy each cuad_path (relative to the extracted CUAD_v1/ folder) to data/corpus50/<file>. Keep the exact file names: doc_id and title are derived from them and eval/questions_v2.jsonl refers to these doc_ids.",
+ "source": "CUAD v1, The Atticus Project, CC BY 4.0, https://zenodo.org/records/4595826",
+ "variant_id": "v10_corpus50_recursive",
+ "pdf_files": 50,
+ "distinct_doc_ids": 48,
+ "sets": {
+  "part1": "the 11 sponsorship/affiliate contracts of the original study (Part 1)",
+  "part2_added": "39 contracts added for the scaled study (Part 2)"
+ },
+ "doc_id_rule": "filename stem, runs of characters outside [A-Za-z0-9_-] replaced by '_', lowercased, truncated to 80 characters",
+ "contracts": [
+  {
+   "file": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Co_Branding/2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement.pdf",
+   "doc_id": "2themartcominc_19990826_10-12g_ex-10_10_6700288_ex-10_10_co-branding_agreement__",
+   "set": "part2_added",
+   "sha256": "db445255a65067160b9e9a7cf23afbd3379a715d000b0576fa8e7f64982e523c"
+  },
+  {
+   "file": "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Development/AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf",
+   "doc_id": "aimmunetherapeuticsinc_20200205_8-k_ex-10_3_11967170_ex-10_3_development_agreeme",
+   "set": "part2_added",
+   "sha256": "c4af82e1da4bc66a56b6a4533286c3e677e8f578eef0ea42c1087df116ae8f6b"
+  },
+  {
+   "file": "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.34_11788308_EX-10.34_Sponsorship%20Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Sponsorship/AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.34_11788308_EX-10.34_Sponsorship Agreement.pdf",
+   "doc_id": "alliedesportsentertainmentinc_20190815_8-k_ex-10_34_11788308_ex-10_34_sponsorshi",
+   "set": "part1",
+   "sha256": "cf48c00dd85b521cb397d45960bbc1b24e7eac0f7bf8ec896ad5c4d185b316a0"
+  },
+  {
+   "file": "ArcGroupInc_20171211_8-K_EX-10.1_10976103_EX-10.1_Sponsorship%20Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Sponsorship/ArcGroupInc_20171211_8-K_EX-10.1_10976103_EX-10.1_Sponsorship Agreement.pdf",
+   "doc_id": "arcgroupinc_20171211_8-k_ex-10_1_10976103_ex-10_1_sponsorship_20agreement",
+   "set": "part1",
+   "sha256": "0bc652ae6ab3a7a3c6415671980b954c4acabf5aa5f05e6a298d419160c09508"
+  },
+  {
+   "file": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT.PDF",
+   "cuad_path": "full_contract_pdf/Part_III/Development/Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT.PDF",
+   "doc_id": "array_biopharma_inc_-_license_development_and_commercialization_agreement",
+   "set": "part2_added",
+   "sha256": "5d339dfdc809ceeab28dc8b3ec17f041365febac0c7f3b715d9bcc75d8a186f7"
+  },
+  {
+   "file": "BELLICUMPHARMACEUTICALS,INC_05_07_2019-EX-10.1-Supply Agreement.PDF",
+   "cuad_path": "full_contract_pdf/Part_II/Supply/BELLICUMPHARMACEUTICALS,INC_05_07_2019-EX-10.1-Supply Agreement.PDF",
+   "doc_id": "bellicumpharmaceuticals_inc_05_07_2019-ex-10_1-supply_agreement",
+   "set": "part2_added",
+   "sha256": "021e17a484f3bd2d6025c3c8f072bfb7bcd2759da361231c661f2eab52af6aa0"
+  },
+  {
+   "file": "BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement3.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Manufacturing/BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement3.pdf",
+   "doc_id": "bellringbrandsinc_20190920_s-1_ex-10_12_11817081_ex-10_12_manufacturing_agreemen",
+   "set": "part2_added",
+   "sha256": "da0bc0c2758efd064ad19034e4b1177ba25775002f0ee4b4a061db9824ff9942",
+   "note": "doc_id collides with BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement4.pdf (80-char truncation)"
+  },
+  {
+   "file": "BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement4.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Manufacturing/BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement4.pdf",
+   "doc_id": "bellringbrandsinc_20190920_s-1_ex-10_12_11817081_ex-10_12_manufacturing_agreemen",
+   "set": "part2_added",
+   "sha256": "ee800c93c10a97c1d54a1c99793ffbba6f9fed62e128ed2fa8baf1d7ebff5d14",
+   "note": "doc_id collides with BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement3.pdf (80-char truncation)"
+  },
+  {
+   "file": "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Development/CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf",
+   "doc_id": "coherusbiosciencesinc_20200227_10-k_ex-10_29_12021376_ex-10_29_development_agree",
+   "set": "part2_added",
+   "sha256": "538dd56ae45df2c3bfa7176af8f76f0c561ca83b996bfd00db190d44d31c0d9e"
+  },
+  {
+   "file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate%20Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Affiliate_Agreements/CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf",
+   "doc_id": "creditcardscominc_20070810_s-1_ex-10_33_362297_ex-10_33_affiliate_20agreement",
+   "set": "part1",
+   "sha256": "70e365473b45a7f2098ad2fd03cf87aeefd11137f22ce59d851cd4078b4d658a"
+  },
+  {
+   "file": "CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate%20Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Affiliate_Agreements/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.pdf",
+   "doc_id": "cybergyholdingsinc_20140520_10-q_ex-10_27_8605784_ex-10_27_affiliate_20agreement",
+   "set": "part1",
+   "sha256": "5ff941d3f3f1b098af57818d5b78fb6226a9f2abe6e910f6e22cdaab95a4f3bd"
+  },
+  {
+   "file": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/License_Agreements/DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement.pdf",
+   "doc_id": "datacalltechnologies_20060918_sb-2a_ex-10_9_944510_ex-10_9_content_license_agree",
+   "set": "part2_added",
+   "sha256": "7bd483e4fddbb817419d73402ac6080ea0a15afd2eb0a9f7e7593c60ee71276c"
+  },
+  {
+   "file": "DigitalCinemaDestinationsCorp_20111220_S-1_EX-10.10_7346719_EX-10.10_Affiliate%20Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Affiliate_Agreements/DigitalCinemaDestinationsCorp_20111220_S-1_EX-10.10_7346719_EX-10.10_Affiliate Agreement.pdf",
+   "doc_id": "digitalcinemadestinationscorp_20111220_s-1_ex-10_10_7346719_ex-10_10_affiliate_2",
+   "set": "part1",
+   "sha256": "bdb7d1532a642920cd915516243718bfbcf6c436248902c58b97c4cc005b317d"
+  },
+  {
+   "file": "EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Co_Branding/EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement.pdf",
+   "doc_id": "ebixinc_20010515_10-q_ex-10_3_4049767_ex-10_3_co-branding_agreement",
+   "set": "part2_added",
+   "sha256": "8dbcf34bbffc89dd68056bf2c2129169572cbea6274297b03512db95471e3139"
+  },
+  {
+   "file": "FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_POWEROF.pdf",
+   "cuad_path": "full_contract_pdf/Part_II/Service/FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_POWEROF.pdf",
+   "doc_id": "federatedgovernmentincomesecuritiesinc_04_28_2020-ex-99_serv_agree-services_agre",
+   "set": "part2_added",
+   "sha256": "fd418c4afbb03449dcf310bd5553762f043d4cac4bf670d357330025a57191e0"
+  },
+  {
+   "file": "FLOTEKINDUSTRIESINCCN_05_09_2019-EX-10.1-SUPPLY AGREEMENT.PDF",
+   "cuad_path": "full_contract_pdf/Part_II/Supply/FLOTEKINDUSTRIESINCCN_05_09_2019-EX-10.1-SUPPLY AGREEMENT.PDF",
+   "doc_id": "flotekindustriesinccn_05_09_2019-ex-10_1-supply_agreement",
+   "set": "part2_added",
+   "sha256": "ebd848a74279ab2be9723cfdb38eae7c736cd46e98cb3f91dcc1647f805a9ea4"
+  },
+  {
+   "file": "FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Distributor/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.pdf",
+   "doc_id": "fusemedicalinc_20190321_10-k_ex-10_43_11575454_ex-10_43_distributor_agreement",
+   "set": "part2_added",
+   "sha256": "692444f7ad492a7a15297115d7af9b44412d616570f4df9c72243895a8f7df93"
+  },
+  {
+   "file": "GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement3.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/License_Agreements/GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement3.pdf",
+   "doc_id": "glumobileinc_20070319_s-1a_ex-10_09_436630_ex-10_09_content_license_agreement3",
+   "set": "part2_added",
+   "sha256": "edc5108accdb2582103c356399729d334be7e6d539cd9eb9863b9c1f102afb20"
+  },
+  {
+   "file": "GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement4.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/License_Agreements/GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement4.pdf",
+   "doc_id": "glumobileinc_20070319_s-1a_ex-10_09_436630_ex-10_09_content_license_agreement4",
+   "set": "part2_added",
+   "sha256": "fda483c622a73682e4b3d7c27db09bd7a6c51ed080f8ee0029b8a1f690682132"
+  },
+  {
+   "file": "GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Endorsement/GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.pdf",
+   "doc_id": "gridironbionutrientsinc_20171206_8-k_ex-10_2_10972556_ex-10_2_endorsement_agreem",
+   "set": "part2_added",
+   "sha256": "70242fc7cf247c23199e77c3eb3d6a9496412b79c2431655ed8ade17adfff876"
+  },
+  {
+   "file": "HOSPITALITYINVESTORSTRUST,INC_04_07_2014-EX-10.26-FRANCHISE AGREEMENT.PDF",
+   "cuad_path": "full_contract_pdf/Part_III/Franchise/HOSPITALITYINVESTORSTRUST,INC_04_07_2014-EX-10.26-FRANCHISE AGREEMENT.PDF",
+   "doc_id": "hospitalityinvestorstrust_inc_04_07_2014-ex-10_26-franchise_agreement",
+   "set": "part2_added",
+   "sha256": "f8d1c8d99b200f8bad2b82e174b0b61839af4e3fe5c962a6e246b928b1b1ed5a"
+  },
+  {
+   "file": "HYPERIONSOFTWARECORP_09_28_1994-EX-10.47-EXCLUSIVE DISTRIBUTOR AGREEMENT.PDF",
+   "cuad_path": "full_contract_pdf/Part_III/Distributor/HYPERIONSOFTWARECORP_09_28_1994-EX-10.47-EXCLUSIVE DISTRIBUTOR AGREEMENT.PDF",
+   "doc_id": "hyperionsoftwarecorp_09_28_1994-ex-10_47-exclusive_distributor_agreement",
+   "set": "part2_added",
+   "sha256": "5588f3c98f929d0e8399d33fe66cef2526cefd657aaa5c9dc2b4fd97a3a3e2c4"
+  },
+  {
+   "file": "HertzGroupRealtyTrustInc_20190920_S-11A_EX-10.8_11816941_EX-10.8_Trademark License Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/License_Agreements/HertzGroupRealtyTrustInc_20190920_S-11A_EX-10.8_11816941_EX-10.8_Trademark License Agreement.pdf",
+   "doc_id": "hertzgrouprealtytrustinc_20190920_s-11a_ex-10_8_11816941_ex-10_8_trademark_licen",
+   "set": "part2_added",
+   "sha256": "c49a3039cefdc76705845834cc3771c88a8b779301a9eae6c3fa07de836a8da8"
+  },
+  {
+   "file": "IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/License_Agreements/IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement.pdf",
+   "doc_id": "ideanomicsinc_20151124_8-k_ex-10_2_9354744_ex-10_2_content_license_agreement",
+   "set": "part2_added",
+   "sha256": "7020140411347c5484e559d01c9b6eb56caf40a0ee9c3de9fea0f0db041bc92f"
+  },
+  {
+   "file": "InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Co_Branding/InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement.pdf",
+   "doc_id": "invendacorp_20000828_s-1a_ex-10_2_2588206_ex-10_2_co-branding_agreement",
+   "set": "part2_added",
+   "sha256": "bcaaec57a03879a525971374efdc6474ad0ba1764736367b6cc1da078904e56b"
+  },
+  {
+   "file": "LEGACYTECHNOLOGYHOLDINGS,INC_12_09_2005-EX-10.2-DISTRIBUTOR AGREEMENT.PDF",
+   "cuad_path": "full_contract_pdf/Part_III/Distributor/LEGACYTECHNOLOGYHOLDINGS,INC_12_09_2005-EX-10.2-DISTRIBUTOR AGREEMENT.PDF",
+   "doc_id": "legacytechnologyholdings_inc_12_09_2005-ex-10_2-distributor_agreement",
+   "set": "part2_added",
+   "sha256": "fad42f2b4a3fb644ba48ebf26ecaaaff1bd136cb540d72b52af7bbdb89ca72e3"
+  },
+  {
+   "file": "LUCIDINC_04_15_2011-EX-10.9-DISTRIBUTOR AGREEMENT.PDF",
+   "cuad_path": "full_contract_pdf/Part_III/Distributor/LUCIDINC_04_15_2011-EX-10.9-DISTRIBUTOR AGREEMENT.PDF",
+   "doc_id": "lucidinc_04_15_2011-ex-10_9-distributor_agreement",
+   "set": "part2_added",
+   "sha256": "810079a0c81dd298527b7cce01325e460f867d7a7684e2b14c54aafba340c847"
+  },
+  {
+   "file": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Endorsement/LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement.pdf",
+   "doc_id": "lifewayfoodsinc_20160316_10-k_ex-10_24_9489766_ex-10_24_endorsement_agreement",
+   "set": "part2_added",
+   "sha256": "ae54c931d9e443d75557f2458b0db354026be9ed7a8a5ec8736d010af39a95d6"
+  },
+  {
+   "file": "LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate%20Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Affiliate_Agreements/LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate Agreement.pdf",
+   "doc_id": "linkpluscorp_20050802_8-k_ex-10_3240252_ex-10_affiliate_20agreement",
+   "set": "part1",
+   "sha256": "d3d4d0b6fae30ae4bc84d85ec30b745433e43f00d2aaab1487839a56eea2069c"
+  },
+  {
+   "file": "MidwestEnergyEmissionsCorp_20080604_8-K_EX-10.2_3093976_EX-10.2_Content License Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/License_Agreements/MidwestEnergyEmissionsCorp_20080604_8-K_EX-10.2_3093976_EX-10.2_Content License Agreement.pdf",
+   "doc_id": "midwestenergyemissionscorp_20080604_8-k_ex-10_2_3093976_ex-10_2_content_license_",
+   "set": "part2_added",
+   "sha256": "e0ece073e3f21b4f0cf07ae65cb15db98094c9af14287b20f26e01ac856776d2"
+  },
+  {
+   "file": "NETGEAR,INC_04_21_2003-EX-10.16- AMENDMENT #2 TO THE DISTRIBUTION AGREEMENT.pdf",
+   "cuad_path": "full_contract_pdf/Part_II/Distributor/NETGEAR,INC_04_21_2003-EX-10.16- AMENDMENT #2 TO THE DISTRIBUTION AGREEMENT.pdf",
+   "doc_id": "netgear_inc_04_21_2003-ex-10_16-_amendment_2_to_the_distribution_agreement",
+   "set": "part2_added",
+   "sha256": "bb730a12e485d9c6f7ec924a64294cfadf8b3bf72a61fc1219dca5d724ddc056"
+  },
+  {
+   "file": "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Co_Branding/PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf",
+   "doc_id": "paperexchangecominc_20000322_s-1a_ex-10_4_5202103_ex-10_4_co-branding_agreement",
+   "set": "part2_added",
+   "sha256": "a36c0e93ad85a759bace823a2a888ec12f36c8fa09b8ab9d27258a7689df0e7f"
+  },
+  {
+   "file": "PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement1.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Co_Branding/PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement1.pdf",
+   "doc_id": "pcquotecominc_19990721_s-1a_ex-10_11_6377149_ex-10_11_co-branding_agreement1",
+   "set": "part2_added",
+   "sha256": "9489c53aec25f6209147d9d665c1319a0f20d5297b6f1ea1bd0d1c63c6e3531a"
+  },
+  {
+   "file": "PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Development/PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.pdf",
+   "doc_id": "pelicandeliversinc_20200211_s-1_ex-10_3_11975895_ex-10_3_development_agreement2",
+   "set": "part2_added",
+   "sha256": "1338a48b6fb2c762619462dc43c7d4435e85359d7fe46aae238dfe8f077243be"
+  },
+  {
+   "file": "PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement1.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/License_Agreements/PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement1.pdf",
+   "doc_id": "playboyenterprisesinc_20090220_10-qa_ex-10_2_4091580_ex-10_2_content_license_agr",
+   "set": "part2_added",
+   "sha256": "48ebf5d163f8412d8cd20bfc9aa39de5ae0ede22dffa0337207b5e1ea30a43a9",
+   "note": "doc_id collides with PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement2.pdf (80-char truncation)"
+  },
+  {
+   "file": "PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement2.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/License_Agreements/PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement2.pdf",
+   "doc_id": "playboyenterprisesinc_20090220_10-qa_ex-10_2_4091580_ex-10_2_content_license_agr",
+   "set": "part2_added",
+   "sha256": "1322c34c106151012fdbba644936c428dd44ca8bf39e39f514f7b5c559853d28",
+   "note": "doc_id collides with PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement1.pdf (80-char truncation)"
+  },
+  {
+   "file": "RISEEDUCATIONCAYMANLTD_04_17_2020-EX-4.23-SERVICE AGREEMENT.PDF",
+   "cuad_path": "full_contract_pdf/Part_III/Service/RISEEDUCATIONCAYMANLTD_04_17_2020-EX-4.23-SERVICE AGREEMENT.PDF",
+   "doc_id": "riseeducationcaymanltd_04_17_2020-ex-4_23-service_agreement",
+   "set": "part2_added",
+   "sha256": "07e7051d85e64d75574d78a9d170de8849314f73a873945f04012437b12323d0"
+  },
+  {
+   "file": "RevolutionMedicinesInc_20200117_S-1_EX-10.1_11948417_EX-10.1_Development Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Development/RevolutionMedicinesInc_20200117_S-1_EX-10.1_11948417_EX-10.1_Development Agreement.pdf",
+   "doc_id": "revolutionmedicinesinc_20200117_s-1_ex-10_1_11948417_ex-10_1_development_agreeme",
+   "set": "part2_added",
+   "sha256": "c121e4ad5edd67dfc1f829441964529d4ff2bf1f3a2f0402bdcc457bdd1f2768"
+  },
+  {
+   "file": "SANDRIDGEENERGYINC_08_06_2009-EX-10.6-OPERATIONS AND MAINTENANCE AGREEMENT.PDF",
+   "cuad_path": "full_contract_pdf/Part_III/Maintenance/SANDRIDGEENERGYINC_08_06_2009-EX-10.6-OPERATIONS AND MAINTENANCE AGREEMENT.PDF",
+   "doc_id": "sandridgeenergyinc_08_06_2009-ex-10_6-operations_and_maintenance_agreement",
+   "set": "part2_added",
+   "sha256": "8b4daa6885f792c88614fe52e2f34f57953775f9d4cc5582588b8aa1ec5bb300"
+  },
+  {
+   "file": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement2.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Distributor/ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement2.pdf",
+   "doc_id": "scansourceinc_20190822_10-k_ex-10_38_11793958_ex-10_38_distributor_agreement2",
+   "set": "part2_added",
+   "sha256": "b040c847f6342154672db563f190702f7675ae6be552b9263f1bef332f9261a4"
+  },
+  {
+   "file": "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Franchise/SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1.pdf",
+   "doc_id": "soupmaninc_20150814_8-k_ex-10_1_9230148_ex-10_1_franchise_agreement1",
+   "set": "part2_added",
+   "sha256": "fabe82ff8946649d5ad789d0ec3028efdcafe1f57e3e503abd0e3067a246dfa0"
+  },
+  {
+   "file": "SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate%20Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Affiliate_Agreements/SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement.pdf",
+   "doc_id": "southernstarenergyinc_20051202_sb-2a_ex-9_801890_ex-9_affiliate_20agreement",
+   "set": "part1",
+   "sha256": "a424f4fcda1f1123a7e8948f8ca00f5ce854455acf10fc12986adf8ab675c041"
+  },
+  {
+   "file": "SteelVaultCorp_20081224_10-K_EX-10.16_3074935_EX-10.16_Affiliate%20Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Affiliate_Agreements/SteelVaultCorp_20081224_10-K_EX-10.16_3074935_EX-10.16_Affiliate Agreement.pdf",
+   "doc_id": "steelvaultcorp_20081224_10-k_ex-10_16_3074935_ex-10_16_affiliate_20agreement",
+   "set": "part1",
+   "sha256": "188efe38ab1c503183e853ee80857ec2b14cb8e3b3c4b7b770ed64d7ebee8e50"
+  },
+  {
+   "file": "THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.PDF",
+   "cuad_path": "full_contract_pdf/Part_III/Service/THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.PDF",
+   "doc_id": "theravancebiopharma_inc_05_08_2020-ex-10_2-service_agreement",
+   "set": "part2_added",
+   "sha256": "589abac559ba97b6a8688e97e0b324bf6c32a62c4a864f4c4c791520d7f092e9"
+  },
+  {
+   "file": "TRUENORTHENERGYCORP_02_08_2007-EX-10.1-DEVELOPMENT AGREEMENT.PDF",
+   "cuad_path": "full_contract_pdf/Part_III/Development/TRUENORTHENERGYCORP_02_08_2007-EX-10.1-DEVELOPMENT AGREEMENT.PDF",
+   "doc_id": "truenorthenergycorp_02_08_2007-ex-10_1-development_agreement",
+   "set": "part2_added",
+   "sha256": "a606b03e22a9208f0391876342194a23e8e23e1706fcb21f41f8cf41f08318b7"
+  },
+  {
+   "file": "ThriventVariableInsuranceAccountB_20190701_N-6_EX-99.D(IV)_11720968_EX-99.D(IV)_Endorsement Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Endorsement/ThriventVariableInsuranceAccountB_20190701_N-6_EX-99.D(IV)_11720968_EX-99.D(IV)_Endorsement Agreement.pdf",
+   "doc_id": "thriventvariableinsuranceaccountb_20190701_n-6_ex-99_d_iv__11720968_ex-99_d_iv__",
+   "set": "part2_added",
+   "sha256": "3a391f81dec6f60c221441eec53d75e64cf41280dfece471548c5fc16f283600"
+  },
+  {
+   "file": "TubeMediaCorp_20060310_8-K_EX-10.1_513921_EX-10.1_Affiliate%20Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Affiliate_Agreements/TubeMediaCorp_20060310_8-K_EX-10.1_513921_EX-10.1_Affiliate Agreement.pdf",
+   "doc_id": "tubemediacorp_20060310_8-k_ex-10_1_513921_ex-10_1_affiliate_20agreement",
+   "set": "part1",
+   "sha256": "8a4eff8f8bcb90448999218e65ee08a5676a60d1df9e0a6f31631c5e1861f3b1"
+  },
+  {
+   "file": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate%20Agreement.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Affiliate_Agreements/UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement.pdf",
+   "doc_id": "uniondentalholdingsinc_20050204_8-ka_ex-10_3345577_ex-10_affiliate_20agreement",
+   "set": "part1",
+   "sha256": "aa8c8ef413e2d702b75f395defe090d8320b087393904e8ab53c721d7d4751c3"
+  },
+  {
+   "file": "UsioInc_20040428_SB-2_EX-10.11_1723988_EX-10.11_Affiliate202.pdf",
+   "cuad_path": "full_contract_pdf/Part_I/Affiliate_Agreements/UsioInc_20040428_SB-2_EX-10.11_1723988_EX-10.11_Affiliate Agreement 2.pdf",
+   "doc_id": "usioinc_20040428_sb-2_ex-10_11_1723988_ex-10_11_affiliate202",
+   "set": "part1",
+   "sha256": "92c7824033caca7990e5a2a047f1c7fa3fb5197ac23050c54f30ab8e9d8d5f62"
+  },
+  {
+   "file": "WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT.PDF",
+   "cuad_path": "full_contract_pdf/Part_II/Endorsement/WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT.PDF",
+   "doc_id": "womensgolfunlimitedinc_03_29_2000-ex-10_13-endorsement_agreement",
+   "set": "part2_added",
+   "sha256": "21b30234adae4869435b9bcb119a58849251fc4164e365d88fe6f7e59606b2e6"
+  }
+ ]
+}

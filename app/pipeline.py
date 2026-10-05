@@ -1,14 +1,14 @@
 """RAG Retrieval core: embed the query, vector-search MongoDB, rerank,return top chunks"""
 
 from google.genai import types
-from app.config import(client,chunks,VECTOR_INDEX,VARIANT_ID,EMBED_MODEL,EMBED_DIMS,RETRIEVAL_N,FINAL_K,RERANKER_MODEL)
+from app.config import(client,chunks,VECTOR_INDEX,VARIANT_ID,EMBED_MODEL,EMBED_DIMS,RETRIEVAL_N,FINAL_K,RERANKER_MODEL,RERANKER_DEVICE)
 _reranker=None
 def get_reranker():
     """Load the cross-encoder once and reuse it."""
     global _reranker
     if _reranker is None:
         from sentence_transformers import CrossEncoder
-        _reranker=CrossEncoder(RERANKER_MODEL,max_length=512)
+        _reranker=CrossEncoder(RERANKER_MODEL,max_length=512,device=RERANKER_DEVICE)
     return _reranker
     
 def embed_query(question:str)-> list[float]:

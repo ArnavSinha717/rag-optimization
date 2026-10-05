@@ -1,4 +1,4 @@
-"""TEST 3 — Contextual Retrieval (Anthropic-style): prepend a 7B-generated
+"""TEST 3 — Contextual Retrieval: prepend a 7B-generated
 situating blurb to each chunk, re-embed, store as new variants.
 Usage: python eval/contextual_ingest.py v04 | v07
 Phased: blurbs via 7B (checkpointed) -> unload 7B -> Gemini embed -> insert."""

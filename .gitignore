@@ -8,20 +8,33 @@ wheels/
 
 # Virtual environments
 .venv
-.env
 
-# Local data
-data/
-*.csv
+# Secrets: keys live in .env, which is never committed
+.env
+.env.*
+!.env.example
 credentials*.csv
 rootkey.csv
 
+# Local data: the CUAD PDFs/text are downloaded locally (see README, "Data"), never committed.
+# Only the corpus manifest is tracked.
+data/*
+!data/corpus50_manifest.json
+data/raw/
+*.pdf
+*.PDF
+*.zip
+*.csv
+
 # Notebooks — scratch/exploration only; rag.ipynb has credentials in cell outputs. Never commit.
 # The clean, runnable evaluation code lives in eval/*.py instead.
+rag.ipynb
 *.ipynb
+.ipynb_checkpoints/
 
-# Logs
+# Logs: the eval/ run logs are kept as evidence for the study; anything else is ignored.
 *.log
+!eval/*.log
 
 # Results live in results/ (separate from the eval/ test code).
 # Regenerable caches are prefixed cache_ (embeddings, hypotheses, rephrasings) or suffixed
@@ -31,6 +44,6 @@ results/*_contexts.json
 results/*_answers.json
 results/query_embed_cache*.json
 # Part-1 per-question RAGAS judgments — bulky (~2MB) and redundant with the aggregate ledger.json.
-# (The Part-2 scaled-study per-question file, ragas_champion_perq.json, IS kept.)
+# (The Part-2 scaled-study per-question files, ragas_champion_perq.json and ragas_hyde_perq.json, ARE kept.)
 results/ragas59_*_perq.json
 results/*_FULL_perq.json

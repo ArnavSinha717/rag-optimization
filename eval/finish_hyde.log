@@ -1,0 +1,11 @@
+rag_lib loaded: Gemini + Mongo (3088 chunks) + S3 ready. 67 eval questions.
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/201 [00:00<?, ?it/s]Loading weights:  50%|█████     | 101/201 [00:00<00:00, 1006.38it/s]Loading weights: 100%|██████████| 201/201 [00:00<00:00, 1048.44it/s]
+  40/189
+  80/189
+  120/189
+  160/189
+
+=== HyDE + rerank (n=189) ===
+rec@1=0.614  rec@5=0.820 [0.762,0.873]  MRR=0.699 [0.640,0.756]
+champion ΔMRR=-0.007  CI[-0.020,+0.004]  => TIE

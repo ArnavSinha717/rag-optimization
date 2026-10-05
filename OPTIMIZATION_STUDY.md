@@ -122,7 +122,7 @@ BM25 *did* uniquely solve one pathological case (an acronym defined once, invisi
 embeddings: vector rank >20, BM25 rank 1) — but stacking hybrid onto HyDE *hurt* (dev rec@5
 0.933 → 0.800): **techniques interfere; combinations must be measured, never assumed additive.**
 
-### Contextual retrieval (Anthropic-style chunk blurbs)
+### Contextual retrieval (LLM-generated context blurbs per chunk)
 
 | Config (59Q) | rec@1 | rec@5 | MRR |
 |---|---|---|---|
@@ -198,7 +198,7 @@ pay off on larger, noisier, more heterogeneous corpora; the negative results are
 
 ---
 
-# Part 2: At Scale — 50 contracts, 189 questions
+# Part 2: At Scale — 48 contracts, 189 questions
 
 Part 1's central claim ("retrieval is at its ceiling; everything ties") was suspected to be an
 artifact of a tiny, homogeneous corpus. Part 2 tests that directly: a **6.4× larger, deliberately
@@ -437,7 +437,7 @@ new `answer_correctness` metric (factual + semantic match to the gold answer):
 | faithfulness (answered only) | 0.890 | **0.850** | ≈ held — when it answers, it stays grounded |
 | answer_relevancy | 0.742 | **0.731** | ≈ held |
 | answer_correctness | — | 0.536 | new; first end-to-end correctness number |
-| refusal_rate (in-scope) | — | 0.185 | = 35/189 — refuses exactly on the retrieval misses |
+| refusal_rate (in-scope) | — | 0.185 | = 35/189 — only 20 of the 35 refusals fall on retrieval misses |
 
 1. **Retrieval-grounded metrics fell in lockstep with deterministic retrieval.** context_recall
    0.908 → 0.786 and context_precision 0.827 → 0.635 mirror the rec@5 drop — the LLM judge,
@@ -446,13 +446,14 @@ new `answer_correctness` metric (factual + semantic match to the gold answer):
 2. **Generation quality held where it matters.** `faithfulness_answered_only` 0.850 and
    answer_relevancy 0.731 are within noise of Part 1 — the strict prompt still keeps answered
    responses grounded and on-topic at 4.4× scale.
-3. **The refusal rate is the system working as designed.** 0.185 = **35/189 — exactly the 35
-   retrieval misses** (Finding 3). On every question where retrieval failed, the champion said
-   *"Not found in the provided documents"* instead of hallucinating. That is why
+3. **The refusal rate tracks retrieval failure only partly.** 0.185 = **35/189**, the same count
+   as the 35 retrieval misses (Finding 3), but the per-question data shows only **20 of the 35
+   refusals** fall on those misses. The other 15 refusals came on questions whose gold passage
+   *was* in the top-5, and 15 retrieval misses were answered anyway. The refusals still explain why
    `faithfulness_answered_only` (0.850) far exceeds aggregate faithfulness (0.726): RAGAS scores a
-   refusal as unfaithful even though refusing is the *correct* action when the context lacks the
-   answer. Same answered-vs-refused artifact flagged in Part 1, now confirmed at scale — and the
-   legal-safety operating point (refuse rather than guess) holds.
+   refusal as unfaithful even when refusing is the *correct* action because the context lacks the
+   answer. Same answered-vs-refused artifact flagged in Part 1, now confirmed at scale. The strict
+   prompt still prefers refusing to guessing, but a refusal is not a clean proxy for a retrieval miss.
 4. **`answer_correctness` 0.536 is a floor, not the correct-when-answered rate.** It is depressed
    by the 18.5% refusals (correctness ≈ 0 on a refusal, even a *correct* refusal) and the harder
    corpus; correctness conditional on answering is materially higher. *Caveat:* a few items hit a
@@ -460,7 +461,7 @@ new `answer_correctness` metric (factual + semantic match to the gold answer):
    dropped to NaN, adding minor noise to this one metric.
 
 **Why the absolute numbers look low — and why it's mostly measurement, not quality.** Stripping
-the 35 correct refusals lifts every metric, and three further effects depress the absolutes:
+the 35 refusals lifts every metric, and three further effects depress the absolutes:
 
 | Metric | All 189 | Answered-only (154) |
 |---|---|---|
@@ -470,9 +471,9 @@ the 35 correct refusals lifts every metric, and three further effects depress th
 | context_precision | 0.635 | 0.700 |
 | answer_relevancy | 0.731 | 0.774 |
 
-1. **Correct refusals scored as failures.** The 18.5% "Not found" responses score ~0 on
-   faithfulness and correctness even though refusing is the *right* action — this is the entire gap
-   between the two columns.
+1. **Refusals scored as failures.** The 18.5% "Not found" responses score ~0 on faithfulness and
+   correctness, including the 20 where refusing is the *right* action because retrieval missed —
+   this is the entire gap between the two columns.
 2. **A deliberately weak judge.** `qwen2.5:7b` was chosen to avoid Gemini quota, not for accuracy;
    it systematically under-scores versus a frontier judge and even threw output-parsing errors on
    `answer_correctness`. These absolutes are **floors** — the trustworthy signal is the *comparison*
@@ -491,6 +492,16 @@ The only genuinely low metric is `context_recall` (0.848 answered-only ≈ deter
 the operating point the strict prompt was built for; the low absolutes are dominated by
 refusal-scoring and a weak judge, not by wrong answers. Every lever worth pulling next is on the
 retrieval/disambiguation side (Findings 3–4), which is what motivates the agent.
+
+**Contender check — HyDE generation (settles Finding 2b).** Running the same RAGAS scorecard on
+the HyDE retrieval path tests whether HyDE's hallucination-steering (the q135 "New York" → wrong
+contract case) propagates into worse generation. It does not — every metric is within judge noise
+of the champion (faithfulness-answered 0.850 → 0.853, answer_relevancy 0.731 → 0.731,
+answer_correctness 0.536 → 0.530, refusal_rate identical at 0.185, with 33 of the 35 refused questions shared). Two
+mechanisms absorb HyDE's retrieval errors before they reach the answer: reranking against the
+*real* question demotes the off-topic chunks HyDE's hypothetical pulled in, and the strict-refusal
+prompt declines the rest. So HyDE ties the champion on retrieval **and** generation while costing
++1.4 s/query (Finding 5) — rejected on every axis, now confirmed end-to-end.
 
 ## What this means for the product (the bridge to the chatbot/agent)
 

@@ -1,0 +1,14 @@
+rag_lib loaded: Gemini + Mongo (3088 chunks) + S3 ready. 67 eval questions.
+corpus coverage OK: all 48 question docs present in v10_corpus50_recursive
+caching 189 query embeds...
+cache: 189 entries
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/201 [00:00<?, ?it/s]Loading weights:  51%|█████     | 102/201 [00:00<00:00, 1007.76it/s]Loading weights: 100%|██████████| 201/201 [00:00<00:00, 913.69it/s] 
+vector top5 (no rerank)      rec@1=0.545  rec@5=0.799  MRR=0.638
+vector + rerank              rec@1=0.598  rec@5=0.815  MRR=0.691
+BM25 top5 (no rerank)        rec@1=0.323  rec@5=0.487  MRR=0.382
+BM25 + rerank                rec@1=0.471  rec@5=0.619  MRR=0.530
+hybrid + rerank              rec@1=0.587  rec@5=0.810  MRR=0.682
+HyDE + rerank                rec@1=0.556  rec@5=0.762  MRR=0.635
+
+DONE — per-question ranks saved for bootstrap CIs

@@ -1,0 +1,4 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+rag_lib loaded: Gemini + Mongo (1686 chunks) + S3 ready. 67 eval questions.
+Loading weights:   0%|          | 0/201 [00:00<?, ?it/s]Loading weights: 100%|██████████| 201/201 [00:00<00:00, 2234.86it/s]
+=== v09_ctx_markdown vector+rerank (n=59):  rec@1=0.831  rec@5=0.949  MRR=0.876 ===

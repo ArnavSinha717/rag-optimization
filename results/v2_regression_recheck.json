@@ -1,0 +1,387 @@
+{
+  "agent": "bedrock",
+  "judge": "ollama",
+  "kept": 21,
+  "regressed": 21,
+  "total": 42,
+  "results": [
+    {
+      "id": "q04",
+      "cat": "payment_terms",
+      "verdict": "HIT",
+      "question": "What is the Annual Fee for the first contract year of the Jacksonville Jaguars sponsorship?",
+      "expected": "$200,000 for the 2018/19 Contract Year.",
+      "evidence": "First Contract Year (2018/19): $ 200,000",
+      "answer": "Based on the Jacksonville Jaguars sponsorship agreement, the **Annual Fee for the first contract year (2018/19) is $200,000**.\n\nThis fee is to be paid in six equal installments of approximately $33,333.33 each, due on or prior to the 1st of each month between June and November of the contract year."
+    },
+    {
+      "id": "q05",
+      "cat": "factual",
+      "verdict": "HIT",
+      "question": "What designation can Sponsor use for its Dick's Wings restaurants under the Jacksonville Jaguars agreement?",
+      "expected": "'Official Wings of the Jacksonville Jaguars'.",
+      "evidence": "the right to use the designation \u201cOfficial Wings of the Jacksonville Jaguars\u201d",
+      "answer": "Based on the Jacksonville Jaguars Sponsorship Agreement with The ARC Group, Inc. (owner and operator of Dick's Wings and Grill), the Sponsor can use the following designation for its Dick's Wings restaurants:\n\n**\"Official Wings of the Jacksonville Jaguars\"**\n\nThe agreement specifically states in Section 2 that Sponsor has \"the right to use the designation 'Official Wings of the Jacksonville Jaguars' and such other designations as Club and Sponsor may agree to in a writing from time to time (collectively, the 'Official Designations'), solely in connection with the Sponsor Business.\""
+    },
+    {
+      "id": "q06",
+      "cat": "payment_terms",
+      "verdict": "HIT",
+      "question": "How are Playoff Payments calculated under the Jacksonville Jaguars sponsorship agreement?",
+      "expected": "A pro-rated portion of the Annual Fee applicable during the then-current Contract Year, per Playoff Game.",
+      "evidence": "Sponsor shall pay Club an additional amount per Playoff Game equal to a pro-rated portion of the Annual Fee applicable during the then-current Contract Year",
+      "answer": "Based on the Jacksonville Jaguars sponsorship agreement, **Playoff Payments are calculated as follows:**\n\n**Calculation Method:**\n- Sponsor pays Club an additional amount **per Playoff Game** equal to a **pro-rated portion of the Annual Fee** applicable during the then-current Contract Year.\n\n**Specific Details:**\n- The pro-rated portion is determined by Club using Club's internal line item accounting values as set forth in Club's standard rate card for such Benefits during each Playoff Game\n- The cost of the Playoff Game tickets is based upon the generally applicable price for such tickets\n\n**Payment Terms:**\n- Sponsor must pay the Playoff Payments within **30 days following Sponsor's receipt of an invoice** requesting payment for such Playoff Games\n- Club's failure to deliver an invoice does not relieve Sponsor of any obligation to pay amounts owed to Club\n\n**Applicable Playoff Games:**\nThe agreement covers payments for:\n- Hall of Fame games\n- Any post-season playoff game, including wild card, divisional playoff, conference championship, or Super Bowl games\n\n(This is contingent on Club having the necessary rights to grant the Benefits identified in Exhibit A for such Playoff Game.)"
+    },
+    {
+      "id": "q07",
+      "cat": "governing_law",
+      "verdict": "MISS",
+      "question": "Under which state's law is the Chase Affiliate Agreement governed?",
+      "expected": "Delaware.",
+      "evidence": "This Agreement will be governed in all respects by the laws of the State of Delaware",
+      "answer": "I don't see a \"Chase Affiliate Agreement\" in the available contracts. The search results show various affiliate agreements from other companies (CreditCards.com, Cybergy Holdings, Digital Cinema Destinations, Link Plus Corp, SouthernStar Energy, SteelVault Corp, TubeMedia Corp, Union Dental Holdings, and Usio Inc.), but none from Chase.\n\nCould you clarify which contract you're asking about? Is it possible you meant one of the other affiliate agreements listed, or is there a different name for the Chase agreement?"
+    },
+    {
+      "id": "q08",
+      "cat": "termination",
+      "verdict": "MISS",
+      "question": "Can either party terminate the Chase Affiliate Agreement without cause?",
+      "expected": "Yes \u2014 either party may terminate at any time, with or without cause, by giving written or e-mail notice.",
+      "evidence": "Either Affiliate or Chase may terminate this Agreement at any time, with or without cause, by giving the other party written or e-mail",
+      "answer": "I don't see a \"Chase Affiliate Agreement\" in the available contracts. The search results returned agreements from other companies, not Chase. Could you clarify which contract you're asking about? \n\nLooking at the available contracts, I see several affiliate agreements listed:\n- CreditcardscomInc Affiliate Agreement\n- CybergyHoldingsInc Affiliate Agreement\n- DigitalCinemaDestinationsCorp Affiliate Agreement\n- LinkPlusCorp Affiliate Agreement\n- SouthernStarEnergyInc Affiliate Agreement\n- SteelVaultCorp Affiliate Agreement\n- TubeMediaCorp Affiliate Agreement\n- UnionDentalHoldingsInc Affiliate Agreement\n- UsioInc Affiliate Agreement\n\nIs one of these the agreement you're asking about, or is there a different contract name you'd like me to search?"
+    },
+    {
+      "id": "q09",
+      "cat": "factual",
+      "verdict": "HIT",
+      "question": "Name an example of Restricted Content under the Chase Affiliate Agreement.",
+      "expected": "Content that is unlawful, offensive, profane, defamatory, obscene, harassing, or racially objectionable; promotes illegal activities (including gambling); promotes sexually explicit material; promotes violence or hate speech; or infringes intellectual property.",
+      "evidence": "Incorporates images or content that is any way unlawful, offensive, profane, harmful, threatening, defamatory, obscene, harassing",
+      "answer": "Based on the Chase Affiliate Agreement, here are examples of **Restricted Content**:\n\n1. **Sexually explicit or pornographic content** \u2014 \"Promotes or depicts sexually explicit, obscene or pornographic images\"\n\n2. **Illegal activities** \u2014 \"Promote illegal activities, including gambling\"\n\n3. **Offensive or defamatory content** \u2014 \"Incorporates images or content that is any way unlawful, offensive, profane, harmful, threatening, defamatory, obscene, harassing or racially, ethically or otherwise objectionable\"\n\n4. **Violence or hate speech** \u2014 \"Promotes or depicts violence or hate speech\"\n\n5. **Discrimination** \u2014 \"Promotes discrimination based on race, sex, religion, nationality, disability, sexual orientation or age\"\n\n6. **Intellectual property infringement** \u2014 \"Incorporates any materials which infringe or assist others to infringe on any copyright, trademark or other intellectual property rights\"\n\n7. **Politically sensitive content** \u2014 \"Contains or promotes politically sensitive or controversial issues\"\n\nAny of these types of content on an affiliate's website could result in rejection from the Chase Affiliate Program or termination of the agreement if discovered after acceptance."
+    },
+    {
+      "id": "q10",
+      "cat": "governing_law",
+      "verdict": "MISS",
+      "question": "Which state's law governs the Marketing Affiliate Agreement between Birch First Global and Mount Knowledge Holdings?",
+      "expected": "Nevada.",
+      "evidence": "This Agreement is accepted by Company in the State of Nevada and shall be governed by and construed in accordance with the laws thereof",
+      "answer": "I don't see a contract specifically titled \"Marketing Affiliate Agreement between Birch First Global and Mount Knowledge Holdings\" in the available contracts list. The search results are returning other contracts that don't match your query.\n\nCould you please verify the exact name of the contract or the parties involved? It's possible the contract may be listed under a different title, or the parties' names might be slightly different from what you've provided. Alternatively, if you have any additional details about the contract (such as a filing date or document number), that would help me locate it."
+    },
+    {
+      "id": "q11",
+      "cat": "renewal_term",
+      "verdict": "MISS",
+      "question": "How long is each renewal term under the Birch First / Mount Knowledge agreement?",
+      "expected": "One (1) year, renewed automatically.",
+      "evidence": "shall be automatically renewed for successive one (1) year periods",
+      "answer": "I don't see a \"Birch First / Mount Knowledge\" agreement in the available contracts. Could you please clarify which contract you're asking about? You can either:\n\n1. Provide the exact title as it appears in the list above, or\n2. Give me more details about the parties or subject matter of the agreement you're interested in\n\nThis will help me locate the correct contract and find the renewal term information you're looking for."
+    },
+    {
+      "id": "q12",
+      "cat": "termination",
+      "verdict": "MISS",
+      "question": "How much notice is required to terminate the Birch First / Mount Knowledge agreement at the end of its term?",
+      "expected": "Thirty (30) days written notice.",
+      "evidence": "This Agreement may be terminated by either party at the expiration of its term or any renewal term upon thirty (30) days written notice",
+      "answer": "I don't see a \"Birch First / Mount Knowledge\" agreement in the available contracts. Could you please clarify which contract you're asking about? You can either:\n\n1. Provide the exact title as it appears in the list above, or\n2. Give me more details about the parties or the type of agreement (e.g., is it a development agreement, distribution agreement, etc.)\n\nThis will help me locate the correct contract and find the termination notice requirements you're looking for."
+    },
+    {
+      "id": "q19",
+      "cat": "factual",
+      "verdict": "HIT",
+      "question": "Where is element 5 GmbH headquartered?",
+      "expected": "Vogelsanger Strasse 78, 50823 Cologne, Germany.",
+      "evidence": "element 5 GmbH, Vogelsanger Strasse 78, 50823 Cologne, Germany",
+      "answer": "Based on the search results, **element 5 GmbH is headquartered in Cologne, Germany**. Specifically, the contract states their address as:\n\n**Vogelsanger Strasse 78, 50823 Cologne, Germany**\n\nThis information appears in the Affiliate Agreement document from Southern Star Energy Inc."
+    },
+    {
+      "id": "q21",
+      "cat": "governing_law",
+      "verdict": "MISS",
+      "question": "Which state's law governs the Equidata / National Credit Report Marketing Affiliate Agreement?",
+      "expected": "Virginia.",
+      "evidence": "This Agreement is governed by and construed in accordance with the laws of the State of Virginia",
+      "answer": "I don't see an \"Equidata / National Credit Report Marketing Affiliate Agreement\" in the list of available contracts. The search results did not return that specific agreement. \n\nCould you verify the exact name of the contract you're looking for? It's possible it may be listed under a different title, or it may not be in the current database. If you can provide an alternative name or any other identifying information, I'd be happy to search again."
+    },
+    {
+      "id": "q22",
+      "cat": "expiration_date",
+      "verdict": "MISS",
+      "question": "What is the initial term of the Equidata Marketing Affiliate Agreement, and how does it renew?",
+      "expected": "One year, then automatically renews under the same terms unless superseded.",
+      "evidence": "This Agreement shall be for the term of one year; thereafter, the Agreement shall renew automatically",
+      "answer": "I don't see an \"Equidata Marketing Affiliate Agreement\" in the list of available contracts. The search results I received earlier did not contain information about an Equidata contract. \n\nCould you please verify the exact name of the contract you're looking for? It's possible it may be listed under a different title, or it may not be available in this contract database. If you can provide any additional details (such as the company name, filing date, or document type), I can help you locate it."
+    },
+    {
+      "id": "q23",
+      "cat": "payment_terms",
+      "verdict": "MISS",
+      "question": "When are payments due under the Equidata Marketing Affiliate Agreement?",
+      "expected": "30 days from the invoice date; invoices are issued bi-monthly.",
+      "evidence": "Such amounts shall be billed on a bi-monthly basis by Equidata and are due and payable in full by Marketing Affiliate 30 days from the invoice date",
+      "answer": "Based on the search results, under the **Equidata Marketing Affiliate Agreement** (found in the LinkPlusCorp 8-K filing), payments are due as follows:\n\n**Payment Due Date:**\n- **Payments due shall be made within 45 days of the close of each calendar quarter** (Section 3.5.1)\n\n**Late Payment Penalties:**\n- Payments not received within 30 days after the due date will bear interest at **12% per annum compounded monthly** from the due date until payment is received (Section 3.5.2)\n- Payments not received within 60 days after the due date are considered a **material breach** of the Agreement, and the party due payment may pursue legal action to recover the payment plus reasonable legal fees (Section 3.5.3)"
+    },
+    {
+      "id": "q29",
+      "cat": "termination",
+      "verdict": "HIT",
+      "question": "Under what conditions can UDC terminate the Business Affiliate Agreement without notice?",
+      "expected": "UDC may immediately terminate without notice if it determines the Business Affiliate has breached.",
+      "evidence": "UDC may immediately terminate this Agreement without notice",
+      "answer": "Based on the Business Affiliate Agreement, **UDC may immediately terminate the Agreement without notice** under the following conditions:\n\n1. **Material Breach**: If UDC determines that the Business Affiliate has breached a material provision of the Agreement.\n\n2. **Legal Violation**: If the activities contemplated under the Agreement will result in a violation of any federal or state law.\n\n3. **Opinion-Based Grounds**: If such services would, in the opinion of UDC and its counsel, [the document appears to cut off here, but the provision exists].\n\n**Alternative Process**: However, UDC also has the option to:\n- Provide the Business Affiliate with **ten (10) days written notice** of the alleged material breach, and\n- Afford the Business Affiliate an opportunity to cure the breach upon mutually agreeable terms.\n\nIf the Business Affiliate fails to cure the breach as set forth, that failure becomes grounds for immediate termination of the Agreement."
+    },
+    {
+      "id": "q30",
+      "cat": "payment_terms",
+      "verdict": "HIT",
+      "question": "Where are disputes raised by Payment Data Systems resolved under the Network 1 affiliate office agreement?",
+      "expected": "By arbitration in McLean, Virginia, under American Arbitration Association rules.",
+      "evidence": "All disputes or claims by Payment Data Systems hereunder shall be resolved by arbitration in McLean, Virginia, pursuant to the rules of the American Arbitration Association",
+      "answer": "Based on the search results, under the **Network 1 Affiliate Office Agreement**, disputes raised by Payment Data Systems are resolved as follows:\n\nAccording to **Section 8.05 (Governing Law)**:\n> \"All disputes or claims by Payment Data Systems hereunder shall be resolved by arbitration in **McLean, Virginia**, pursuant to the rules of the American Arbitration Association.\"\n\nSo disputes raised by Payment Data Systems are resolved through arbitration in **McLean, Virginia** under the rules of the American Arbitration Association."
+    },
+    {
+      "id": "q31",
+      "cat": "payment_terms",
+      "verdict": "HIT",
+      "question": "How is the Exit Fee defined under the Network 1 affiliate office agreement?",
+      "expected": "18 months of net recurring revenue per transferring merchant normally paid to Affiliate.",
+      "evidence": "eighteen (18) months net recurring revenue normally paid to Affiliate",
+      "answer": "Based on the search results, I found the Exit Fee definition in the Network 1 affiliate office agreement. Here's how it is defined:\n\n**Exit Fee Definition (Section 7.6(c)):**\n\nThe Exit Fee is defined as **the aggregate sum, per transferring merchant, equal to eighteen (18) months of net recurring revenue normally paid to Affiliate under the compensation terms of the Agreement, with a maximum cap of $250,000**.\n\n**Key Points:**\n- The Exit Fee must be paid by the Affiliate immediately prior to the assignment or transfer of merchants and/or its net revenue\n- The calculation is based on 18 months of net recurring revenue per transferring merchant\n- There is a maximum limit of $250,000 per exit\n- This fee applies both during and following the termination of the Agreement\n- In addition to the Exit Fee, all out-of-pocket and reasonable reimbursement of staff expenses must also be paid prior to the transfer of merchants"
+    },
+    {
+      "id": "q41",
+      "cat": "expiration_date",
+      "verdict": "HIT",
+      "question": "When does the Jacksonville Jaguars sponsorship agreement expire?",
+      "expected": "Upon the later of the conclusion of the 2022/23 NFL season and the last day of February 2023.",
+      "evidence": "shall expire upon the later of: (a) the conclusion of the 2022/23 NFL season",
+      "answer": "Based on the search results, the **Jacksonville Jaguars Sponsorship Agreement** (between Jacksonville Jaguars, LLC and The ARC Group, Inc.) **expires on the later of:**\n\n1. **The conclusion of the 2022/23 NFL season**, or\n2. **The last day in February, 2023**\n\nThis is referred to in the agreement as the \"Scheduled Expiration Date.\" The agreement was executed on November 27, 2017, with an effective date of April 1, 2018."
+    },
+    {
+      "id": "q42",
+      "cat": "payment_terms",
+      "verdict": "MISS",
+      "question": "How often is Commission paid to the Affiliate under the Chase Affiliate Agreement?",
+      "expected": "Monthly.",
+      "evidence": "set forth below (\u201cCommission\u201d) paid monthly",
+      "answer": "I don't see a \"Chase Affiliate Agreement\" in the available contracts. The contracts listed do not include any agreement with Chase. Could you please clarify:\n\n1. Is the contract you're asking about actually called something different?\n2. Is it possible you're referring to a different company's affiliate agreement?\n3. Do you have the exact title of the Chase agreement you're looking for?\n\nIf you can provide more details or the exact contract name, I'll be able to search for the Commission payment frequency information you need."
+    },
+    {
+      "id": "q43",
+      "cat": "definitional",
+      "verdict": "HIT",
+      "question": "What is an 'Approved Account' under the Chase Affiliate Agreement?",
+      "expected": "A Chase credit card application submitted via a link on the Affiliate's website that Chase approves.",
+      "evidence": "an \u201cApproved Account\u201d means any Chase credit card application",
+      "answer": "Based on the Chase Affiliate Agreement, an **\"Approved Account\"** is defined as:\n\nAny Chase credit card application that meets all three of the following criteria:\n\n1. **Submitted by a referred user**: The application is submitted by any user who clicks on an e-mail, banner, or any other advertising material from the Affiliate's Website;\n\n2. **Approved by Chase**: The application is approved by Chase; and\n\n3. **Reported to the Affiliate**: The approval is reported as approved by Chase to the Affiliate.\n\nIn essence, an Approved Account is a successfully approved Chase credit card application that originated from a click-through on the affiliate's marketing materials and was properly tracked and reported by Chase. The Affiliate's commission is calculated based on these Approved Accounts."
+    },
+    {
+      "id": "q44",
+      "cat": "factual",
+      "verdict": "MISS",
+      "question": "Within how many business days must the Marketing Affiliate present materials for review under the Birch First / Mount Knowledge agreement?",
+      "expected": "Ten (10) business days.",
+      "evidence": "within ten (10) business days following the",
+      "answer": "I don't see a \"Birch First / Mount Knowledge\" agreement in the list of available contracts. Could you please clarify which contract you're referring to? You might want to:\n\n1. Check if the contract name is slightly different from what you mentioned\n2. Provide the full or exact title of the contract\n3. Let me know if it might be listed under different party names\n\nAlternatively, if you can provide any other identifying information about the contract (such as the filing date, company name, or document type), I can help you locate it."
+    },
+    {
+      "id": "q50",
+      "cat": "payment_terms",
+      "verdict": "HIT",
+      "question": "What is the returned check fee under the Equidata Marketing Affiliate Agreement?",
+      "expected": "Not less than $35.00 per returned item.",
+      "evidence": "returned check fee of not less than $35.00 per returned item",
+      "answer": "Based on the search results, under the **Equidata Marketing Affiliate Agreement**, the returned check fee is **not less than $35.00 per returned item**.\n\nThe relevant clause states: \"the Marketing Affiliate agrees to pay a late charge of 1 1/2% per month on the unpaid, past-due amount as well as a returned check fee of not less than $35.00 per returned item.\""
+    },
+    {
+      "id": "q51",
+      "cat": "factual",
+      "verdict": "HIT",
+      "question": "Within how many days must the Marketing Affiliate give written demand of a dispute under the Equidata agreement?",
+      "expected": "Within 10 days of the due date of the invoice.",
+      "evidence": "shall give Equidata written demand of dispute within 10 days of the due date",
+      "answer": "Based on the Equidata agreement, **the Marketing Affiliate must give Equidata written demand of a dispute within 10 days of the due date of the invoice.**\n\nThe relevant clause states: \"Marketing Affiliate shall give Equidata written demand of dispute within 10 days of the due date of the invoice. The demand shall set forth a statement for the nature of the dispute and the amount involved.\""
+    },
+    {
+      "id": "q56",
+      "cat": "factual",
+      "verdict": "MISS",
+      "question": "Within how many business days must the Affiliate respond to a right-of-first-refusal Offer under the Network 1 agreement?",
+      "expected": "Within 15 business days of receipt of the Offer.",
+      "evidence": "Affiliate within 15 business days of receipt of the Offer",
+      "answer": "Based on the search results from the Network 1 agreement, **the Affiliate must respond to a right-of-first-refusal Offer within 15 business days**.\n\nSpecifically, the agreement states:\n\n> \"If Network 1 desires to exercise its rights under this Section it will give written notice to Affiliate within 15 business days of receipt of the Offer. The failure by Network 1 to exercise its rights within the 15-day period shall be deemed a waiver of such right.\"\n\nHowever, I should clarify: this clause describes Network 1's response time to the Affiliate's notice of a Bona Fide Offer. The Affiliate must immediately give written notice to Network 1 when it receives an offer, and then Network 1 has 15 business days to decide whether to exercise its right of first refusal."
+    },
+    {
+      "id": "q57",
+      "cat": "factual",
+      "verdict": "HIT",
+      "question": "How much written notice must CLIENT give regarding the Merchant Program under the Network 1 agreement?",
+      "expected": "120 days written notice.",
+      "evidence": "CLIENT shall have given 120 days written",
+      "answer": "Based on the search results, under the Network 1 agreement, **CLIENT must give 120 days written notice** regarding withdrawal of Merchants from the Merchant Program.\n\nSpecifically, the agreement states:\n\n> \"CLIENT shall have the right to withdraw (\"Transfer\") Merchants from the Merchant Program, provided (i) that CLIENT shall have given 120 days written notice to NET1...\"\n\nThis 120-day notice requirement is one of several conditions that must be met for CLIENT to transfer merchants, including that the Affiliate is not in breach of the agreement, 18 months have lapsed under the Agreement, and applicable Exit Fees are paid."
+    },
+    {
+      "id": "q58",
+      "cat": "factual",
+      "verdict": "HIT",
+      "question": "What is the maximum compensation under the Network 1 affiliate office agreement?",
+      "expected": "A maximum of $250,000.",
+      "evidence": "compensation terms of this Agreement to a maximum of $250,000",
+      "answer": "Based on the search results, I found information about the Network 1 affiliate office agreement. According to the document, the **maximum compensation is $250,000**.\n\nSpecifically, this appears in the context of an Exit Fee provision, which states:\n\n> \"The amount of the Exit Fee during and following the termination of this Agreement shall be defined as the following: (1) the aggregate sum, per transferring merchant, equal to eighteen (18) months net recurring revenue normally paid to Affiliate under the compensation terms of this Agreement **to a maximum of $250,000**.\"\n\nThis $250,000 cap applies to the Exit Fee calculation based on 18 months of net recurring revenue per transferring merchant."
+    },
+    {
+      "id": "q60",
+      "cat": "factual",
+      "verdict": "MISS",
+      "question": "Within how many days must a party report an unauthorized use or disclosure under the Birch First / Mount Knowledge agreement?",
+      "expected": "Within thirty (30) days of such discovery.",
+      "evidence": "thirty (30) days of such discovery",
+      "answer": "I don't see a \"Birch First / Mount Knowledge\" agreement in the list of available contracts. Could you please clarify which contract you're referring to? You might want to:\n\n1. Check if the contract name is slightly different than \"Birch First / Mount Knowledge\"\n2. Provide the full or alternate name of the contract\n3. Let me know if it might be listed under a different party name\n\nAlternatively, if you'd like me to search across all contracts for reporting timelines on unauthorized use or disclosure, I can do that as well."
+    },
+    {
+      "id": "q62",
+      "cat": "payment_terms",
+      "verdict": "HIT",
+      "question": "What payment timing applies to Playoff Payments under the Jacksonville Jaguars agreement?",
+      "expected": "Not later than 30 days following Sponsor's receipt of an invoice.",
+      "evidence": "not later than 30 days following Sponsor\u2019s receipt of an invoice",
+      "answer": "Based on the Jacksonville Jaguars sponsorship agreement, **Playoff Payments are due within 30 days following the Sponsor's receipt of an invoice**.\n\nSpecifically, the agreement states:\n\n> \"Sponsor shall pay the Playoff Payments in accordance with Section 2(d) of the Terms and Conditions not later than 30 days following Sponsor's receipt of an invoice requesting payment for such Playoff Games; provided that Club's failure to deliver such an invoice shall not, and not be construed to, relieve Sponsor of any obligation to pay any amount owed to Club.\"\n\nThe Playoff Payments themselves are calculated as a pro-rated portion of the Annual Fee applicable during the then-current Contract Year, determined by the Club using its internal line item accounting values for the benefits provided during each Playoff Game (including Hall of Fame games, wild card, divisional playoff, conference championship, or Super Bowl games)."
+    },
+    {
+      "id": "q64",
+      "cat": "definitional",
+      "verdict": "MISS",
+      "question": "What rights does element 5 grant the Affiliate to use advertising material?",
+      "expected": "A non-exclusive, revocable right to use provided advertising material.",
+      "evidence": "Affiliate a non-exclusive, revocable right to use provided advertising",
+      "answer": "I need to identify which contract you're asking about. Could you please specify which contract contains \"element 5\" and the advertising material rights you're interested in? \n\nAlternatively, if you can tell me the name of the contract or the parties involved, I can search for this information."
+    },
+    {
+      "id": "q67",
+      "cat": "out_of_scope",
+      "verdict": "HIT",
+      "question": "What is the email address of the Equidata CEO?",
+      "expected": "Not found in the provided documents.",
+      "evidence": "",
+      "answer": "I don't have access to a tool that searches for contact information like CEO email addresses. My tools are designed to search and analyze the text of contracts.\n\nIf you have a contract that mentions the Equidata CEO's email address, I can search that contract for you. Otherwise, you would need to find this information through other means, such as:\n- The company's website\n- LinkedIn\n- Business directories\n- Press releases\n\nIs there a specific contract you'd like me to search?"
+    },
+    {
+      "id": "q121",
+      "cat": "governing_law",
+      "verdict": "MISS",
+      "question": "Which jurisdiction's law governs the Coherusbiosciencesinc development agreement?",
+      "expected": "This Agreement shall be governed by and construed in accordance with the laws of [***], without regard to the conflicts of law principles thereof, and [***].",
+      "evidence": "This Agreement shall be governed by and construed in accordance with the laws of [***], without regard to the conflicts of law principles thereof, and [***].",
+      "answer": "Based on the search results from the Coherus Biosciences development agreement, **Section 16.2 (Applicable Law)** states:\n\n\"This Agreement shall be governed by and construed in accordance with the laws of [***], without regard to the conflicts of law principles thereof, and [***].\"\n\nUnfortunately, the specific jurisdiction is redacted (shown as [***]) in the publicly available version of this agreement. The document does not disclose which jurisdiction's law governs the agreement in the portions available to me."
+    },
+    {
+      "id": "q128",
+      "cat": "license_grant",
+      "verdict": "MISS",
+      "question": "What license is granted under the Datacalltechnologies content license agreement?",
+      "expected": "In the alternative, if LICENSOR is not the sole and exclusive owner of all of the foregoing intellectual property rights to the Content, LICENSOR has been granted by the owner or rightful sub-licensee of the intellectual property of the Content the right to grant the rights provided by LICENSOR to plan_b under this Agreement.",
+      "evidence": "In the alternative, if LICENSOR is not the sole and exclusive owner of all of the foregoing intellectual property rights to the Content, LICENSOR has been granted by the owner or rightful sub-licensee of the intellectual property of the Content the right to grant the rights provided by LICENSOR to plan_b under this Agreement.",
+      "answer": "Based on the DataCallTechnologies Content License Agreement, the license granted is as follows:\n\n**Section 5.3** grants to plan_b (the licensee) a license to:\n- **Produce, use, distribute, promote and publicly display the Content** in any possible way for distribution and marketing purposes\n- **Use the trademarks, trade names, or logos** relating to the Content\n\n**Section 2.3** further specifies that the LICENSOR grants plan_b the right to:\n- **Produce, market and distribute Content to End Users** in the specified territory through its own and its partner's platform\n\nIn summary, the license is a **non-exclusive content distribution license** that allows plan_b to produce, market, distribute, and publicly display the Content to End Users (third parties receiving Content on mobile devices for payment) within the specified territory, along with the right to use associated trademarks and logos."
+    },
+    {
+      "id": "q134",
+      "cat": "term",
+      "verdict": "HIT",
+      "question": "What is the term of the Federatedgovernmentincomesecuritiesinc services agreement_powerof?",
+      "expected": "This Limited Power of Attorney shall be revoked and terminated automatically upon the cancellation or termination of the Services Agreement or as to any Fund upon the cancellation or termination of the Adviser's Investment Advisory Contract for such Fund.",
+      "evidence": "This Limited Power of Attorney shall be revoked and terminated automatically upon the cancellation or termination of the Services Agreement or as to any Fund upon the cancellation or termination of the Adviser's Investment Advisory Contract for such Fund.",
+      "answer": "Based on my search of the **Federated Government Income Securities Inc. Services Agreement - Power of Attorney**, the document is a **Limited Power of Attorney dated January 1, 2004** (revised March 1, 2020).\n\nHowever, the search results do not reveal a specific fixed term or duration period for this agreement. The document indicates that:\n\n1. It was **dated as of January 1, 2004**\n2. It can be **revoked and terminated automatically upon the cancellation or termination of the Services Agreement** or the Adviser's Investment Advisory Contract\n3. The Adviser may revoke or terminate it at any time with written notice to FASC\n\nThe agreement does not appear to specify a fixed term (such as \"for a period of X years\"). Instead, it appears to be an ongoing arrangement that continues until either party terminates it or the underlying Services Agreement/Investment Advisory Contract is terminated."
+    },
+    {
+      "id": "q189",
+      "cat": "exclusivity",
+      "verdict": "HIT",
+      "question": "What exclusivity provisions does the Midwestenergyemissionscorp content license agreement contain?",
+      "expected": "In this regard, it is specifically understood and agreed that CONTENT PROVIDER will not during the Term of this Agreement take any action to exploit or otherwise use, reproduce, distribute, transmit and publicly display any of the Content via the internet to Universities and College students in the People's Republic of China except for the benefit of the COMPANY.",
+      "evidence": "In this regard, it is specifically understood and agreed that CONTENT PROVIDER will not during the Term of this Agreement take any action to exploit or otherwise use, reproduce, distribute, transmit and publicly display any of the Content via the internet to Universities and College students in the People's Republic of China except for the benefit of the COMPANY.",
+      "answer": "Based on my search of the Midwestenergyemissionscorp Content License Agreement, the agreement contains the following exclusivity provision:\n\n**Exclusivity Provision:**\n\nIn **Section 1.A**, the agreement states that:\n\n> \"CONTENT PROVIDER will not during the Term of this Agreement take any action to exploit or otherwise use, reproduce, distribute, transmit and publicly display any of the Content via the internet to Universities and College students in the People's Republic of China except for the benefit of the COMPANY.\"\n\nThis creates an **exclusive arrangement** whereby the Content Provider grants the Company exclusive rights to distribute the content to universities and college students in the People's Republic of China via the internet during the term of the agreement. The Content Provider is restricted from exploiting or distributing the content to that specific audience except for the Company's benefit.\n\nAdditionally, the agreement specifies in **Exhibit A** that some content is provided on a **\"non-exclusive basis\"** (specifically content derived from AVP, Inc. and other film content), indicating that while certain content is exclusive to the Company, other content may be licensed non-exclusively."
+    },
+    {
+      "id": "q191",
+      "cat": "license_grant",
+      "verdict": "MISS",
+      "question": "What license is granted under the Paperexchangecominc branding agreement?",
+      "expected": "PaperExchange hereby grants VerticalNet a non-exclusive, non-transferable, royalty-free, right and license to link to the PaperExchange Site through a PaperExchange Link.",
+      "evidence": "PaperExchange hereby grants VerticalNet a non-exclusive, non-transferable, royalty-free, right and license to link to the PaperExchange Site through a PaperExchange Link.",
+      "answer": "Based on the search results from the **PaperexchangeComInc Co-Branding Agreement**, the following licenses are granted:\n\n1. **VerticalNet's License to PaperExchange Content**: PaperExchange grants VerticalNet an **exclusive license** to use, modify, enhance, reproduce, display, perform and transmit the PaperExchange Content (which includes job listings for the Career Center and equipment listings for Equipment Listings). VerticalNet is restricted from disclosing, transferring, or providing this content to third parties, including PaperExchange competitors, except as otherwise permitted under the agreement.\n\n2. **PaperExchange's License to VerticalNet Content**: VerticalNet grants PaperExchange a **non-exclusive, non-transferable license** to use, reproduce, display and transmit the VerticalNet Content (original content including headlines, feature articles, columns and case studies), solely in connection with the development, maintenance and operation of the co-branded sites.\n\nThe key distinction is that PaperExchange receives an exclusive license for its content from VerticalNet, while VerticalNet receives only a non-exclusive, non-transferable license for VerticalNet's content from PaperExchange."
+    },
+    {
+      "id": "q197",
+      "cat": "effective_date",
+      "verdict": "HIT",
+      "question": "What is the effective date of the Pcquotecominc branding agreement?",
+      "expected": "The effective date for purposes of this Agreement is the contract date as specified on the signature page of this Agreement.",
+      "evidence": "The effective date for purposes of this Agreement is the contract date as specified on the signature page of this Agreement.",
+      "answer": "Based on the search results, the **effective date of the Pcquotecominc branding agreement is October 11, 1996**.\n\nThis is stated in the opening of the agreement: \"This agreement is made effective Oct. 11, 1996 by and between PC QUOTE, INC. (hereinafter referred to as \"PCQ\")... and AB Wately, Inc. (hereinafter referred to as \"ABW\")...\""
+    },
+    {
+      "id": "q204",
+      "cat": "effective_date",
+      "verdict": "MISS",
+      "question": "What is the effective date of the Playboyenterprisesinc purchase agreement?",
+      "expected": "January 15, 2008",
+      "evidence": "January 15, 2008",
+      "answer": "Based on the search results, I found a document titled \"PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement2\" from a 2/20/2009 filing. However, the excerpts returned do not show a specific effective date clause for the purchase agreement itself. The contract template shown has blank date fields for signature dates, but no stated effective date.\n\nThe document appears to be a Supplier/Subcontractor Contract template rather than a traditional purchase agreement with a defined effective date. If you're looking for a different Playboy Enterprises purchase agreement or need more specific information, please let me know and I can search further."
+    },
+    {
+      "id": "q206",
+      "cat": "parties",
+      "verdict": "MISS",
+      "question": "Who are the parties to the Playboyenterprisesinc purchase agreement?",
+      "expected": "Playboy.com, Inc.",
+      "evidence": "Playboy.com, Inc.",
+      "answer": "Based on the search results, the document titled \"PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement2\" contains a Supplier/Subcontractor Contract rather than a traditional purchase agreement with clearly named parties.\n\nFrom what is shown in the document, the parties are identified as:\n\n1. **Supplier** - (blank/to be filled in by the specific supplier company)\n2. **Purchaser** - (blank/to be filled in by the specific purchaser company)\n3. **Playboy Enterprises International, Inc.** - (identified as the owner of the Playboy Properties and an intended third-party beneficiary)\n4. **PLAYBOY.COM, INC.** - (listed as the Playboy contact entity at 730 Fifth Avenue, New York, NY 10019)\n\nThis appears to be a template contract where the specific Supplier and Purchaser names are left blank to be filled in for each transaction. The document does not identify specific named parties to a single purchase agreement, but rather serves as a standard form agreement for supplier/subcontractor relationships involving Playboy Properties."
+    },
+    {
+      "id": "q207",
+      "cat": "parties",
+      "verdict": "HIT",
+      "question": "Who are the parties to the Playboyenterprisesinc purchase agreement2?",
+      "expected": "PLAYBOY.COM, INC.",
+      "evidence": "PLAYBOY.COM, INC.",
+      "answer": "Based on the search results, the **Playboy Enterprises Inc Purchase Agreement 2** is a **Supplier/Subcontractor Contract**. The parties are:\n\n1. **Supplier** \u2013 the party manufacturing/producing merchandise (name to be filled in)\n2. **Purchaser** \u2013 the party ordering the merchandise (name to be filled in)\n3. **Playboy Enterprises International, Inc.** \u2013 identified as the owner of the Playboy Properties and an intended third-party beneficiary\n\nAdditionally, **PLAYBOY.COM, INC.** (located at 730 Fifth Avenue, New York, NY 10019) is listed as the Playboy contact party for the agreement.\n\nThis is a template contract where the specific Supplier and Purchaser names are to be completed upon execution."
+    },
+    {
+      "id": "q208",
+      "cat": "term",
+      "verdict": "MISS",
+      "question": "What is the term of the effective date of the Riseeducationcaymanltd service agreement?",
+      "expected": "This Agreement shall be effective as of the date set forth above in this Agreement.",
+      "evidence": "This Agreement shall be effective as of the date set forth above in this Agreement.",
+      "answer": "Based on the search results from the **Riseeducationcaymanltd Service Agreement**, the term of the agreement is:\n\n**Five (5) years**\n\nAccording to Section 13 (Renewal) of the agreement:\n\n> \"The term of this Agreement shall be five (5) years. This Agreement shall be renewed automatically for another five (5) years upon the expiration unless the Parties confirm, in writing, the termination of this Agreement.\"\n\nThe agreement becomes effective as of the date set forth in the agreement itself and automatically renews for additional five-year periods unless either party provides written notice of termination."
+    },
+    {
+      "id": "q209",
+      "cat": "expiration_date",
+      "verdict": "HIT",
+      "question": "When does the Riseeducationcaymanltd service agreement expire?",
+      "expected": "The term of this Agreement shall be five (5) years.",
+      "evidence": "The term of this Agreement shall be five (5) years.",
+      "answer": "Based on the Riseeducationcaymanltd Service Agreement, the contract does not have a fixed expiration date. Instead, according to **Section 13 (Renewal)**:\n\n- **The initial term is five (5) years** from the effective date of the agreement\n- **The agreement automatically renews for another five (5) years** upon expiration, unless both parties confirm in writing their intention to terminate it\n\nSo the agreement will expire five years from its effective date, but it will automatically renew for another five-year term unless either party provides written notice of termination before the expiration.\n\nThe specific effective date is marked as \"[\u2022]\" (blank) in the document, so you would need to check the executed version to determine the exact expiration date."
+    },
+    {
+      "id": "q230",
+      "cat": "minimum_commitment",
+      "verdict": "MISS",
+      "question": "What minimum commitment does the Truenorthenergycorp development agreement impose?",
+      "expected": "Company shall pay 11.67% of the Drilling Costs of the Initial Well, regardless of whether the Initial Well is successfully drilled to the Objective Zone",
+      "evidence": "Company shall pay 11.67% of the Drilling Costs of the Initial Well, regardless of whether the Initial Well is successfully drilled to the Objective Zone",
+      "answer": "Based on the search results from the **Truenorthenergycorp Development Agreement** (dated February 8, 2007), the minimum commitment imposed is:\n\n**Company's proportionate share: 8.75%**\n\nThis 8.75% minimum commitment applies to:\n\n1. **Drilling and completion costs** - Company bears 8.75% of the costs associated with drilling and completing the Initial Well and any Substitute or Additional Wells.\n\n2. **Operating costs** - Company bears 8.75% of the cost of operation of the Initial Well commencing with first production.\n\n3. **Taxes** - Company bears 8.75% of severance, production, and gathering taxes and other taxes imposed or measured by the volume or value of production from the Initial Well.\n\n4. **Plugging and abandonment** - Company's proportionate share of the cost, risk, and expense to plug and abandon the Initial Well is 8.75%.\n\n5. **Carried interests** - If any lands within the Contract Area contain unleased or third-party interests that must be carried to conduct operations, Company shall bear 8.75% of those Carried Interests.\n\nThis 8.75% represents Company's baseline participation obligation throughout the agreement."
+    },
+    {
+      "id": "q235",
+      "cat": "minimum_commitment",
+      "verdict": "MISS",
+      "question": "What minimum commitment does the Womensgolfunlimitedinc endorsement agreement impose?",
+      "expected": "The Professional agrees to participate in a minimum of five (5) other events per calendar year to market and promote the Company's products, including but not limited to market consultations, each of which shall include meeting with the Company executives to assist in the design, development, marketing and promotion of the Company's products.",
+      "evidence": "The Professional agrees to participate in a minimum of five (5) other events per calendar year to market and promote the Company's products, including but not limited to market consultations, each of which shall include meeting with the Company executives to assist in the design, development, marketing and promotion of the Company's products.",
+      "answer": "Based on the search results from the **Womensgolfunlimitedinc Endorsement Agreement**, the minimum commitment imposed is:\n\n**Section 4.5 explicitly states:** \"There shall be no minimum amounts due from the Company hereunder except as specified in Section 4.1 above.\"\n\nHowever, the Professional (endorser) has a minimum commitment obligation:\n\n**Section 3.1 requires** that the Professional:\n- Use the Products upon their creation\n- Provide an \"unqualified and unequivocal endorsement\" of the Products during the Term at the Company's request, in verbal, written, or recorded forms\n\nAdditionally, the Professional must:\n- Refrain from endorsing, licensing, or authorizing the use of her name, likeness, or image in connection with competing golf equipment or golf-related clothing during the Term and for two (2) years thereafter (Section 9.1)\n- Divest herself of any management or control interest in any competitor entity and not acquire such interests during the Term (Section 9.2)\n\nSo while the Company has no minimum sales or payment obligations, the Professional has a minimum commitment to provide endorsement services and maintain non-competition obligations."
+    }
+  ]
+}

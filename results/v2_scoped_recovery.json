@@ -1,0 +1,323 @@
+{
+  "agent": "bedrock",
+  "judge": "ollama",
+  "recovered": 23,
+  "total": 35,
+  "results": [
+    {
+      "id": "q02",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which state's law governs the Newegg-Allied sponsorship agreement?",
+      "expected": "California (with exclusive venue in Los Angeles County state and federal courts).",
+      "evidence": "this Agreement shall be governed by and construed in accordance with the laws of the State of California",
+      "answer": "Based on the search results, the **Newegg-Allied Sponsorship Agreement** is governed by the laws of **California**. \n\nSpecifically, Section 15.10 (Governing Law and Jurisdiction) states:\n\n> \"Without reference to choice or conflict of law principles, this Agreement shall be governed by and construed in accordance with the laws of the State of California, USA.\"\n\nThe agreement also specifies that the exclusive venue for any legal proceedings is the state and federal courts located in Los Angeles County, California."
+    },
+    {
+      "id": "q15",
+      "cat": "definitional",
+      "verdict": "MISS",
+      "question": "What does 'NCM' stand for in the network affiliate agreement?",
+      "expected": "National CineMedia, LLC.",
+      "evidence": "National CineMedia, LLC (\u201cNCM\u201d)",
+      "answer": "I don't see a contract specifically titled \"network affiliate agreement\" in the available contracts. Could you clarify which contract you're referring to? For example, are you asking about one of these affiliate agreements:\n\n- CreditcardscomInc Affiliate Agreement\n- CybergyHoldingsInc Affiliate Agreement\n- DigitalCinemaDestinationsCorp Affiliate Agreement\n- LinkPlusCorp Affiliate Agreement\n- SouthernStarEnergyInc Affiliate Agreement\n- SteelVaultCorp Affiliate Agreement\n- TubeMediaCorp Affiliate Agreement\n- UnionDentalHoldingsInc Affiliate Agreement\n- UsioInc Affiliate Agreement\n\nOr is it a different contract altogether? Once you clarify, I can search for the meaning of 'NCM' in that document."
+    },
+    {
+      "id": "q24",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which state's law governs the TUBE Music Network / Tribune Broadcasting affiliate agreement?",
+      "expected": "New York.",
+      "evidence": "this Agreement and all matters or issues collateral thereto shall be governed by the laws of the State of New York",
+      "answer": "Based on the search results, the **TUBE Media Corp. Affiliate Agreement** (which appears to be the TUBE Music Network / Tribune Broadcasting affiliate agreement) is governed by the laws of the **State of New York**.\n\nThe relevant clause states:\n\n> \"The obligations of Affiliate and Network under this Agreement are subject to all applicable federal, state and local laws, rules and regulations, and this Agreement and all matters or issues collateral thereto shall be governed by the laws of the State of New York applicable to contracts to be entirely performed therein.\""
+    },
+    {
+      "id": "q104",
+      "cat": "non-compete",
+      "verdict": "MISS",
+      "question": "What non-compete restrictions does the Aimmunetherapeuticsinc development agreement contain?",
+      "expected": "Aimmune covenants that it will not research or develop (including Develop) the Antibody itself, including not developing any modification, variant, fragment, progeny or derivatives of such Antibody, in each case, in a way that would produce a molecule that is neither the Antibody nor a molecule that falls within the definition of a Product.",
+      "evidence": "Aimmune covenants that it will not research or develop (including Develop) the Antibody itself, including not developing any modification, variant, fragment, progeny or derivatives of such Antibody, in each case, in a way that would produce a molecule that is neither the Antibody nor a molecule that falls within the definition of a Product.",
+      "answer": "Perfect! I found the non-compete restrictions. Based on the search results, here are the **non-compete restrictions in the Aimmune Therapeutics Inc. Development Agreement**:\n\n## Restrictive Covenants (Section 2.4)\n\n**Xencor's Non-Compete Obligations:**\n\nXencor covenants and agrees that it shall not (and shall cause its Affiliates not to), either directly or through granting a license or other right to, or otherwise facilitating, a Third Party to:\n\n1. **Develop, Manufacture or Commercialize the Antibody or the Product during the Term** \u2014 Xencor cannot develop, manufacture, or commercialize the Antibody or Product while the agreement is in effect.\n\n2. **Commence development of competing molecules** \u2014 Xencor cannot commence any [***] of any [***] that is not the Antibody or a Product and that [***] for use in the Licensed Field, prior to the [***] ([***]th) anniversary of the Effective Date. (Note: Specific details are redacted in the public filing.)\n\n3. **Develop competing products in the Aimmune Field** \u2014 Xencor cannot Develop, Manufacture or Commercialize any [***] that is not the Antibody or a Product and that [***] for use in the Aimmune Field during the Term.\n\n**Aimmune's Covenant:**\n\nAimmune covenants that it shall not Develop, Manufacture, or Commercialize the Product for use outside the Licensed Field.\n\nThe agreement also states that the Parties intend these restrictive covenants to be enforced to the fullest extent permissible under applicable law, and if any covenant becomes unenforceable in a jurisdiction, it shall be amended to the extent necessary to be valid and enforceable in that jurisdiction."
+    },
+    {
+      "id": "q105",
+      "cat": "term",
+      "verdict": "HIT",
+      "question": "What is the term of the Aimmunetherapeuticsinc development agreement?",
+      "expected": "This Agreement shall become effective on the Effective Date and, unless earlier terminated pursuant to this ARTICLE 13, shall remain in effect on a Product-by-Product and country-by-country basis until the expiration of the Royalty Term applicable to such Product and country (the \"Term\").",
+      "evidence": "This Agreement shall become effective on the Effective Date and, unless earlier terminated pursuant to this ARTICLE 13, shall remain in effect on a Product-by-Product and country-by-country basis until the expiration of the Royalty Term applicable to such Product and country (the \"Term\").",
+      "answer": "Based on the search results, the **term of the Aimmunetherapeutics development agreement** is defined in Article 13.1 as follows:\n\n**The Agreement becomes effective on the Effective Date and, unless earlier terminated, shall remain in effect on a **Product-by-Product and country-by-country basis until the expiration of the Royalty Term** applicable to such Product and country.**\n\nIn other words, the term is not a fixed duration but rather extends until the \"Royalty Term\" expires for each specific product in each specific country. Upon expiration of the Agreement with respect to a Product in a country, the licenses granted to Aimmune continue in full force and effect on a fully-paid basis.\n\nThe agreement also allows for early termination under various circumstances, including termination for breach (with a 60-day cure period, or 30 days for non-payment) or termination by Aimmune for convenience upon 60 days' prior written notice."
+    },
+    {
+      "id": "q107",
+      "cat": "cap_on_liability",
+      "verdict": "MISS",
+      "question": "What cap on liability does the Aimmunetherapeuticsinc development agreement specify?",
+      "expected": "NEITHER PARTY SHALL BE LIABLE TO THE OTHER PARTY FOR ANY LOST PROFITS, OR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL, OR INDIRECT DAMAGES ARISING FROM OR RELATING TO ANY BREACH OF THIS AGREEMENT, REGARDLESS OF ANY NOTICE OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING THE FOREGOING,",
+      "evidence": "NEITHER PARTY SHALL BE LIABLE TO THE OTHER PARTY FOR ANY LOST PROFITS, OR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL, OR INDIRECT DAMAGES ARISING FROM OR RELATING TO ANY BREACH OF THIS AGREEMENT, REGARDLESS OF ANY NOTICE OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING THE FOREGOING,",
+      "answer": "Based on the search results from the **Aimmune Therapeutics, Inc. Development Agreement**, the contract does **not specify a general cap on liability**. Instead, it contains the following liability provisions:\n\n**Section 11.4 - Limitation of Liability:**\n- Neither party shall be liable to the other for **lost profits** or **special, consequential, incidental, or indirect damages** arising from or relating to any breach of the agreement, regardless of notice of the possibility of such damages.\n\n**Important Exception:**\n- This limitation does **not** apply to:\n  - Indemnification rights or obligations under Sections 11.1 or 11.2\n  - Damages available for breach of confidentiality obligations under Article 12\n\n**Insurance Requirements (Section 11.5):**\n- The agreement requires Aimmune to maintain insurance with minimum coverage amounts, but these are redacted in the document ([***] Dollars per loss occurrence for both clinical trials insurance and product liability insurance).\n- Importantly, the agreement states that insurance coverage \"shall not be construed to create a limit of Aimmune's liability with respect to its indemnification obligations.\"\n\nIn summary, while the agreement excludes certain types of damages (lost profits, consequential damages), it does not establish a specific dollar cap on total liability."
+    },
+    {
+      "id": "q108",
+      "cat": "non-compete",
+      "verdict": "MISS",
+      "question": "What non-compete restrictions does the Array Biopharma Inc. license, development and commercialization agreement contain?",
+      "expected": "Array shall not conduct Clinical Studies for a Product in the Ono Territory with respect to an Indication for which such Product has received Marketing Approval in the Ono Territory if Ono reasonably believes that the conduct of such Clinical Studies is likely to materially adversely affect the commercial value of such Product.",
+      "evidence": "Array shall not conduct Clinical Studies for a Product in the Ono Territory with respect to an Indication for which such Product has received Marketing Approval in the Ono Territory if Ono reasonably believes that the conduct of such Clinical Studies is likely to materially adversely affect the commercial value of such Product.",
+      "answer": "Based on the search results, the Array Biopharma Inc. license, development and commercialization agreement contains the following **non-compete restrictions** (referred to as \"Exclusivity of Efforts\"):\n\n## Key Non-Compete Provisions (Section 8.2):\n\n**During the Initial Period (before a specified date marked as [ * ]):**\n- Neither Ono nor its Affiliates, nor Array nor its Controlled Affiliates, shall commercialize in the Ono Territory:\n  - A product that includes, as an active pharmaceutical ingredient, an agent that is a [ * ] (other than Binimetinib), or\n  - A product that includes, as an active pharmaceutical ingredient, an agent that is a [ * ] (other than Encorafenib)\n  \n- Neither party may grant rights to a licensee or distributor to commercialize such competing products in the Ono Territory\n\n**Post-Termination Non-Compete:**\n- If Array terminates the agreement for Ono's breach during the specified period, or if Ono exercises its right to terminate \"at will\" during the Initial Royalty Term, then Ono and its Affiliates cannot commercialize a competing product or grant such rights to a licensee or distributor in the Ono Territory prior to the [ * ] anniversary of the termination date.\n\n**Consequences of Breach:**\n- If Array commercializes a competing product during the restricted period, the royalty payment period terminates and Ono may continue to commercialize the Product\n- If Ono commercializes a competing product during the restricted period, Array may immediately terminate the agreement\n\n*Note: Several specific terms and dates are redacted (marked as [ * ]) in the publicly available version of this agreement.*"
+    },
+    {
+      "id": "q109",
+      "cat": "termination_for_convenience",
+      "verdict": "HIT",
+      "question": "Can the Array Biopharma Inc. license, development and commercialization agreement be terminated for convenience, and how?",
+      "expected": "Commencing on the later of (i) [ * ] of the First Commercial Sale of the Binimetinib Product in the Ono Territory, or (ii) [ * ] of the First Commercial Sale of the Encorafenib Product in the Ono Territory, Ono shall have the right to terminate this Agreement, for any reasons by giving [ * ] advance written notice to Array which shall be accompanied by the rationale for such termination.",
+      "evidence": "Commencing on the later of (i) [ * ] of the First Commercial Sale of the Binimetinib Product in the Ono Territory, or (ii) [ * ] of the First Commercial Sale of the Encorafenib Product in the Ono Territory, Ono shall have the right to terminate this Agreement, for any reasons by giving [ * ] advance written notice to Array which shall be accompanied by the rationale for such termination.",
+      "answer": "Based on the search results, I found the relevant termination provision. Let me provide you with the answer:\n\n**Yes, the Array Biopharma Inc. license, development and commercialization agreement can be terminated for convenience by Ono (one of the parties).**\n\nAccording to **Section 13.2 (Termination by Ono without Cause)**:\n\n- **Who can terminate:** Ono has the right to terminate the agreement without cause\n- **When:** Commencing on the later of:\n  - [*] (redacted) of the First Commercial Sale of the Binimetinib Product in the Ono Territory, OR\n  - [*] (redacted) of the First Commercial Sale of the Encorafenib Product in the Ono Territory\n- **How:** Ono must provide [*] (redacted) advance written notice to Array, which must be accompanied by the rationale for such termination\n\nThe specific timing periods and notice requirements are redacted in the publicly available version of the contract (marked with [*]), but the provision clearly establishes that Ono has a unilateral right to terminate for any reason after certain commercial milestones are reached.\n\nAdditionally, the agreement provides for termination by either party for **material breach** (Section 13.3), which requires 90 days' notice (or 60 days for payment breaches) and an opportunity to cure."
+    },
+    {
+      "id": "q110",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which jurisdiction's law governs the Array Biopharma Inc. license, development and commercialization agreement?",
+      "expected": "This Agreement and all questions regarding its validity or interpretation, or the breach or performance of this Agreement, shall be governed by, and construed and enforced in accordance with, the laws of the State of New York, United States, without reference to conflict of law principles.",
+      "evidence": "This Agreement and all questions regarding its validity or interpretation, or the breach or performance of this Agreement, shall be governed by, and construed and enforced in accordance with, the laws of the State of New York, United States, without reference to conflict of law principles.",
+      "answer": "Based on the search results, the **Array Biopharma Inc. License, Development and Commercialization Agreement** is governed by the laws of the **State of New York, United States**.\n\nSpecifically, Section 18.3 (Governing Law) states:\n\n> \"This Agreement and all questions regarding its validity or interpretation, or the breach or performance of this Agreement, shall be governed by, and construed and enforced in accordance with, the laws of the State of New York, United States, without reference to conflict of law principles.\""
+    },
+    {
+      "id": "q111",
+      "cat": "revenue/profit_sharing",
+      "verdict": "MISS",
+      "question": "What revenue or profit sharing terms does the Array Biopharma Inc. license, development and commercialization agreement contain?",
+      "expected": "During the term of this Agreement, Ono shall pay to Array, on a quarterly basis, a royalty on the Net Sales of Products by Ono, its Affiliates or Sublicensees.",
+      "evidence": "During the term of this Agreement, Ono shall pay to Array, on a quarterly basis, a royalty on the Net Sales of Products by Ono, its Affiliates or Sublicensees.",
+      "answer": "Based on the search results, the **Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT** contains the following revenue and profit sharing terms:\n\n## Royalty Structure\n\n**Tiered Royalty Rates Based on Annual Net Sales:**\n- The agreement establishes a tiered royalty payment structure where Ono (the licensee) pays royalties on Net Sales of Products\n- Royalties are paid **quarterly** based on Annual Net Sales of all Products\n- The royalty rates are tiered, with:\n  - A lower royalty rate applied to Annual Net Sales up to a certain threshold (amount redacted as [ * ])\n  - A higher royalty rate applied to Annual Net Sales exceeding that threshold (amount redacted as [ * ])\n\n**Secondary Royalty Term Reduction:**\n- During the Secondary Royalty Term, the royalty rate is reduced to [ * ] (a percentage) of the otherwise applicable royalty rate\n\n## Key Definitions\n\n**Net Sales** is defined as gross amounts invoiced by Ono, its Affiliates, and/or Sublicensees for sales to Third Parties, less reasonable and customary deductions including:\n- Trade, quantity, and cash discounts\n- Other specified costs\n\n**Special Calculation for Combination Products:**\n- When the Product is sold as a Combination Product, Net Sales are calculated using a weighted average formula based on the relative sale prices of the individual components\n\nThe specific royalty percentages and thresholds are redacted in the publicly available portions of this agreement (marked as [ * ])."
+    },
+    {
+      "id": "q116",
+      "cat": "agreement_date",
+      "verdict": "MISS",
+      "question": "What is the agreement date of the Bellringbrandsinc manufacturing agreement3?",
+      "expected": "October 1, 2018",
+      "evidence": "October 1, 2018",
+      "answer": "Based on the search results, the **Bellringbrandsinc manufacturing agreement3** is an amendment to the original Manufacturing Agreement between Stremick's Heritage Foods, LLC and Premier Nutrition Corporation. \n\nThe original **Manufacturing Agreement date is July 1, 2017**. \n\nThe document shown is **Amendment No. 2**, which is effective as of **October 1, 2018** and amends the original July 1, 2017 agreement.\n\nIf you're asking specifically about when Manufacturing Agreement 3 was executed, the search results show Amendment No. 3 was effective as of **July 3, 2019**."
+    },
+    {
+      "id": "q119",
+      "cat": "expiration_date",
+      "verdict": "HIT",
+      "question": "When does the Bellringbrandsinc manufacturing agreement3 expire?",
+      "expected": "This Second Amendment shall be effective from The Second Amendment Effective Date and shall expire on December 31, 2021.",
+      "evidence": "This Second Amendment shall be effective from The Second Amendment Effective Date and shall expire on December 31, 2021.",
+      "answer": "Based on the search results, the **Bellringbrandsinc manufacturing agreement3** (Amendment No. 2 to the Stremick's Heritage Foods, LLC and Premier Nutrition Corporation Manufacturing Agreement) **expires on December 31, 2021**.\n\nAccording to Section 1 of the Second Amendment:\n\n> \"This Second Amendment shall be effective from The Second Amendment Effective Date and shall expire on December 31, 2021. Upon expiration, this Second Amendment shall be of no further force or effect, and the terms and conditions of the Agreement shall as they were before the Second Amendment Effective Date.\""
+    },
+    {
+      "id": "q124",
+      "cat": "renewal_term",
+      "verdict": "HIT",
+      "question": "What is the renewal term of the Coherusbiosciencesinc development agreement?",
+      "expected": "Except as otherwise specified in this Agreement, the Parties' respective rights and obligations under this Agreement shall commence on the Effective Date and shall remain in full force for ten (10) years after the First Commercial Sale of the first Licensed Product, and shall thereafter automatically renew for an unlimited period of time unless otherwise terminated in accordance with Section 15.2.",
+      "evidence": "Except as otherwise specified in this Agreement, the Parties' respective rights and obligations under this Agreement shall commence on the Effective Date and shall remain in full force for ten (10) years after the First Commercial Sale of the first Licensed Product, and shall thereafter automatically renew for an unlimited period of time unless otherwise terminated in accordance with Section 15.2.",
+      "answer": "Based on the search results from the Coherus Biosciences development agreement, the renewal term is as follows:\n\n**The agreement has an initial term of ten (10) years after the First Commercial Sale of the first Licensed Product, and shall thereafter automatically renew for an unlimited period of time unless otherwise terminated in accordance with the termination provisions.**\n\nThis is stated in Section 15.1 (Term) of the agreement."
+    },
+    {
+      "id": "q131",
+      "cat": "cap_on_liability",
+      "verdict": "HIT",
+      "question": "What cap on liability does the Ebixinc branding agreement specify?",
+      "expected": "NEITHER PARTY SHALL HAVE ANY LIABILITY FOR ANY INDIRECT, SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES INCLUDING, WITHOUT THE LIMITATION, LOSS OF PROFIT OR BUSINESS OPPORTUNITIES, WHETHER OR NOT THE PARTY WAS ADVISED OF THE POSSIBILTY OF SUCH.",
+      "evidence": "NEITHER PARTY SHALL HAVE ANY LIABILITY FOR ANY INDIRECT, SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES INCLUDING, WITHOUT THE LIMITATION, LOSS OF PROFIT OR BUSINESS OPPORTUNITIES, WHETHER OR NOT THE PARTY WAS ADVISED OF THE POSSIBILTY OF SUCH.",
+      "answer": "Based on the search results from the **EbixInc Co-Branding Agreement**, Section 14.1 specifies the limitation of liability as follows:\n\n**Neither party shall have any liability for any indirect, special, punitive or consequential damages, including without limitation loss of profit or business opportunities**, whether or not the party was advised of the possibility of such damages.\n\nHowever, the search results show that the specific dollar cap on liability (if one exists) appears to be redacted in the document, as indicated by the note: \"Confidential treatment has been requested for portions of this document. The redacted material has been filed with the commission pursuant to an application for confidential treatment.\"\n\nThe agreement excludes indirect, special, punitive, and consequential damages, but the actual numerical cap on direct liability is not visible in the available excerpts."
+    },
+    {
+      "id": "q156",
+      "cat": "exclusivity",
+      "verdict": "MISS",
+      "question": "What exclusivity provisions does the Hospitalityinvestorstrust,Inc franchise agreement contain?",
+      "expected": "The only reservation service or system you may use for outgoing reservations referred by or from the Hotel to other Network Hotels will be the Reservation Service or other reservation services we designate;",
+      "evidence": "The only reservation service or system you may use for outgoing reservations referred by or from the Hotel to other Network Hotels will be the Reservation Service or other reservation services we designate;",
+      "answer": "Based on my search of the Hospitality Investors Trust, Inc franchise agreement (which is actually a Homewood Suites Franchise LLC agreement), the exclusivity provisions are limited. The agreement does **not** grant the franchisee an exclusive territory. Instead, it contains the following competitive restrictions:\n\n## Key Exclusivity/Competitive Provisions:\n\n**Non-Compete Restriction (Section 5.1.15):**\n- The franchisee must **not become a Competitor**, or permit any Affiliate to become a Competitor, in the **upscale hotel market segment** or any substantially equivalent market segment, as determined by Smith Travel Research (\"STR\") (or STR's successor or other equally reputable industry resource).\n\n**Restrictions on Adjacent Properties (Section 5.1.19):**\n- The franchisee cannot directly or indirectly conduct or permit the marketing or sale of timeshares, vacation ownership, fractional ownership, condominiums or similar schemes at or adjacent to the Hotel.\n- However, this restriction does not prohibit the franchisee from conducting such sales/marketing at adjacent properties they own or lease, provided they do not use the Brand marks or the Hotel's facilities in those efforts.\n\n**Cross-Marketing Restrictions (Section 5.1.13):**\n- The franchisee cannot engage in cross-marketing or cross-promotion of the Hotel with any other hotel or related business without prior written consent from the franchisor.\n- The franchisee must refer guests to System Hotels or Network Hotels wherever reasonably possible.\n\nIn summary, this agreement does **not provide territorial exclusivity** but rather restricts the franchisee from competing in the upscale hotel market segment and from certain adjacent business activities."
+    },
+    {
+      "id": "q165",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which jurisdiction's law governs the Hertzgrouprealtytrustinc trademark license agreement?",
+      "expected": "The provisions of this Agreement shall be governed by and construed in accordance with the laws of the State of California (excluding any conflict of law rule or principle that would refer to the laws of another jurisdiction).",
+      "evidence": "The provisions of this Agreement shall be governed by and construed in accordance with the laws of the State of California (excluding any conflict of law rule or principle that would refer to the laws of another jurisdiction).",
+      "answer": "Based on the search results, the **State of California** governs the Hertzgrouprealtytrustinc trademark license agreement.\n\nSpecifically, Section 4.10 (Governing Law and Jurisdiction) states:\n\n> \"The provisions of this Agreement shall be governed by and construed in accordance with the laws of the State of California (excluding any conflict of law rule or principle that would refer to the laws of another jurisdiction).\"\n\nAdditionally, the agreement specifies that disputes must be brought in the state and federal courts located in California, with federal matters to be brought in the Federal District Court for the Central District of California."
+    },
+    {
+      "id": "q169",
+      "cat": "expiration_date",
+      "verdict": "HIT",
+      "question": "When does the Ideanomicsinc content license agreement expire?",
+      "expected": "The Term of this Agreement (the \"Term\") shall commence on the Effective Date listed above and continue for twenty (20) years, unless sooner terminated as provided in Section 7(b).",
+      "evidence": "The Term of this Agreement (the \"Term\") shall commence on the Effective Date listed above and continue for twenty (20) years, unless sooner terminated as provided in Section 7(b).",
+      "answer": "Based on the search results, the **Ideanomicsinc Content License Agreement** has a term of **twenty (20) years** from the Effective Date. \n\nAccording to Section 7(a) of the agreement:\n\n> \"The Term of this Agreement (the 'Term') shall commence on the Effective Date listed above and continue for twenty (20) years, unless sooner terminated as provided in Section 7(b).\"\n\nThe Effective Date shown in the document is **November 24, 2015**, which means the agreement would expire on **November 24, 2035**, unless it is terminated earlier under the conditions specified in Section 7(b) (insolvency, bankruptcy, assignment for creditors, or material breach not cured within 30 days)."
+    },
+    {
+      "id": "q171",
+      "cat": "anti-assignment",
+      "verdict": "HIT",
+      "question": "What does the Invendacorp branding agreement say about assignment of the agreement?",
+      "expected": "Neither party may assign this Agreement, in whole or in part, without the other party's written consent (which will not be unreasonably withheld), except that no such consent will be required in connection with a merger, reorganization or sale of all, or substantially all, of such party's assets or capital stock.",
+      "evidence": "Neither party may assign this Agreement, in whole or in part, without the other party's written consent (which will not be unreasonably withheld), except that no such consent will be required in connection with a merger, reorganization or sale of all, or substantially all, of such party's assets or capital stock.",
+      "answer": "Based on the Invendacorp branding agreement (specifically the Co-Branding Agreement between InvendaCorp and Excite@Home), here is what it says about assignment:\n\n**Section 22.b - Assignment:**\n\nNeither party may assign the agreement, in whole or in part, without the other party's written consent (which will not be unreasonably withheld). However, there is an exception: **no consent is required in connection with a merger, reorganization, or sale of all or substantially all of a party's assets or capital stock.**\n\nAny attempt to assign the agreement other than as permitted above will be null and void.\n\nIn summary, the agreement restricts assignment but allows it with the other party's reasonable consent, and permits automatic assignment in the context of mergers, reorganizations, or asset/stock sales."
+    },
+    {
+      "id": "q172",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which jurisdiction's law governs the Invendacorp branding agreement?",
+      "expected": "The Agreement will be governed by and construed in accordance with the laws of the State of California, notwithstanding the actual state or country of residence or incorporation of Application Provider.",
+      "evidence": "The Agreement will be governed by and construed in accordance with the laws of the State of California, notwithstanding the actual state or country of residence or incorporation of Application Provider.",
+      "answer": "Based on the search results, the **Invendacorp branding agreement** (specifically the Co-Branding Agreement) is governed by the laws of the **State of California**.\n\nSection 22(a) of the agreement states:\n\n> \"Governing Law. The Agreement will be governed by and construed in accordance with the laws of the State of California, notwithstanding the actual state or country of residence or incorporation of Application Provider.\""
+    },
+    {
+      "id": "q174",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which jurisdiction's law governs the Legacytechnologyholdings,Inc distributor agreement?",
+      "expected": "This Agreement is deemed to have been entered into in the State of Colorado, and its interpretation, construction, and the remedies for its enforcement or breach are to be applied pursuant to and in accordance with the laws of the State of Colorado.",
+      "evidence": "This Agreement is deemed to have been entered into in the State of Colorado, and its interpretation, construction, and the remedies for its enforcement or breach are to be applied pursuant to and in accordance with the laws of the State of Colorado.",
+      "answer": "Based on the search results, the **Legacytechnologyholdings,Inc distributor agreement** is governed by the laws of the **State of Colorado**.\n\nSpecifically, Section 18 (Venue) states:\n\n> \"This Agreement is deemed to have been entered into in the State of Colorado, and its interpretation, construction, and the remedies for its enforcement or breach are to be applied pursuant to and in accordance with the laws of the State of Colorado.\""
+    },
+    {
+      "id": "q175",
+      "cat": "minimum_commitment",
+      "verdict": "MISS",
+      "question": "What minimum commitment does the Legacytechnologyholdings,Inc distributor agreement impose?",
+      "expected": "ENVISION will provide SIERRA with demand projections for the Product and SIERRA will produce enough Product to meet such demand projections.",
+      "evidence": "ENVISION will provide SIERRA with demand projections for the Product and SIERRA will produce enough Product to meet such demand projections.",
+      "answer": "Based on my search of the Legacytechnologyholdings, Inc Distributor Agreement, **the agreement does not specify a minimum commitment in terms of purchase quantity or volume**. \n\nSection 9 (Purchase Requirements) states that \"During the term of this Agreement, ENVISION will exclusively purchase the Product from SIERRA\" and references a purchase price based on \"Sierra Sil's wholesale price list,\" but no minimum purchase amount, order quantity, or sales target is specified.\n\nThe only commitment-related language in the agreement requires ENVISION to use \"best efforts\" to market and sell the Finished Product throughout the Territory (Section 5), and to provide demand projections to SIERRA (Section 6), but these do not constitute a specific minimum purchase commitment."
+    },
+    {
+      "id": "q176",
+      "cat": "exclusivity",
+      "verdict": "HIT",
+      "question": "What exclusivity provisions does the Legacytechnologyholdings,Inc distributor agreement contain?",
+      "expected": "SIERRA shall cease making sales to any customer or distributor who, during the term of this Agreement, violates ENVISION's exclusivity.",
+      "evidence": "SIERRA shall cease making sales to any customer or distributor who, during the term of this Agreement, violates ENVISION's exclusivity.",
+      "answer": "Based on the Legacy Technology Holdings, Inc Distributor Agreement, the exclusivity provisions include:\n\n1. **Exclusive Distributor Appointment** (Section 2): SIERRA appoints ENVISION as its exclusive distributor for the Product (SierraSil) in any blend with Krill Oil within the Territory, subject to ENVISION fulfilling best efforts marketing requirements. SIERRA agrees to cease making sales to any customer or distributor who violates ENVISION's exclusivity during the term.\n\n2. **Worldwide Territory** (Section 3): The exclusive distribution territory is the entire world.\n\n3. **Exclusive Purchase Requirement** (Section 9): During the term of the Agreement, ENVISION will exclusively purchase the Product from SIERRA.\n\n4. **Product Restriction** (Section 4): ENVISION shall not resell the Product alone\u2014it must be in blend with Krill Oil as specified.\n\n5. **Trademark License** (Section 11): ENVISION receives a non-exclusive (not exclusive) and non-royalty bearing license to use the \"SierraSil\" mark, with SIERRA retaining all ownership rights.\n\nThe core exclusivity is that ENVISION has the exclusive right to distribute the Product blended with Krill Oil worldwide, and must exclusively purchase from SIERRA, while SIERRA commits to referring customers interested in the blended product to ENVISION."
+    },
+    {
+      "id": "q177",
+      "cat": "anti-assignment",
+      "verdict": "HIT",
+      "question": "What does the Legacytechnologyholdings,Inc distributor agreement say about assignment of the agreement?",
+      "expected": "Any other assignment by the parties, requires the prior written consent of the other Party.",
+      "evidence": "Any other assignment by the parties, requires the prior written consent of the other Party.",
+      "answer": "Based on the Legacy Technology Holdings, Inc Distributor Agreement, **Section 22 (Assignment)** states:\n\n> \"The parties shall have the right to assign all, or part, of its rights under this Agreement to any wholly owned subsidiary or affiliate without the consent of the other Party. Any other assignment by the parties, requires the prior written consent of the other Party.\"\n\nIn summary, the agreement allows either party to freely assign their rights to wholly owned subsidiaries or affiliates without needing the other party's permission. However, any other type of assignment requires prior written consent from the other party."
+    },
+    {
+      "id": "q203",
+      "cat": "renewal_term",
+      "verdict": "MISS",
+      "question": "What is the renewal term of the Playboyenterprisesinc purchase agreement?",
+      "expected": "This Agreement shall automatically renew for an additional period of three (3) years (such renewal and each subsequent renewal shall be defined as a \"Renewal Term\") provided that EFS achieves Net Merchandise Sales of at least ***** during the fourth year following launch of the first Website.",
+      "evidence": "This Agreement shall automatically renew for an additional period of three (3) years (such renewal and each subsequent renewal shall be defined as a \"Renewal Term\") provided that EFS achieves Net Merchandise Sales of at least ***** during the fourth year following launch of the first Website.",
+      "answer": "I can see the contract is titled \"PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement2\". Based on my search, the document I found appears to be a Supplier/Subcontractor Contract related to Playboy Properties, which does not contain renewal term language.\n\nThe excerpt I retrieved focuses on supplier obligations, intellectual property rights, and manufacturing restrictions rather than renewal or termination terms. The document does not appear to include a renewal term provision.\n\nIf you're looking for a different Playboy Enterprises Inc agreement that specifically addresses renewal terms, please let me know, or I can search for other specific provisions in this agreement."
+    },
+    {
+      "id": "q205",
+      "cat": "agreement_date",
+      "verdict": "MISS",
+      "question": "What is the agreement date of the Playboyenterprisesinc purchase agreement?",
+      "expected": "January 15, 2008",
+      "evidence": "January 15, 2008",
+      "answer": "Based on my search of the Playboy Enterprises Inc purchase agreement, the document shows blank date fields in the Supplier/Subcontractor Contract template (marked as \"Date: ____\"). The contract itself does not contain a specific agreement date filled in. The document was filed with the SEC on 2/20/2009 as part of a 10-Q/A filing, but that is the filing date, not the agreement date. The actual agreement date would need to be filled in by the parties when they execute the contract."
+    },
+    {
+      "id": "q212",
+      "cat": "cap_on_liability",
+      "verdict": "HIT",
+      "question": "What cap on liability does the Revolutionmedicinesinc development agreement specify?",
+      "expected": "NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL, PUNITIVE, OR INDIRECT DAMAGES OR LOST PROFITS ARISING FROM OR RELATING TO ANY BREACH OF THIS AGREEMENT, REGARDLESS OF ANY NOTICE OF THE POSSIBILITY OF SUCH DAMAGES.",
+      "evidence": "NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL, PUNITIVE, OR INDIRECT DAMAGES OR LOST PROFITS ARISING FROM OR RELATING TO ANY BREACH OF THIS AGREEMENT, REGARDLESS OF ANY NOTICE OF THE POSSIBILITY OF SUCH DAMAGES.",
+      "answer": "Based on the search results, the **Revolutionmedicinesinc development agreement** does not specify a monetary cap on liability. Instead, Section 14.5 (Limitation of Liability) states:\n\n**\"NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL, PUNITIVE, OR INDIRECT DAMAGES OR LOST PROFITS ARISING FROM OR RELATING TO ANY BREACH OF THIS AGREEMENT, REGARDLESS OF ANY NOTICE OF THE POSSIBILITY OF SUCH DAMAGES.\"**\n\nHowever, the agreement explicitly carves out exceptions to this limitation. Section 14.5 clarifies that the limitation does **not** apply to:\n- Indemnification rights or obligations under Sections 14.1 or 14.2\n- Damages for breach of confidentiality obligations (Article XI)\n- Damages for breach of intellectual property obligations (Article X)\n\nAdditionally, Section 14.6 notes that insurance maintained by the parties \"shall not be construed to create a limit of either Party's liability with respect to its indemnification obligations.\"\n\nSo rather than a dollar cap, the agreement limits liability by **type of damages** (excluding special, consequential, incidental, punitive, and indirect damages), while preserving full liability for indemnification, confidentiality breaches, and IP breaches."
+    },
+    {
+      "id": "q214",
+      "cat": "term",
+      "verdict": "HIT",
+      "question": "What is the term of the Revolutionmedicinesinc development agreement?",
+      "expected": "The term of this Agreement shall commence upon the Effective Date and, unless earlier terminated pursuant to this Article XII, shall continue in full force and effect until the expiration of Sanofi's payment obligations under Article IX or the Profit/Loss Share Agreement, whichever is later (the \"Term\").",
+      "evidence": "The term of this Agreement shall commence upon the Effective Date and, unless earlier terminated pursuant to this Article XII, shall continue in full force and effect until the expiration of Sanofi's payment obligations under Article IX or the Profit/Loss Share Agreement, whichever is later (the \"Term\").",
+      "answer": "Based on the search results from the RevolutionMedicinesInc Development Agreement, the **term** is defined as follows:\n\n**The term of the Agreement shall commence upon the Effective Date and, unless earlier terminated, shall continue in full force and effect until the expiration of Sanofi's payment obligations under Article IX or the Profit/Loss Share Agreement, whichever is later.**\n\nIn other words, the Agreement runs from the Effective Date until the later of:\n1. The expiration of Sanofi's payment obligations under Article IX, or\n2. The expiration of the Profit/Loss Share Agreement\n\nThe specific Effective Date and the exact duration in years are not shown in these excerpts, but the term is tied to when Sanofi's financial obligations end."
+    },
+    {
+      "id": "q215",
+      "cat": "governing_law",
+      "verdict": "HIT",
+      "question": "Which jurisdiction's law governs the Sandridgeenergyinc operations and maintenance agreement?",
+      "expected": "This Agreement shall be governed by, construed, and enforced in accordance with the laws of the State of Texas, without regard to choice of law principles that would require the application of the laws of any other jurisdiction.",
+      "evidence": "This Agreement shall be governed by, construed, and enforced in accordance with the laws of the State of Texas, without regard to choice of law principles that would require the application of the laws of any other jurisdiction.",
+      "answer": "Based on the search results, the **State of Texas** governs the Sandridge Energy Inc Operations and Maintenance Agreement.\n\nSpecifically, Section 9.5 (Governing Law) states:\n\n> \"This Agreement shall be governed by, construed, and enforced in accordance with the laws of the State of Texas, without regard to choice of law principles that would require the application of the laws of any other jurisdiction.\"\n\nAdditionally, the agreement specifies that disputes shall be resolved in state or federal courts in Houston or Dallas, Texas (Section 9.6.2)."
+    },
+    {
+      "id": "q216",
+      "cat": "anti-assignment",
+      "verdict": "HIT",
+      "question": "What does the Sandridgeenergyinc operations and maintenance agreement say about assignment of the agreement?",
+      "expected": "Operator shall not make any assignment of all or any part of this Agreement or any of the rights or obligations hereunder unless there first shall have been obtained the written consent thereto of Owner, which consent shall not be unreasonably withheld, conditioned, or delayed.",
+      "evidence": "Operator shall not make any assignment of all or any part of this Agreement or any of the rights or obligations hereunder unless there first shall have been obtained the written consent thereto of Owner, which consent shall not be unreasonably withheld, conditioned, or delayed.",
+      "answer": "Based on the Sandridge Energy Inc Operations and Maintenance Agreement, **Section 9.13 (Assignment)** states:\n\n**For the Operator:**\n- The Operator **cannot assign** all or any part of the agreement or any rights or obligations under it **unless the Owner first provides written consent**, which consent **shall not be unreasonably withheld, conditioned, or delayed**.\n\n**For the Owner:**\n- The Owner **can assign** all or any part of the agreement or any rights or obligations under it, but **only in connection with the sale or conveyance of all or any part of the Gathering System**.\n\n**General provision:**\n- The agreement shall be binding upon and inure to the benefit of the successors and assigns of the parties.\n\n**Enforcement:**\n- Any attempted assignment in violation of Section 9.13 shall be **null and void**.\n\nIn summary, the Operator has restricted assignment rights requiring Owner consent (not to be unreasonably withheld), while the Owner has broader assignment rights but only in connection with selling or conveying the Gathering System."
+    },
+    {
+      "id": "q219",
+      "cat": "cap_on_liability",
+      "verdict": "MISS",
+      "question": "What cap on liability does the Scansourceinc distributor agreement2 specify?",
+      "expected": "Customer's sole and exclusive remedy and the entire liability of Cisco and its suppliers and licensors under this limited warranty will be, at Cisco's option, repair, replacement,",
+      "evidence": "Customer's sole and exclusive remedy and the entire liability of Cisco and its suppliers and licensors under this limited warranty will be, at Cisco's option, repair, replacement,",
+      "answer": "Based on the search results from the Scansourceinc distributor agreement2, the liability cap is specified as follows:\n\n**Liability Cap:** In no event shall Cisco's or its suppliers' or licensors' liability to Customer, whether in contract, tort (including negligence), or otherwise, **exceed the price paid by Customer for the Software that gave rise to the claim or if the Software is part of another Product, the price paid for such other Product.**\n\nAdditionally, the agreement includes a **disclaimer of consequential damages**, stating that Cisco and its suppliers will not be liable for any lost revenue, profit, lost or damaged data, or for special, indirect, consequential, incidental, or punitive damages, however caused and regardless of the theory of liability."
+    },
+    {
+      "id": "q220",
+      "cat": "anti-assignment",
+      "verdict": "HIT",
+      "question": "What does the Scansourceinc distributor agreement2 say about assignment of the agreement?",
+      "expected": "Except as otherwise expressly provided under this Agreement, Customer shall have no right, and Customer specifically agrees not to: (i) transfer, assign or sublicense its license rights to any other person or entity, or use the Software on unauthorized or secondhand Cisco equipment, and Customer acknowledges that any attempted transfer, assignment, sublicense or use shall be void;",
+      "evidence": "Except as otherwise expressly provided under this Agreement, Customer shall have no right, and Customer specifically agrees not to: (i) transfer, assign or sublicense its license rights to any other person or entity, or use the Software on unauthorized or secondhand Cisco equipment, and Customer acknowledges that any attempted transfer, assignment, sublicense or use shall be void;",
+      "answer": "Based on the search results from the **Scansourceinc distributor agreement2**, the agreement contains a **Software License Agreement (Exhibit C)** that addresses assignment restrictions. Here's what it says:\n\n**Assignment Prohibition:**\n\nUnder the \"General Limitations\" section, the agreement explicitly states that the Customer:\n\n> \"shall have no right, and Customer specifically agrees not to: **(i) transfer, assign or sublicense its license rights to any other person or entity**, or use the Software on unauthorized or secondhand Cisco equipment, and Customer acknowledges that **any attempted transfer, assignment, sublicense or use shall be void**.\"\n\nIn other words, the agreement **prohibits assignment** of the software license. The license is **nontransferable**, and any attempt to transfer, assign, or sublicense the rights is explicitly declared void. This restriction applies to the Cisco software covered under this license agreement."
+    },
+    {
+      "id": "q221",
+      "cat": "term",
+      "verdict": "HIT",
+      "question": "What is the term of the Scansourceinc distributor agreement2?",
+      "expected": "This Agreement and the license granted herein shall remain effective until terminated.",
+      "evidence": "This Agreement and the license granted herein shall remain effective until terminated.",
+      "answer": "Based on the search results from the **Scansourceinc Distributor Agreement2**, the term section states:\n\n**\"This Agreement and the license granted herein shall remain effective until terminated.\"**\n\nThe agreement does not specify a fixed term duration. Instead, it provides that:\n- The Customer may terminate the agreement at any time by destroying all copies of the Software and Documentation\n- The Customer's rights will terminate immediately without notice if they fail to comply with any provision of the agreement\n- Upon termination, the Customer must destroy all copies of the Software and Documentation\n\nSo this is an **indefinite/at-will agreement** rather than one with a specific fixed term length."
+    },
+    {
+      "id": "q222",
+      "cat": "expiration_date",
+      "verdict": "HIT",
+      "question": "When does the Soupmaninc franchise agreement expire?",
+      "expected": "The initial term of this Agreement shall commence upon the Effective Date and shall expire ten (10) years from the Effective Date, unless sooner terminated under the terms of this Agreement.",
+      "evidence": "The initial term of this Agreement shall commence upon the Effective Date and shall expire ten (10) years from the Effective Date, unless sooner terminated under the terms of this Agreement.",
+      "answer": "Based on the Soupman Inc franchise agreement, the initial term **expires ten (10) years from the Effective Date**. \n\nThe agreement also provides renewal options: you have the option to renew for four (4) additional ten (10) year terms, provided you give written notice to Soupman Inc not less than six (6) months nor more than twelve (12) months prior to the scheduled expiration date, and you meet certain conditions (no defaults, all monetary obligations satisfied, etc.).\n\nTo determine the specific calendar date of expiration, you would need to know the Effective Date of the agreement, which is not shown in the search results. Do you have the Effective Date?"
+    },
+    {
+      "id": "q227",
+      "cat": "termination_for_convenience",
+      "verdict": "MISS",
+      "question": "Can the Theravancebiopharma,Inc service agreement be terminated for convenience, and how?",
+      "expected": "The Company may, in its sole and absolute discretion, terminate the Executive's employment under this Agreement at any time and with immediate effect by notifying the Executive that the Company is exercising its right under this clause 17 and that it will make a payment in l ieu of not ice (\"PILON\") to the Executive.",
+      "evidence": "The Company may, in its sole and absolute discretion, terminate the Executive's employment under this Agreement at any time and with immediate effect by notifying the Executive that the Company is exercising its right under this clause 17 and that it will make a payment in l ieu of not ice (\"PILON\") to the Executive.",
+      "answer": "Based on the search results from the **Theravancebiopharma, Inc Service Agreement**, yes, the agreement **can be terminated for convenience**.\n\n**How termination for convenience works:**\n\nAccording to **Section 2.1 (Term of Employment)**, either party can terminate the employment by giving the other party:\n\n- **6 weeks' minimum advance written notice**, or\n- **Such other longer period as required by law**\n\nThis is a straightforward termination for convenience provision that allows either the Company or the Executive to end the employment relationship without cause, provided they give the required notice period."
+    },
+    {
+      "id": "q232",
+      "cat": "expiration_date",
+      "verdict": "HIT",
+      "question": "When does the Truenorthenergycorp development agreement expire?",
+      "expected": "Except as provided in Sections 6.2, 6.3, 6.4, and 6.5, this Agreement shall terminate one (1) year from the Rig Release Date, if such has not been terminated sooner pursuant to the provisions hereof.",
+      "evidence": "Except as provided in Sections 6.2, 6.3, 6.4, and 6.5, this Agreement shall terminate one (1) year from the Rig Release Date, if such has not been terminated sooner pursuant to the provisions hereof.",
+      "answer": "Based on the search results from the **Truenorthenergycorp Development Agreement** (dated February 8, 2007), the expiration terms are as follows:\n\n**Primary Expiration Rule (Section 6.1):**\nThe Agreement shall terminate **one (1) year from the Rig Release Date**, unless terminated sooner under other provisions.\n\n**However, there are important exceptions:**\n\n1. **Section 6.2**: If the Initial Well is drilled to the Objective Zone and successfully completed as a well capable of producing oil and/or gas in paying quantities, the Agreement shall continue **for so long as the Operating Agreement remains in full force and effect** (i.e., it does not expire after one year).\n\n2. **Section 6.3**: If the Company participates in drilling a Substitute Well, the Agreement shall remain in full force and effect **for so long as Company participates in the drilling of a Substitute Well**.\n\nSo the specific expiration date depends on whether the Initial Well is successfully completed as a producing well and whether substitute wells are drilled. Without knowing the Rig Release Date or the status of the wells, the base expiration would be one year from when the rig was released."
+    }
+  ]
+}

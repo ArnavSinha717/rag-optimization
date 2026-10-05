@@ -78,5 +78,19 @@
     "context_precision": 0.6346702316814468,
     "faithfulness_answered_only": 0.8502252252252253,
     "refusal_rate": 0.18518518518518523
+  },
+  "ragas_v10_hyde": {
+    "variant_id": "ragas_v10_hyde",
+    "n_questions": 189,
+    "retrieval": "hyde+rerank",
+    "generator": "qwen2.5:7b (concise)",
+    "judge": "qwen2.5:7b",
+    "context_recall": 0.8042328042328042,
+    "faithfulness": 0.7292792792792794,
+    "answer_relevancy": 0.7310373794224689,
+    "answer_correctness": 0.5298544546017461,
+    "context_precision": 0.6404255318644533,
+    "faithfulness_answered_only": 0.8527777777777777,
+    "refusal_rate": 0.18518518518518523
   }
 }

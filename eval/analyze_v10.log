@@ -1,0 +1,198 @@
+rag_lib loaded: Gemini + Mongo (3088 chunks) + S3 ready. 67 eval questions.
+========================================================================
+BOOTSTRAP 95% CIs  (n=189, 10k resamples)
+========================================================================
+config                    MRR          95% CI   rec@5          95% CI
+vector_rerank           0.691  [0.633,0.748]   0.815  [0.757,0.868]
+vector_rerank_k10       0.699  [0.642,0.755]   0.815  [0.757,0.868]
+vector_only_k5          0.638  [0.577,0.698]   0.799  [0.741,0.857]
+hybrid_rerank           0.682  [0.623,0.740]   0.810  [0.751,0.862]
+vector_rerank_k3        0.684  [0.624,0.743]   0.783  [0.725,0.841]
+bm25_rerank             0.530  [0.463,0.597]   0.619  [0.550,0.688]
+bm25_only               0.382  [0.319,0.448]   0.487  [0.418,0.561]
+
+========================================================================
+PAIRED BOOTSTRAP vs champion (vector_rerank): MRR difference
+CI excludes 0  => real difference.  CI includes 0 => statistical tie.
+========================================================================
+config                    dMRR        naive 95% CI      clustered 95% CI   verdict
+vector_rerank_k10       -0.008  [-0.013,-0.004]   [-0.013,-0.004]        tie
+vector_only_k5          +0.053  [+0.001,+0.109]   [-0.004,+0.111]       REAL
+hybrid_rerank           +0.009  [-0.009,+0.029]   [-0.009,+0.030]        tie
+vector_rerank_k3        +0.007  [+0.002,+0.013]   [+0.002,+0.013]       REAL
+bm25_rerank             +0.161  [+0.104,+0.221]   [+0.105,+0.220]       REAL
+bm25_only               +0.309  [+0.244,+0.377]   [+0.240,+0.376]       REAL
+
+========================================================================
+PER-CATEGORY rec@5 (champion vector_rerank)
+========================================================================
+  governing_law          n= 28  rec@5=0.750  rec@1=0.464
+  factual                n= 16  rec@5=1.000  rec@1=0.938
+  parties                n= 16  rec@5=1.000  rec@1=1.000
+  expiration_date        n= 14  rec@5=0.714  rec@1=0.500
+  agreement_date         n= 14  rec@5=0.857  rec@1=0.786
+  effective_date         n= 10  rec@5=1.000  rec@1=0.600
+  license_grant          n=  9  rec@5=1.000  rec@1=0.667
+  payment_terms          n=  9  rec@5=1.000  rec@1=0.778
+  anti-assignment        n=  9  rec@5=0.556  rec@1=0.222
+  renewal_term           n=  8  rec@5=0.750  rec@1=0.625
+  termination_for_convenience n=  8  rec@5=0.750  rec@1=0.375
+  exclusivity            n=  7  rec@5=0.714  rec@1=0.429
+  term                   n=  7  rec@5=0.571  rec@1=0.143
+  cap_on_liability       n=  7  rec@5=0.429  rec@1=0.286
+  termination            n=  5  rec@5=1.000  rec@1=0.800
+  definitional           n=  4  rec@5=0.750  rec@1=0.500
+  revenue/profit_sharing n=  4  rec@5=0.750  rec@1=0.500
+  minimum_commitment     n=  4  rec@5=0.750  rec@1=0.500
+
+========================================================================
+CHAMPION MISSES — candidate-pool diagnosis
+(pool_rank = rank of evidence chunk in top-20 VECTOR candidates;
+ None => retrieval-bound (reranker cannot help); a number => rerank-bound)
+========================================================================
+total champion misses: 35/189
+  retrieval-bound (evidence NOT in top-20 pool): 11
+  rerank-bound (in pool but reranker dropped it): 24
+
+[q02] governing_law pool_rank=10
+   Q: Which state's law governs the Newegg-Allied sponsorship agreement
+   evidence: this Agreement shall be governed by and construed in accordance with the la
+
+[q15] definitional pool_rank=None
+   Q: What does 'NCM' stand for in the network affiliate agreement?
+   evidence: National CineMedia, LLC (“NCM”)
+
+[q24] governing_law pool_rank=8
+   Q: Which state's law governs the TUBE Music Network / Tribune Broadc
+   evidence: this Agreement and all matters or issues collateral thereto shall be govern
+
+[q104] non-compete pool_rank=7
+   Q: What non-compete restrictions does the Aimmunetherapeuticsinc dev
+   evidence: Aimmune covenants that it will not research or develop (including Develop) 
+
+[q105] term pool_rank=6
+   Q: What is the term of the Aimmunetherapeuticsinc development agreem
+   evidence: This Agreement shall become effective on the Effective Date and, unless ear
+
+[q107] cap_on_liability pool_rank=2
+   Q: What cap on liability does the Aimmunetherapeuticsinc development
+   evidence: NEITHER PARTY SHALL BE LIABLE TO THE OTHER PARTY FOR ANY LOST PROFITS, OR A
+
+[q108] non-compete pool_rank=4
+   Q: What non-compete restrictions does the Array Biopharma Inc. licen
+   evidence: Array shall not conduct Clinical Studies for a Product in the Ono Territory
+
+[q109] termination_for_convenience pool_rank=2
+   Q: Can the Array Biopharma Inc. license, development and commerciali
+   evidence: Commencing on the later of (i) [ * ] of the First Commercial Sale of the Bi
+
+[q110] governing_law pool_rank=None
+   Q: Which jurisdiction's law governs the Array Biopharma Inc. license
+   evidence: This Agreement and all questions regarding its validity or interpretation, 
+
+[q111] revenue/profit_sharing pool_rank=4
+   Q: What revenue or profit sharing terms does the Array Biopharma Inc
+   evidence: During the term of this Agreement, Ono shall pay to Array, on a quarterly b
+
+[q116] agreement_date pool_rank=None
+   Q: What is the agreement date of the Bellringbrandsinc manufacturing
+   evidence: October 1, 2018
+
+[q119] expiration_date pool_rank=19
+   Q: When does the Bellringbrandsinc manufacturing agreement3 expire?
+   evidence: This Second Amendment shall be effective from The Second Amendment Effectiv
+
+[q124] renewal_term pool_rank=4
+   Q: What is the renewal term of the Coherusbiosciencesinc development
+   evidence: Except as otherwise specified in this Agreement, the Parties' respective ri
+
+[q131] cap_on_liability pool_rank=19
+   Q: What cap on liability does the Ebixinc branding agreement specify
+   evidence: NEITHER PARTY SHALL HAVE ANY LIABILITY FOR ANY INDIRECT, SPECIAL, PUNITIVE 
+
+[q156] exclusivity pool_rank=16
+   Q: What exclusivity provisions does the Hospitalityinvestorstrust,In
+   evidence: The only reservation service or system you may use for outgoing reservation
+
+[q165] governing_law pool_rank=8
+   Q: Which jurisdiction's law governs the Hertzgrouprealtytrustinc tra
+   evidence: The provisions of this Agreement shall be governed by and construed in acco
+
+[q169] expiration_date pool_rank=14
+   Q: When does the Ideanomicsinc content license agreement expire?
+   evidence: The Term of this Agreement (the "Term") shall commence on the Effective Dat
+
+[q171] anti-assignment pool_rank=3
+   Q: What does the Invendacorp branding agreement say about assignment
+   evidence: Neither party may assign this Agreement, in whole or in part, without the o
+
+[q172] governing_law pool_rank=None
+   Q: Which jurisdiction's law governs the Invendacorp branding agreeme
+   evidence: The Agreement will be governed by and construed in accordance with the laws
+
+[q174] governing_law pool_rank=None
+   Q: Which jurisdiction's law governs the Legacytechnologyholdings,Inc
+   evidence: This Agreement is deemed to have been entered into in the State of Colorado
+
+[q175] minimum_commitment pool_rank=None
+   Q: What minimum commitment does the Legacytechnologyholdings,Inc dis
+   evidence: ENVISION will provide SIERRA with demand projections for the Product and SI
+
+[q176] exclusivity pool_rank=10
+   Q: What exclusivity provisions does the Legacytechnologyholdings,Inc
+   evidence: SIERRA shall cease making sales to any customer or distributor who, during 
+
+[q177] anti-assignment pool_rank=1
+   Q: What does the Legacytechnologyholdings,Inc distributor agreement 
+   evidence: Any other assignment by the parties, requires the prior written consent of 
+
+[q203] renewal_term pool_rank=None
+   Q: What is the renewal term of the Playboyenterprisesinc purchase ag
+   evidence: This Agreement shall automatically renew for an additional period of three 
+
+[q205] agreement_date pool_rank=8
+   Q: What is the agreement date of the Playboyenterprisesinc purchase 
+   evidence: January 15, 2008
+
+[q212] cap_on_liability pool_rank=3
+   Q: What cap on liability does the Revolutionmedicinesinc development
+   evidence: NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY SPECIAL, CONSEQUENTIAL, 
+
+[q214] term pool_rank=18
+   Q: What is the term of the Revolutionmedicinesinc development agreem
+   evidence: The term of this Agreement shall commence upon the Effective Date and, unle
+
+[q215] governing_law pool_rank=4
+   Q: Which jurisdiction's law governs the Sandridgeenergyinc operation
+   evidence: This Agreement shall be governed by, construed, and enforced in accordance 
+
+[q216] anti-assignment pool_rank=4
+   Q: What does the Sandridgeenergyinc operations and maintenance agree
+   evidence: Operator shall not make any assignment of all or any part of this Agreement
+
+[q219] cap_on_liability pool_rank=6
+   Q: What cap on liability does the Scansourceinc distributor agreemen
+   evidence: Customer's sole and exclusive remedy and the entire liability of Cisco and 
+
+[q220] anti-assignment pool_rank=None
+   Q: What does the Scansourceinc distributor agreement2 say about assi
+   evidence: Except as otherwise expressly provided under this Agreement, Customer shall
+
+[q221] term pool_rank=5
+   Q: What is the term of the Scansourceinc distributor agreement2?
+   evidence: This Agreement and the license granted herein shall remain effective until 
+
+[q222] expiration_date pool_rank=None
+   Q: When does the Soupmaninc franchise agreement expire?
+   evidence: The initial term of this Agreement shall commence upon the Effective Date a
+
+[q227] termination_for_convenience pool_rank=None
+   Q: Can the Theravancebiopharma,Inc service agreement be terminated f
+   evidence: The Company may, in its sole and absolute discretion, terminate the Executi
+
+[q232] expiration_date pool_rank=None
+   Q: When does the Truenorthenergycorp development agreement expire?
+   evidence: Except as provided in Sections 6.2, 6.3, 6.4, and 6.5, this Agreement shall
+
+
+saved 35 misses to champion_misses_v10.json
